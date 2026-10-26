@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "NE Brasil",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T04:39:09-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 5
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114567574469972265",
+            "text": "Viu pq vcs perderam? Preconceituoso e ignorante! F*d*- se vc. O NE mais uma vez salvou o Brasil do fascismo! Resolvemos a eleição.\nE vc? é só um ferrado! e eu nao!",
+            "author_username": "fhasmann",
+            "author_name": "fhasmann",
+            "created_at": "2026-10-26T03:59:00+00:00",
+            "permalink": "https://nitter.netbub.com/fhasmann/status/2114567574469972265#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114555583449661524",
+            "text": "Quem ganha em Minas, ganha no Brasil né @nikolas_dm \n\nLula é gigante ❤️\nOBRIGADA JANONES",
+            "author_username": "ochanferreira1",
+            "author_name": "ochanferreira1",
+            "created_at": "2026-10-26T03:11:00+00:00",
+            "permalink": "https://nitter.netbub.com/ochanferreira1/status/2114555583449661524#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114554786548785413",
+            "text": "Quem ganha em Minas, ganha no Brasil né @nikolas_dm",
+            "author_username": "ochanferreira1",
+            "author_name": "ochanferreira1",
+            "created_at": "2026-10-26T03:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/ochanferreira1/status/2114554786548785413#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114517759501422700",
+            "text": "@nikolas_dm \n\nBrasil tá liberado compra de votos e crime eleitoral né.",
+            "author_username": "RagePlayOficial",
+            "author_name": "RagePlayOficial",
+            "created_at": "2026-10-26T00:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/RagePlayOficial/status/2114517759501422700#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114511608437428691",
+            "text": "Parabéns, mais uma vez seu advogado trabalhou bem né @Cristianozaninm ???\n\nO BRASIL HOJE MUDA DE NOME\n\nREPÚBLICA COMUNISTA DA CORRUPÇÃO LULISTA NO BRASIL!!!",
+            "author_username": "litierysantos",
+            "author_name": "litierysantos",
+            "created_at": "2026-10-26T00:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/litierysantos/status/2114511608437428691#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114469360215420967",
+            "text": "Brasil inteiro com urnas fechadas, só o Nordeste com urnas abertas. Que coincidência né?",
+            "author_username": "jeannkarlos_fla",
+            "author_name": "jeannkarlos_fla",
+            "created_at": "2026-10-25T21:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/jeannkarlos_fla/status/2114469360215420967#m",
+            "metrics": {
+              "like_count": 34,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114465822236151977",
+            "text": "AUMENTOU PQ NAS REGIOES DO NORDESTE TAVA SEM TRANSPORTE PUBLICO PRA IR VOTAR, DAI SOLICITARAM PRA AUMENTAR STF NA CANETADA FEZ PRA TODO BRASIL E ISSO É BOM E RUIM NE, BOM PRO PESSOAL QUE NN CONSEGUIU VOTAR E RUIM PQ JA TINHA COMEÇADO A APURAÇÃO",
+            "author_username": "EuGabrielEu9",
+            "author_name": "EuGabrielEu9",
+            "created_at": "2026-10-25T21:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/EuGabrielEu9/status/2114465822236151977#m",
+            "metrics": {
+              "like_count": 110,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114427495478898709",
+            "text": "Amor que fala, né? 🥹💜 \nNossos meninos curtindo o Brasil, colecionando sorrisos e memórias especiais. \nO Brasil combina com vocês! 🇧🇷🤍\n\n#BoatOat\n#THUR\n#OatPasakorn\n#BoatYongyut",
+            "author_username": "Lili_BoatOat",
+            "author_name": "Lili_BoatOat",
+            "created_at": "2026-10-25T18:42:00+00:00",
+            "permalink": "https://nitter.netbub.com/Lili_BoatOat/status/2114427495478898709#m",
+            "metrics": {
+              "like_count": 242,
+              "reply_count": 1,
+              "retweet_count": 2,
+              "quote_count": 13
+            }
+          },
+          {
+            "id": "2114415872328491454",
+            "text": "Ali no jd Europa ne? Ela é gente boa. Tem lugar no centro que vc nem entra se tiver com a camisa do Brasil.",
+            "author_username": "carlaoverdao",
+            "author_name": "carlaoverdao",
+            "created_at": "2026-10-25T17:56:00+00:00",
+            "permalink": "https://nitter.netbub.com/carlaoverdao/status/2114415872328491454#m",
+            "metrics": {
+              "like_count": 174,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114385460210590095",
+            "text": "É hoje que o Brasil vai regredir 7 anos, ne?!\n\nEspero que seja pra essa época aqui...🇧🇷\n\n@sensoinc \n@r_nog \n@filgmartin \nTaiguara",
+            "author_username": "Grasi_Rodrigues",
+            "author_name": "Grasi_Rodrigues",
+            "created_at": "2026-10-25T15:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/Grasi_Rodrigues/status/2114385460210590095#m",
+            "metrics": {
+              "like_count": 484,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 22
+            }
+          },
+          {
+            "id": "2114362472308109777",
+            "text": "🇧🇷❤️ COMPANHEIROS E COMPANHEIRAS, JÁ PREPARARAM O LOOK DA VITÓRIA? ⭐️\n\nHoje é dia de fazer história! Tenho fé, esperança e a certeza de que viveremos um momento inesquecível com a vitória do PRESIDENTE LULA! ❤️\n\nSe você ainda não votou, levante-se, vista a sua melhor roupa e vá às urnas! Cada voto importa, cada voto faz a diferença e cada voto é uma oportunidade de construir o Brasil que queremos!\n\nVAI SER LINDO! VAI SER HISTÓRICO! VAI SER 13! 🇧🇷⭐️\n\nVocê não vai querer ficar de fora desse momento histórico, né? Então, bora votar! O Brasil precisa de nós! ❤️\n\n#Lula \n#FandomsComLula\n#LulaPresidente\n#HojeEuVotoLula\n#EuVotoFazendoL",
+            "author_username": "ladygagasbrasil",
+            "author_name": "ladygagasbrasil",
+            "created_at": "2026-10-25T14:24:00+00:00",
+            "permalink": "https://nitter.netbub.com/ladygagasbrasil/status/2114362472308109777#m",
+            "metrics": {
+              "like_count": 990,
+              "reply_count": 1,
+              "retweet_count": 22,
+              "quote_count": 63
+            }
+          },
+          {
+            "id": "2114284623056212343",
+            "text": "Voos atrasados e do nordeste ?\nProibição de transportes do deslocamento dos indigenas \n\nMeu Deus...  #Brasil observe isso \n#Eleicoes2026  a mídia nem tá falando ... a memória midiatica é seletiva ne ?!",
+            "author_username": "Ly_gleyce",
+            "author_name": "Ly_gleyce",
+            "created_at": "2026-10-25T09:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/Ly_gleyce/status/2114284623056212343#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114144338565284181",
+            "text": "O Brasil tá quebrado,né @luciano_hang?😂\nMinha cidade Londrina tá ganhando uma HAVAN de 1⁰ mundo!❤️\nObrigado,Véi!🤗\ngmconline.com.br/noticias/pa…",
+            "author_username": "bda95485",
+            "author_name": "bda95485",
+            "created_at": "2026-10-24T23:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bda95485/status/2114144338565284181#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114133639101329699",
+            "text": "Você só pode estar de sacanagem né um cara que perdeu a copa do Brasil para chapecoense perdeu a sul-americana de 6 a 1 para o Cienciano e você vem falar dele?",
+            "author_username": "ConexaoRadarEsp",
+            "author_name": "ConexaoRadarEsp",
+            "created_at": "2026-10-24T23:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ConexaoRadarEsp/status/2114133639101329699#m",
+            "metrics": {
+              "like_count": 308,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114107839732220328",
+            "text": "Responsável pelas 10 cidades+ violentas do Brasil ser no NE que é o reduto eleitoral dele,81% das famílias endividadas,+ de 1 milhão de analfabetos na Bahia em pleno 2026 sendo o PT estando há 20 anos governamdo a Bahia,estado esse tomado por facções e barricadas, parabéns pela +",
+            "author_username": "SoaresClevis",
+            "author_name": "SoaresClevis",
+            "created_at": "2026-10-24T21:32:00+00:00",
+            "permalink": "https://nitter.mie.foundation/SoaresClevis/status/2114107839732220328#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114066998858588545",
+            "text": "Casebre mais fodido que o meu em xique xique Saracuruna com bandeira de Bolsonaro e do Brasil kkkkkk vsf mlk BxD a q custo né kokkkkk",
+            "author_username": "doidodecaxias",
+            "author_name": "doidodecaxias",
+            "created_at": "2026-10-24T18:50:00+00:00",
+            "permalink": "https://nitter.mie.foundation/doidodecaxias/status/2114066998858588545#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114517759501422700",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114517759501422700",
+      "collected_at": "2026-10-26T04:39:09-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114517759501422700",
+        "text": "@nikolas_dm \n\nBrasil tá liberado compra de votos e crime eleitoral né.",
+        "author_username": "RagePlayOficial",
+        "author_name": "RagePlayOficial",
+        "created_at": "2026-10-26T00:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/RagePlayOficial/status/2114517759501422700#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114511608437428691",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511608437428691",
+      "collected_at": "2026-10-26T04:39:09-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114511608437428691",
+        "text": "Parabéns, mais uma vez seu advogado trabalhou bem né @Cristianozaninm ???\n\nO BRASIL HOJE MUDA DE NOME\n\nREPÚBLICA COMUNISTA DA CORRUPÇÃO LULISTA NO BRASIL!!!",
+        "author_username": "litierysantos",
+        "author_name": "litierysantos",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/litierysantos/status/2114511608437428691#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114427495478898709",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114427495478898709",
+      "collected_at": "2026-10-26T04:39:09-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114427495478898709",
+        "text": "Amor que fala, né? 🥹💜 \nNossos meninos curtindo o Brasil, colecionando sorrisos e memórias especiais. \nO Brasil combina com vocês! 🇧🇷🤍\n\n#BoatOat\n#THUR\n#OatPasakorn\n#BoatYongyut",
+        "author_username": "Lili_BoatOat",
+        "author_name": "Lili_BoatOat",
+        "created_at": "2026-10-25T18:42:00+00:00",
+        "permalink": "https://nitter.netbub.com/Lili_BoatOat/status/2114427495478898709#m",
+        "metrics": {
+          "like_count": 242,
+          "reply_count": 1,
+          "retweet_count": 2,
+          "quote_count": 13
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114415872328491454",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114415872328491454",
+      "collected_at": "2026-10-26T04:39:09-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114415872328491454",
+        "text": "Ali no jd Europa ne? Ela é gente boa. Tem lugar no centro que vc nem entra se tiver com a camisa do Brasil.",
+        "author_username": "carlaoverdao",
+        "author_name": "carlaoverdao",
+        "created_at": "2026-10-25T17:56:00+00:00",
+        "permalink": "https://nitter.netbub.com/carlaoverdao/status/2114415872328491454#m",
+        "metrics": {
+          "like_count": 174,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}
