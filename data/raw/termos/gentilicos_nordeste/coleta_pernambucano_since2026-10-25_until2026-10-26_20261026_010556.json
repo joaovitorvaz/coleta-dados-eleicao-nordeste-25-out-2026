@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "pernambucano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T01:05:56-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114553383444984056",
+            "text": "O maior brasileiro da história é pernambucano",
+            "author_username": "silviosoaress",
+            "author_name": "silviosoaress",
+            "created_at": "2026-10-26T03:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/silviosoaress/status/2114553383444984056#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114520842323259623",
+            "text": "O Nordeste e principalmente Pernambucano carregou Lula nas costas.",
+            "author_username": "Alexand84180244",
+            "author_name": "Alexand84180244",
+            "created_at": "2026-10-26T00:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Alexand84180244/status/2114520842323259623#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114512413840007503",
+            "text": "Temos o nosso Roosevelt!\nEle é barbudo, veio do sertão pernambucano e fez uma virada histórica!\nÉ LULA!\nÉ TETRA!\n⭐️⭐️⭐️⭐️",
+            "author_username": "renanvermelhou",
+            "author_name": "renanvermelhou",
+            "created_at": "2026-10-26T00:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2114512413840007503#m",
+            "metrics": {
+              "like_count": 167,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114395992456065094",
+            "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+            "author_username": "PsicoLeilaCosta",
+            "author_name": "PsicoLeilaCosta",
+            "created_at": "2026-10-25T16:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114520842323259623",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114520842323259623",
+      "collected_at": "2026-10-26T01:05:56-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "pernambucano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114520842323259623",
+        "text": "O Nordeste e principalmente Pernambucano carregou Lula nas costas.",
+        "author_username": "Alexand84180244",
+        "author_name": "Alexand84180244",
+        "created_at": "2026-10-26T00:53:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Alexand84180244/status/2114520842323259623#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114512413840007503",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512413840007503",
+      "collected_at": "2026-10-26T01:05:56-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "pernambucano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114512413840007503",
+        "text": "Temos o nosso Roosevelt!\nEle é barbudo, veio do sertão pernambucano e fez uma virada histórica!\nÉ LULA!\nÉ TETRA!\n⭐️⭐️⭐️⭐️",
+        "author_username": "renanvermelhou",
+        "author_name": "renanvermelhou",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/renanvermelhou/status/2114512413840007503#m",
+        "metrics": {
+          "like_count": 167,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 9
+        }
+      }
+    }
+  ],
+  "comments": []
+}
