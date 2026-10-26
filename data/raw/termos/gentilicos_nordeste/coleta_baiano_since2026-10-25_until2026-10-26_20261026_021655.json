@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T02:16:55-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 3,
+      "comments": 1,
+      "records_total": 4,
+      "skipped_duplicate": 12
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114556021163053337",
+            "text": "Foi patético o discurso da derrota de Flávio. Surpresa? Nenhuma. Tava na cara que não iria aceitar. Mas, colocar o STF no meio? As 2 coligações pediram prorrogação do horários das urnas. Então, o choro dele é de que? Kkk\nVai chorar na cabeça da minha pica, seu fuleiro do caralho!",
+            "author_username": "bichobichano",
+            "author_name": "bichobichano",
+            "created_at": "2026-10-26T03:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bichobichano/status/2114556021163053337#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114530473368043688",
+            "text": "Orgulho de ser baiano",
+            "author_username": "AlanBergmanndj",
+            "author_name": "AlanBergmanndj",
+            "created_at": "2026-10-26T01:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114530473368043688#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114527460888887784",
+            "text": "Povo baiano em festa",
+            "author_username": "josenilsoncruz",
+            "author_name": "josenilsoncruz",
+            "created_at": "2026-10-26T01:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/josenilsoncruz/status/2114527460888887784#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114506255863853432",
+            "text": "Baiano fdp que vive em Petrolina Pernambuco, bate em minha aposta daqui a uns dias pedindo ajuda, e espero que seja em uma hora que não tenha ninguém na rua.  \n\nBoa noite.",
+            "author_username": "Davyd29952730",
+            "author_name": "Davyd29952730",
+            "created_at": "2026-10-25T23:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114506255863853432#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114487840478519615",
+            "text": "É inacreditável isso, \nOlha não sou Bahia,sou baiano, Buliu com um, buliu comigo.\nNeymar foi desrespeitoso com meu estado.",
+            "author_username": "EloNairo",
+            "author_name": "EloNairo",
+            "created_at": "2026-10-25T22:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/EloNairo/status/2114487840478519615#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114436926929293808",
+            "text": "DEIXA A DENÚNCIA DO ELEITOR EM CAMAÇARI NA BAHIA \n\nDenúncia com vídeo \nCadê o TRE baiano?\nELES PENSAM QUE LÁ É O PT MANDA",
+            "author_username": "DivinoAlvesdeP1",
+            "author_name": "DivinoAlvesdeP1",
+            "created_at": "2026-10-25T19:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114436926929293808#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114422144398414232",
+            "text": "Eu? Um idiota, analfabeto, baiano, petista e puxa saco de famoso? Tô fora.",
+            "author_username": "mpauloep",
+            "author_name": "mpauloep",
+            "created_at": "2026-10-25T18:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mpauloep/status/2114422144398414232#m",
+            "metrics": {
+              "like_count": 120,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114419521549205570",
+            "text": "PT DA BAHIA \nJUNTAMENTE COM SINDICATO \nEncheram os ônibus de adesivo do Lula 13 \nE o que mais iria acontecer será \nE agora o presidente do TRE baiano manda prenderam o atual secretário de transporte \n\nEste é mais um retrato do PT \nDo governo do PT no Brasi\n FORA PT \nFora Lula \nVota em Flávio 22",
+            "author_username": "DivinoAlvesdeP1",
+            "author_name": "DivinoAlvesdeP1",
+            "created_at": "2026-10-25T18:11:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114419521549205570#m",
+            "metrics": {
+              "like_count": 139,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114409109680165141",
+            "text": "Sou candomblecista sou baiano e voto 22 sou da direita nunca fui de esquerda...",
+            "author_username": "Kito1Kareca",
+            "author_name": "Kito1Kareca",
+            "created_at": "2026-10-25T17:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Kito1Kareca/status/2114409109680165141#m",
+            "metrics": {
+              "like_count": 188,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 9
+            }
+          },
+          {
+            "id": "2114405578088890832",
+            "text": "O Peter Pan baiano, vulgo ACMaster, conhecerá a Terra do Nunca em 2028. Nunca mais mais ganhará em Salvador!",
+            "author_username": "MidhyanL",
+            "author_name": "MidhyanL",
+            "created_at": "2026-10-25T17:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MidhyanL/status/2114405578088890832#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114402131931173358",
+            "text": "Baiano vota onde, em Pernambuco? \nTodo mundo com um QI acima de 01, escolhe uma sessão eleitoral PERTO DE CASA, NÉ?",
+            "author_username": "BoschettiS21593",
+            "author_name": "BoschettiS21593",
+            "created_at": "2026-10-25T17:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/BoschettiS21593/status/2114402131931173358#m",
+            "metrics": {
+              "like_count": 216,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114401639821951241",
+            "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+            "author_username": "PataxoThyara",
+            "author_name": "PataxoThyara",
+            "created_at": "2026-10-25T17:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+            "metrics": {
+              "like_count": 283,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 11
+            }
+          },
+          {
+            "id": "2114380791132172394",
+            "text": "Não tô nem abrindo o Instagram de tão emocionado que estou. Cada postagem do nosso lado ou cada fala do nosso velhinho tá me fazendo chorar MT e tô no plantão cercado de zumbis bolsominions. \nQue dia difícil.",
+            "author_username": "bichobichano",
+            "author_name": "bichobichano",
+            "created_at": "2026-10-25T15:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bichobichano/status/2114380791132172394#m",
+            "metrics": {
+              "like_count": 32,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114365418563375168",
+            "text": "EU NÃO QUERO CLIMA DE VELÓRIO. JA TÔ OUVINDO MEU PAGODÃO BAIANO E PENSANDO NO CARNAVAL",
+            "author_username": "__peixinha",
+            "author_name": "__peixinha",
+            "created_at": "2026-10-25T14:36:00+00:00",
+            "permalink": "https://nitter.meowing.monster/__peixinha/status/2114365418563375168#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114347123789439101",
+            "text": "Baiana, nordestina e mulher parda: com muito orgulho apertei 1️⃣3️⃣🚩🇧🇷 pelo  Lula @LulaOficial!\nOrgulho demais de fazer história junto com milhões de brasileiros. ❤️ de Baiano pra todo o Brasil!\n#EuVotoFazendoL #LulaPelaDemocracia #ExercitoDoLula",
+            "author_username": "FrancisDance21",
+            "author_name": "FrancisDance21",
+            "created_at": "2026-10-25T13:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/FrancisDance21/status/2114347123789439101#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114342709389406626",
+            "text": "É lá  q mora o baiano australiano de bigodinho a la Hitler. Não  saiu do X  falando mal do @nikolas_dm. Nada fez prá  angariar votos prá  direita  nem aqui e nem na Australia",
+            "author_username": "jandira_mata",
+            "author_name": "jandira_mata",
+            "created_at": "2026-10-25T13:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jandira_mata/status/2114342709389406626#m",
+            "metrics": {
+              "like_count": 183,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114176170165928068",
+            "text": "Até por conta do império do adversário, né? Mas, somos nós contra tudo: farinakimaz Trump, agro, grande mídia. \nÉ nosso veinho contra todo esse poder.",
+            "author_username": "bichobichano",
+            "author_name": "bichobichano",
+            "created_at": "2026-10-25T02:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bichobichano/status/2114176170165928068#m",
+            "metrics": {
+              "like_count": 353,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114513776460624284",
+            "text": "Vagabundo Rpz",
+            "author_username": "arquibancada31",
+            "author_name": "arquibancada31",
+            "created_at": "2026-10-26T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/arquibancada31/status/2114513776460624284#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114487840478519615",
+            "parent_comment_id": "2114487840478519615",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114530473368043688",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114530473368043688",
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114530473368043688",
+        "text": "Orgulho de ser baiano",
+        "author_username": "AlanBergmanndj",
+        "author_name": "AlanBergmanndj",
+        "created_at": "2026-10-26T01:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114530473368043688#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114527460888887784",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114527460888887784",
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114527460888887784",
+        "text": "Povo baiano em festa",
+        "author_username": "josenilsoncruz",
+        "author_name": "josenilsoncruz",
+        "created_at": "2026-10-26T01:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/josenilsoncruz/status/2114527460888887784#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114506255863853432",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114506255863853432",
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114506255863853432",
+        "text": "Baiano fdp que vive em Petrolina Pernambuco, bate em minha aposta daqui a uns dias pedindo ajuda, e espero que seja em uma hora que não tenha ninguém na rua.  \n\nBoa noite.",
+        "author_username": "Davyd29952730",
+        "author_name": "Davyd29952730",
+        "created_at": "2026-10-25T23:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114506255863853432#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114513776460624284",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114513776460624284",
+      "post_id": "2114487840478519615",
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114513776460624284",
+        "text": "Vagabundo Rpz",
+        "author_username": "arquibancada31",
+        "author_name": "arquibancada31",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/arquibancada31/status/2114513776460624284#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114487840478519615",
+        "parent_comment_id": "2114487840478519615",
+        "depth": 1
+      }
+    }
+  ]
+}

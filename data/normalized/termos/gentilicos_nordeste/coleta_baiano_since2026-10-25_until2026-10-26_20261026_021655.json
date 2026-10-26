@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T02:16:55-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 1,
+      "records_total": 4,
+      "skipped_duplicate": 12
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114530473368043688",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114530473368043688",
+      "parent_post_id": null,
+      "thread_root_id": "2114530473368043688",
+      "author": {
+        "platform_id": null,
+        "display_name": "AlanBergmanndj",
+        "username": "AlanBergmanndj",
+        "profile_url": "https://x.com/AlanBergmanndj"
+      },
+      "text": "Orgulho de ser baiano",
+      "created_at": "2026-10-26T01:32:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114530473368043688#m",
+      "metrics": {
+        "like_count": 32,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114530473368043688",
+        "text": "Orgulho de ser baiano",
+        "author_username": "AlanBergmanndj",
+        "author_name": "AlanBergmanndj",
+        "created_at": "2026-10-26T01:32:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AlanBergmanndj/status/2114530473368043688#m",
+        "metrics": {
+          "like_count": 32,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114527460888887784",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114527460888887784",
+      "parent_post_id": null,
+      "thread_root_id": "2114527460888887784",
+      "author": {
+        "platform_id": null,
+        "display_name": "josenilsoncruz",
+        "username": "josenilsoncruz",
+        "profile_url": "https://x.com/josenilsoncruz"
+      },
+      "text": "Povo baiano em festa",
+      "created_at": "2026-10-26T01:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "permalink": "https://nitter.meowing.monster/josenilsoncruz/status/2114527460888887784#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114527460888887784",
+        "text": "Povo baiano em festa",
+        "author_username": "josenilsoncruz",
+        "author_name": "josenilsoncruz",
+        "created_at": "2026-10-26T01:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/josenilsoncruz/status/2114527460888887784#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 20,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114506255863853432",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114506255863853432",
+      "parent_post_id": null,
+      "thread_root_id": "2114506255863853432",
+      "author": {
+        "platform_id": null,
+        "display_name": "Davyd29952730",
+        "username": "Davyd29952730",
+        "profile_url": "https://x.com/Davyd29952730"
+      },
+      "text": "Baiano fdp que vive em Petrolina Pernambuco, bate em minha aposta daqui a uns dias pedindo ajuda, e espero que seja em uma hora que não tenha ninguém na rua.  \n\nBoa noite.",
+      "created_at": "2026-10-25T23:55:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114506255863853432#m",
+      "metrics": {
+        "like_count": 24,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114506255863853432",
+        "text": "Baiano fdp que vive em Petrolina Pernambuco, bate em minha aposta daqui a uns dias pedindo ajuda, e espero que seja em uma hora que não tenha ninguém na rua.  \n\nBoa noite.",
+        "author_username": "Davyd29952730",
+        "author_name": "Davyd29952730",
+        "created_at": "2026-10-25T23:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Davyd29952730/status/2114506255863853432#m",
+        "metrics": {
+          "like_count": 24,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 171,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114513776460624284",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114513776460624284",
+      "post_id": "2114487840478519615",
+      "parent_comment_id": "2114487840478519615",
+      "thread_root_id": "2114487840478519615",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "arquibancada31",
+        "username": "arquibancada31",
+        "profile_url": null
+      },
+      "text": "Vagabundo Rpz",
+      "created_at": "2026-10-26T00:25:00+00:00",
+      "collected_at": "2026-10-26T02:16:55-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/arquibancada31/status/2114513776460624284#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114513776460624284",
+        "text": "Vagabundo Rpz",
+        "author_username": "arquibancada31",
+        "author_name": "arquibancada31",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/arquibancada31/status/2114513776460624284#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114487840478519615",
+        "parent_comment_id": "2114487840478519615",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 13,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
