@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste eleicao",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T05:33:27-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 1,
+      "records_total": 1,
+      "skipped_duplicate": 13
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114541770214425026",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114541770214425026",
+      "post_id": "2114534280739033326",
+      "parent_comment_id": "2114534280739033326",
+      "thread_root_id": "2114534280739033326",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "jjkhs94",
+        "username": "jjkhs94",
+        "profile_url": null
+      },
+      "text": "ohhh estuvo demasiado reñidooo, en mi casa estábamos sufriendo como si fuera nuestra propia elección jajajs",
+      "created_at": "2026-10-26T02:16:00+00:00",
+      "collected_at": "2026-10-26T05:33:27-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/jjkhs94/status/2114541770214425026#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste eleicao",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114541770214425026",
+        "text": "ohhh estuvo demasiado reñidooo, en mi casa estábamos sufriendo como si fuera nuestra propia elección jajajs",
+        "author_username": "jjkhs94",
+        "author_name": "jjkhs94",
+        "created_at": "2026-10-26T02:16:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jjkhs94/status/2114541770214425026#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114534280739033326",
+        "parent_comment_id": "2114534280739033326",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 107,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}
