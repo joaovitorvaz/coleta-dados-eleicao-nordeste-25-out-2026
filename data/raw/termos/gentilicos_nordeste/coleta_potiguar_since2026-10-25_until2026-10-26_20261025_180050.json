@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "potiguar",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T18:00:50-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 1
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114442621007675499",
+            "text": "Escola Joana Sampaio. Seções 38/70.",
+            "author_username": "jevertontodode1",
+            "author_name": "jevertontodode1",
+            "created_at": "2026-10-25T19:42:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jevertontodode1/status/2114442621007675499#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114220947171365009",
+            "text": "sensação de merda sinceramente que dia de bosta que semana infernal",
+            "author_username": "Iarafroot",
+            "author_name": "Iarafroot",
+            "created_at": "2026-10-25T05:02:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Iarafroot/status/2114220947171365009#m",
+            "metrics": {
+              "like_count": 327,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114173476516794778",
+            "text": "se esse fds eu não me matar podr crê que eu não me mato nunca mais",
+            "author_username": "Iarafroot",
+            "author_name": "Iarafroot",
+            "created_at": "2026-10-25T01:53:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Iarafroot/status/2114173476516794778#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114442621007675499",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114442621007675499",
+      "collected_at": "2026-10-25T18:00:50-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "potiguar",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114442621007675499",
+        "text": "Escola Joana Sampaio. Seções 38/70.",
+        "author_username": "jevertontodode1",
+        "author_name": "jevertontodode1",
+        "created_at": "2026-10-25T19:42:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jevertontodode1/status/2114442621007675499#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}

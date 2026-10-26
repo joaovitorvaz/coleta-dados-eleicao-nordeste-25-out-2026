@@ -1,0 +1,2270 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiana",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T20:39:49-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 39,
+      "comments": 0,
+      "records_total": 39,
+      "skipped_duplicate": 13
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114493425655439844",
+            "text": "70,62% da população da Bahia são a representação do atraso da população baiana. 70,62% de vagabundos",
+            "author_username": "Davi_Bitte79",
+            "author_name": "Davi_Bitte79",
+            "created_at": "2026-10-25T23:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/Davi_Bitte79/status/2114493425655439844#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114489825676173720",
+            "text": "Que começou a entrar os votos de são Paulo. Daqui a meia hora tu olha",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T22:50:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114489825676173720#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114472345351971245",
+            "text": "Gente é fim do mundo, que covardia, covardes, lixos, como faz isso com inocente dessa forma",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114472345351971245#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471868023574739",
+            "text": "Te amo minha preciosa",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471868023574739#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471293479428317",
+            "text": "Cara tem que colocar sim",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:36:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471293479428317#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114471083709767887",
+            "text": "Positivo, o que não entra na cabeça porque não foi repassado? Muita gente só recebeu já era 17:10",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:36:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471083709767887#m",
+            "metrics": {
+              "like_count": 43,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470613720891642",
+            "text": "Quem é esse Nunes?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:34:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470613720891642#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470332723859619",
+            "text": "Vocês deveriam fazer alguma coisa por ela",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470332723859619#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114470061394014237",
+            "text": "É maioral? Que lei é essa? Que palhaça é essa...?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:32:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470061394014237#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114469140203483328",
+            "text": "Cadeia para esse cara, bandido, mexeu e influenciou no curso da votação, vocês vão deixar passar?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:28:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114469140203483328#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114468882945646605",
+            "text": "Se essa porra foi emitido, porque não chegou para os mesários ou presidentes? Porque as pessoas não conseguiram votar até o horário decretado??? Gente isso é crime, é desrespeito com o brasileiro",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:27:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114468882945646605#m",
+            "metrics": {
+              "like_count": 33,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114467789549224007",
+            "text": "Gente isso é golpe",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114467789549224007#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114467491565191622",
+            "text": "Golpe, a sujeira, o jogo que eles fazem...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T21:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114467491565191622#m",
+            "metrics": {
+              "like_count": 696,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114461827459391696",
+            "text": "Conseguiu?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:59:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114461827459391696#m",
+            "metrics": {
+              "like_count": 39,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114460112568095157",
+            "text": "Mas já fecharam as sessões, muitas as informações não chegou antes de 17:00, tão passando a mão",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114460112568095157#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114459535800758769",
+            "text": "Verdade, emitiu mas não repassou a informação",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:50:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114459535800758769#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114458422015910192",
+            "text": "Mas foi emitido amiga, agora avisaram depois de 17:00",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:45:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114458422015910192#m",
+            "metrics": {
+              "like_count": 109,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114456923659510107",
+            "text": "Mais uma coisa errada, porque tinha que ter sido emitida antes",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114456923659510107#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114455928477003827",
+            "text": "Saiu até na tv, como não sabem, as urnas não fecham assim, minhas amigas são mesárias. E estão lá",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:35:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114455928477003827#m",
+            "metrics": {
+              "like_count": 418,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 3
+            }
+          },
+          {
+            "id": "2114452643409961165",
+            "text": "Galera urgente tem 1:30 e tem grupo de carona entre na publicação",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:22:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114452643409961165#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114451955867074827",
+            "text": "Tem isso aqui",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:20:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114451955867074827#m",
+            "metrics": {
+              "like_count": 408,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114451345004429485",
+            "text": "Vamos até 19:00 vocês podem votar, continuem na luta...as denúncias foram acatadas",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:17:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114451345004429485#m",
+            "metrics": {
+              "like_count": 26,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114450754173891035",
+            "text": "Vamos meu povo, votação até 19:00 horas, vão votarq",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114450754173891035#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114450297598902491",
+            "text": "Abre novamente",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:13:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114450297598902491#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 67
+            }
+          },
+          {
+            "id": "2114449589386506738",
+            "text": "Galera do continue, vamos a luta, vocês poderam sim, chegar até o local e votar, excessam seu direito de cidadão....",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114449589386506738#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114449124497981878",
+            "text": "Meu povo, corram até o Local de votação, foi estendida até 19:00 horas, vamos a lutaaa, vamos 13, vamos mostrar o que é lutar...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T20:08:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114449124497981878#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114440176894095605",
+            "text": "Compreendi, Nunca mais faça isso , mulher",
+            "author_username": "liz_allm",
+            "author_name": "liz_allm",
+            "created_at": "2026-10-25T19:33:00+00:00",
+            "permalink": "https://nitter.netbub.com/liz_allm/status/2114440176894095605#m",
+            "metrics": {
+              "like_count": 717,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114435607653179519",
+            "text": "Bora se mobilizar",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T19:15:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114435607653179519#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114434378210107796",
+            "text": "Vamos @TSEjusbr vamos ser juntos, o direito ao voto tem que ser igual",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T19:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114434378210107796#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114422998786556294",
+            "text": "Ss, e infelizmente, no vagão que eu estava e vi o corpo emprestado entre a plataforma e o vagão 😰😰",
+            "author_username": "liz_allm",
+            "author_name": "liz_allm",
+            "created_at": "2026-10-25T18:25:00+00:00",
+            "permalink": "https://nitter.netbub.com/liz_allm/status/2114422998786556294#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 15
+            }
+          },
+          {
+            "id": "2114405799061545173",
+            "text": "Calma, vai dar certo",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T17:16:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114405799061545173#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114405357875311103",
+            "text": "Golpe em curso,  Secretário da Prefeitura de Salvador, manda reduzir frota de ônibus, impedindo da população baiana de votarem.",
+            "author_username": "Bandeira27Jose",
+            "author_name": "Bandeira27Jose",
+            "created_at": "2026-10-25T17:14:00+00:00",
+            "permalink": "https://nitter.netbub.com/Bandeira27Jose/status/2114405357875311103#m",
+            "metrics": {
+              "like_count": 20,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114403487442493445",
+            "text": "ACHO BOM TODO MUNDO TÁ SEGUINDO NOSSA JANONES BAIANA PRA EU GANHAR MEU PRESENTE DE ANIVERSÁRIO VIU\n\nBORA LULA PORRAA",
+            "author_username": "teleess_",
+            "author_name": "teleess_",
+            "created_at": "2026-10-25T17:07:00+00:00",
+            "permalink": "https://nitter.netbub.com/teleess_/status/2114403487442493445#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114401647422042524",
+            "text": "TRE manda prender secretário de Mobilidade de Salvador. Passageiros denunciam que frota de ônibus está reduzida na capital baiana. Dá play ⏯️",
+            "author_username": "BLOGALDOALMEIDA",
+            "author_name": "BLOGALDOALMEIDA",
+            "created_at": "2026-10-25T17:00:00+00:00",
+            "permalink": "https://nitter.netbub.com/BLOGALDOALMEIDA/status/2114401647422042524#m",
+            "metrics": {
+              "like_count": 37,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114401639821951241",
+            "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+            "author_username": "PataxoThyara",
+            "author_name": "PataxoThyara",
+            "created_at": "2026-10-25T17:00:00+00:00",
+            "permalink": "https://nitter.netbub.com/PataxoThyara/status/2114401639821951241#m",
+            "metrics": {
+              "like_count": 278,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 11
+            }
+          },
+          {
+            "id": "2114401183510966341",
+            "text": "É sobre, e, é isso que elas piram",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T16:58:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114401183510966341#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114400558148649111",
+            "text": "TRE manda prender secretário de Mobilidade de Salvador. Passageiros denunciam que frota de ônibus está reduzida na capital baiana. Dá play ⏯️",
+            "author_username": "AldoAlmeida013",
+            "author_name": "AldoAlmeida013",
+            "created_at": "2026-10-25T16:55:00+00:00",
+            "permalink": "https://nitter.netbub.com/AldoAlmeida013/status/2114400558148649111#m",
+            "metrics": {
+              "like_count": 351,
+              "reply_count": 1,
+              "retweet_count": 8,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114395820606792020",
+            "text": "Acabou de acontecer uma tragédia na estação Campinas de Salvador. Um homem se desequilíbriou e morreu esmagado, bem na hora que o vagão tava saindo, foi muito feio a cena. Parou o vagão e todo mundo desceu 🫢😰",
+            "author_username": "liz_allm",
+            "author_name": "liz_allm",
+            "created_at": "2026-10-25T16:37:00+00:00",
+            "permalink": "https://nitter.netbub.com/liz_allm/status/2114395820606792020#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 54,
+              "retweet_count": 50,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114386538746290324",
+            "text": "Com 32 tá assim?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T16:00:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114386538746290324#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114380317473624522",
+            "text": "A população baiana não poderá, jamais, esquecer o quão nefasto é esse ser. Ele e toda sua trupe não podem mais se eleger nem a síndico de prédio. Ele tem desprezo pela população.",
+            "author_username": "m_dalexandria",
+            "author_name": "m_dalexandria",
+            "created_at": "2026-10-25T15:35:00+00:00",
+            "permalink": "https://nitter.netbub.com/m_dalexandria/status/2114380317473624522#m",
+            "metrics": {
+              "like_count": 88,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114371761345073463",
+            "text": "Eu já mete 13, diva",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T15:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114371761345073463#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114367477194895468",
+            "text": "Eu apertei o 13 tão forte e confirma, dali a liberdade a vidaaa",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T14:44:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367477194895468#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114367207429771470",
+            "text": "Até que fim o país,onde o povo sabe botar, né gado pra viver no cabresto...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T14:43:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367207429771470#m",
+            "metrics": {
+              "like_count": 30,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114366132467400808",
+            "text": "Para não voltarmos a escravidão, votem lula, aqui a  gente não recebe em dólar, para trabalhar por hora...se liga porraaa.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T14:39:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114366132467400808#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114365127768125578",
+            "text": "Eita povo que mora na Ásia, não fode com nosso Brasil, você quer ditadura? Quer colocar alguém no poder que tire tudo que nós foi conquistado....tem que votar Lula 13. Pela amor de Deus...quem é conservador a minoria sempre será a minoria...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T14:35:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114365127768125578#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114354623343419584",
+            "text": "Hoje estamos lutando contra o fascismo meu raio de Sol, mas passei só pra vê esse rosto lindo e ter mais força",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T13:53:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354623343419584#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114354368862450104",
+            "text": "Bonequinha, o que será que vem por aí?",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T13:52:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354368862450104#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114347123789439101",
+            "text": "Baiana, nordestina e mulher parda: com muito orgulho apertei 1️⃣3️⃣🚩🇧🇷 pelo  Lula @LulaOficial!\nOrgulho demais de fazer história junto com milhões de brasileiros. ❤️ de Baiano pra todo o Brasil!\n#EuVotoFazendoL #LulaPelaDemocracia #ExercitoDoLula",
+            "author_username": "FrancisDance21",
+            "author_name": "FrancisDance21",
+            "created_at": "2026-10-25T13:23:00+00:00",
+            "permalink": "https://nitter.netbub.com/FrancisDance21/status/2114347123789439101#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114222866023534601",
+            "text": "Tadinho 😂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:09:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114222866023534601#m",
+            "metrics": {
+              "like_count": 78,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114221589948457114",
+            "text": "Não pode ser a 1 por tem eu aqui 😂😂😂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114221589948457114#m",
+            "metrics": {
+              "like_count": 67,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114221475875930423",
+            "text": "Para mais um evento lindo da nossa Lady👑 lindo de vê Smiley 🫂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114221475875930423#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114205736708239652",
+            "text": "orgulho de ser baiana",
+            "author_username": "Deusemarav",
+            "author_name": "Deusemarav",
+            "created_at": "2026-10-25T04:01:00+00:00",
+            "permalink": "https://nitter.netbub.com/Deusemarav/status/2114205736708239652#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114190174104027287",
+            "text": "Tão bom vê você bem, que Deus só multiplique...te amo, meu coração tá feliz por ti, agora só falta o outra...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114190174104027287#m",
+            "metrics": {
+              "like_count": 74,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114189295191826496",
+            "text": "Kkkkkk, deveria fazer mais com frequência essas brincadeiras felizes, chama Charlooootteee pra te dar massagem, ela com aquela mão destamanhaaa e aí queria socar suas costas, a irmãzinha é muito travessa.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114189295191826496#m",
+            "metrics": {
+              "like_count": 81,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114188976521126111",
+            "text": "fico com um riso bobo no canto da boca qnd lembro que o meu governador indígena (de origem tupinambá, do município de aiquara interior da Bahia reeleito em 1° turno contra o neto da dinastia baiana magalhães), Jero, o Jeronimo Rodrigues, é torcedor do Vitória ♥️🖤",
+            "author_username": "oicaruru",
+            "author_name": "oicaruru",
+            "created_at": "2026-10-25T02:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/oicaruru/status/2114188976521126111#m",
+            "metrics": {
+              "like_count": 114,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114187307980906531",
+            "text": "O carinho e amizade linda, e cuidado da Faye com a pequena",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114187307980906531#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114161535236927522",
+            "text": "A gente já sente orgulho, quero mesmo que você comece a fazer também por ti, eu te amo pelo que é, você já é tudo...@EWaraha sendo a maior estrela ou não em qualquer produção sempre será única para mim. Te amo e se cuide.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114161535236927522#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114161112081981561",
+            "text": "Faye é maravilhosa como todos.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114161112081981561#m",
+            "metrics": {
+              "like_count": 31,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114160011811164380",
+            "text": "Ela tá se recuperando",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114160011811164380#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114493425655439844",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114493425655439844",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114493425655439844",
+        "text": "70,62% da população da Bahia são a representação do atraso da população baiana. 70,62% de vagabundos",
+        "author_username": "Davi_Bitte79",
+        "author_name": "Davi_Bitte79",
+        "created_at": "2026-10-25T23:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/Davi_Bitte79/status/2114493425655439844#m",
+        "metrics": {
+          "like_count": 31,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114489825676173720",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114489825676173720",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114489825676173720",
+        "text": "Que começou a entrar os votos de são Paulo. Daqui a meia hora tu olha",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T22:50:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114489825676173720#m",
+        "metrics": {
+          "like_count": 30,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114472345351971245",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114472345351971245",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114472345351971245",
+        "text": "Gente é fim do mundo, que covardia, covardes, lixos, como faz isso com inocente dessa forma",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114472345351971245#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114471868023574739",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114471868023574739",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114471868023574739",
+        "text": "Te amo minha preciosa",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471868023574739#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114471293479428317",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114471293479428317",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114471293479428317",
+        "text": "Cara tem que colocar sim",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471293479428317#m",
+        "metrics": {
+          "like_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114471083709767887",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114471083709767887",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114471083709767887",
+        "text": "Positivo, o que não entra na cabeça porque não foi repassado? Muita gente só recebeu já era 17:10",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114471083709767887#m",
+        "metrics": {
+          "like_count": 43,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114470613720891642",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114470613720891642",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114470613720891642",
+        "text": "Quem é esse Nunes?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:34:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470613720891642#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114470332723859619",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114470332723859619",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114470332723859619",
+        "text": "Vocês deveriam fazer alguma coisa por ela",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470332723859619#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114470061394014237",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114470061394014237",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114470061394014237",
+        "text": "É maioral? Que lei é essa? Que palhaça é essa...?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:32:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114470061394014237#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114469140203483328",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114469140203483328",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114469140203483328",
+        "text": "Cadeia para esse cara, bandido, mexeu e influenciou no curso da votação, vocês vão deixar passar?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:28:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114469140203483328#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114468882945646605",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114468882945646605",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114468882945646605",
+        "text": "Se essa porra foi emitido, porque não chegou para os mesários ou presidentes? Porque as pessoas não conseguiram votar até o horário decretado??? Gente isso é crime, é desrespeito com o brasileiro",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:27:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114468882945646605#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114467789549224007",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114467789549224007",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114467789549224007",
+        "text": "Gente isso é golpe",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:23:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114467789549224007#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114467491565191622",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114467491565191622",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114467491565191622",
+        "text": "Golpe, a sujeira, o jogo que eles fazem...",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T21:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114467491565191622#m",
+        "metrics": {
+          "like_count": 696,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114461827459391696",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114461827459391696",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114461827459391696",
+        "text": "Conseguiu?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:59:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114461827459391696#m",
+        "metrics": {
+          "like_count": 39,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114460112568095157",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114460112568095157",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114460112568095157",
+        "text": "Mas já fecharam as sessões, muitas as informações não chegou antes de 17:00, tão passando a mão",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114460112568095157#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114459535800758769",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114459535800758769",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114459535800758769",
+        "text": "Verdade, emitiu mas não repassou a informação",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:50:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114459535800758769#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114458422015910192",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114458422015910192",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114458422015910192",
+        "text": "Mas foi emitido amiga, agora avisaram depois de 17:00",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:45:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114458422015910192#m",
+        "metrics": {
+          "like_count": 109,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114456923659510107",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114456923659510107",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114456923659510107",
+        "text": "Mais uma coisa errada, porque tinha que ter sido emitida antes",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114456923659510107#m",
+        "metrics": {
+          "like_count": 14,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114455928477003827",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114455928477003827",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114455928477003827",
+        "text": "Saiu até na tv, como não sabem, as urnas não fecham assim, minhas amigas são mesárias. E estão lá",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:35:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114455928477003827#m",
+        "metrics": {
+          "like_count": 418,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114452643409961165",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114452643409961165",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114452643409961165",
+        "text": "Galera urgente tem 1:30 e tem grupo de carona entre na publicação",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:22:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114452643409961165#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114451955867074827",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114451955867074827",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114451955867074827",
+        "text": "Tem isso aqui",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:20:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114451955867074827#m",
+        "metrics": {
+          "like_count": 408,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114451345004429485",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114451345004429485",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114451345004429485",
+        "text": "Vamos até 19:00 vocês podem votar, continuem na luta...as denúncias foram acatadas",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:17:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114451345004429485#m",
+        "metrics": {
+          "like_count": 26,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114450754173891035",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114450754173891035",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114450754173891035",
+        "text": "Vamos meu povo, votação até 19:00 horas, vão votarq",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114450754173891035#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114450297598902491",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114450297598902491",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114450297598902491",
+        "text": "Abre novamente",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:13:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114450297598902491#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 67
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114449589386506738",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114449589386506738",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114449589386506738",
+        "text": "Galera do continue, vamos a luta, vocês poderam sim, chegar até o local e votar, excessam seu direito de cidadão....",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114449589386506738#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114449124497981878",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114449124497981878",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114449124497981878",
+        "text": "Meu povo, corram até o Local de votação, foi estendida até 19:00 horas, vamos a lutaaa, vamos 13, vamos mostrar o que é lutar...",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T20:08:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114449124497981878#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114440176894095605",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114440176894095605",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114440176894095605",
+        "text": "Compreendi, Nunca mais faça isso , mulher",
+        "author_username": "liz_allm",
+        "author_name": "liz_allm",
+        "created_at": "2026-10-25T19:33:00+00:00",
+        "permalink": "https://nitter.netbub.com/liz_allm/status/2114440176894095605#m",
+        "metrics": {
+          "like_count": 717,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114435607653179519",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114435607653179519",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114435607653179519",
+        "text": "Bora se mobilizar",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T19:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114435607653179519#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114434378210107796",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114434378210107796",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114434378210107796",
+        "text": "Vamos @TSEjusbr vamos ser juntos, o direito ao voto tem que ser igual",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T19:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114434378210107796#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114422998786556294",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114422998786556294",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114422998786556294",
+        "text": "Ss, e infelizmente, no vagão que eu estava e vi o corpo emprestado entre a plataforma e o vagão 😰😰",
+        "author_username": "liz_allm",
+        "author_name": "liz_allm",
+        "created_at": "2026-10-25T18:25:00+00:00",
+        "permalink": "https://nitter.netbub.com/liz_allm/status/2114422998786556294#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 15
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114405799061545173",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114405799061545173",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114405799061545173",
+        "text": "Calma, vai dar certo",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T17:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114405799061545173#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114405357875311103",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114405357875311103",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114405357875311103",
+        "text": "Golpe em curso,  Secretário da Prefeitura de Salvador, manda reduzir frota de ônibus, impedindo da população baiana de votarem.",
+        "author_username": "Bandeira27Jose",
+        "author_name": "Bandeira27Jose",
+        "created_at": "2026-10-25T17:14:00+00:00",
+        "permalink": "https://nitter.netbub.com/Bandeira27Jose/status/2114405357875311103#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114403487442493445",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114403487442493445",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114403487442493445",
+        "text": "ACHO BOM TODO MUNDO TÁ SEGUINDO NOSSA JANONES BAIANA PRA EU GANHAR MEU PRESENTE DE ANIVERSÁRIO VIU\n\nBORA LULA PORRAA",
+        "author_username": "teleess_",
+        "author_name": "teleess_",
+        "created_at": "2026-10-25T17:07:00+00:00",
+        "permalink": "https://nitter.netbub.com/teleess_/status/2114403487442493445#m",
+        "metrics": {
+          "like_count": 27,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114401647422042524",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114401647422042524",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114401647422042524",
+        "text": "TRE manda prender secretário de Mobilidade de Salvador. Passageiros denunciam que frota de ônibus está reduzida na capital baiana. Dá play ⏯️",
+        "author_username": "BLOGALDOALMEIDA",
+        "author_name": "BLOGALDOALMEIDA",
+        "created_at": "2026-10-25T17:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/BLOGALDOALMEIDA/status/2114401647422042524#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114401183510966341",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114401183510966341",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114401183510966341",
+        "text": "É sobre, e, é isso que elas piram",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T16:58:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114401183510966341#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114400558148649111",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114400558148649111",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114400558148649111",
+        "text": "TRE manda prender secretário de Mobilidade de Salvador. Passageiros denunciam que frota de ônibus está reduzida na capital baiana. Dá play ⏯️",
+        "author_username": "AldoAlmeida013",
+        "author_name": "AldoAlmeida013",
+        "created_at": "2026-10-25T16:55:00+00:00",
+        "permalink": "https://nitter.netbub.com/AldoAlmeida013/status/2114400558148649111#m",
+        "metrics": {
+          "like_count": 351,
+          "reply_count": 1,
+          "retweet_count": 8,
+          "quote_count": 12
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114395820606792020",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395820606792020",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114395820606792020",
+        "text": "Acabou de acontecer uma tragédia na estação Campinas de Salvador. Um homem se desequilíbriou e morreu esmagado, bem na hora que o vagão tava saindo, foi muito feio a cena. Parou o vagão e todo mundo desceu 🫢😰",
+        "author_username": "liz_allm",
+        "author_name": "liz_allm",
+        "created_at": "2026-10-25T16:37:00+00:00",
+        "permalink": "https://nitter.netbub.com/liz_allm/status/2114395820606792020#m",
+        "metrics": {
+          "like_count": 88,
+          "reply_count": 54,
+          "retweet_count": 50,
+          "quote_count": 2
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114386538746290324",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114386538746290324",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114386538746290324",
+        "text": "Com 32 tá assim?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T16:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114386538746290324#m",
+        "metrics": {
+          "like_count": 44,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114380317473624522",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114380317473624522",
+      "collected_at": "2026-10-25T20:39:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114380317473624522",
+        "text": "A população baiana não poderá, jamais, esquecer o quão nefasto é esse ser. Ele e toda sua trupe não podem mais se eleger nem a síndico de prédio. Ele tem desprezo pela população.",
+        "author_username": "m_dalexandria",
+        "author_name": "m_dalexandria",
+        "created_at": "2026-10-25T15:35:00+00:00",
+        "permalink": "https://nitter.netbub.com/m_dalexandria/status/2114380317473624522#m",
+        "metrics": {
+          "like_count": 88,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}

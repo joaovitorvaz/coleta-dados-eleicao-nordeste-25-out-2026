@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "NE Brasil",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T14:00:52-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 2,
+      "records_total": 4,
+      "skipped_duplicate": 2
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114385460210590095",
+            "text": "É hoje que o Brasil vai regredir 7 anos, ne?!\n\nEspero que seja pra essa época aqui...🇧🇷\n\n@sensoinc \n@r_nog \n@filgmartin \nTaiguara",
+            "author_username": "Grasi_Rodrigues",
+            "author_name": "Grasi_Rodrigues",
+            "created_at": "2026-10-25T15:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Grasi_Rodrigues/status/2114385460210590095#m",
+            "metrics": {
+              "like_count": 178,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          },
+          {
+            "id": "2114362472308109777",
+            "text": "🇧🇷❤️ COMPANHEIROS E COMPANHEIRAS, JÁ PREPARARAM O LOOK DA VITÓRIA? ⭐️\n\nHoje é dia de fazer história! Tenho fé, esperança e a certeza de que viveremos um momento inesquecível com a vitória do PRESIDENTE LULA! ❤️\n\nSe você ainda não votou, levante-se, vista a sua melhor roupa e vá às urnas! Cada voto importa, cada voto faz a diferença e cada voto é uma oportunidade de construir o Brasil que queremos!\n\nVAI SER LINDO! VAI SER HISTÓRICO! VAI SER 13! 🇧🇷⭐️\n\nVocê não vai querer ficar de fora desse momento histórico, né? Então, bora votar! O Brasil precisa de nós! ❤️\n\n#Lula \n#FandomsComLula\n#LulaPresidente\n#HojeEuVotoLula\n#EuVotoFazendoL",
+            "author_username": "ladygagasbrasil",
+            "author_name": "ladygagasbrasil",
+            "created_at": "2026-10-25T14:24:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ladygagasbrasil/status/2114362472308109777#m",
+            "metrics": {
+              "like_count": 801,
+              "reply_count": 2,
+              "retweet_count": 17,
+              "quote_count": 54
+            }
+          },
+          {
+            "id": "2114284623056212343",
+            "text": "Voos atrasados e do nordeste ?\nProibição de transportes do deslocamento dos indigenas \n\nMeu Deus...  #Brasil observe isso \n#Eleicoes2026  a mídia nem tá falando ... a memória midiatica é seletiva ne ?!",
+            "author_username": "Ly_gleyce",
+            "author_name": "Ly_gleyce",
+            "created_at": "2026-10-25T09:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ly_gleyce/status/2114284623056212343#m",
+            "metrics": {
+              "like_count": 24,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114144338565284181",
+            "text": "O Brasil tá quebrado,né @luciano_hang?😂\nMinha cidade Londrina tá ganhando uma HAVAN de 1⁰ mundo!❤️\nObrigado,Véi!🤗\ngmconline.com.br/noticias/pa…",
+            "author_username": "bda95485",
+            "author_name": "bda95485",
+            "created_at": "2026-10-24T23:57:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bda95485/status/2114144338565284181#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114133639101329699",
+            "text": "Você só pode estar de sacanagem né um cara que perdeu a copa do Brasil para chapecoense perdeu a sul-americana de 6 a 1 para o Cienciano e você vem falar dele?",
+            "author_username": "ConexaoRadarEsp",
+            "author_name": "ConexaoRadarEsp",
+            "created_at": "2026-10-24T23:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ConexaoRadarEsp/status/2114133639101329699#m",
+            "metrics": {
+              "like_count": 293,
+              "reply_count": 3,
+              "retweet_count": 0,
+              "quote_count": 6
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114398905181917278",
+            "text": "Filipe GG Martins vingaremos você.",
+            "author_username": "MykoNELA",
+            "author_name": "MykoNELA",
+            "created_at": "2026-10-25T16:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MykoNELA/status/2114398905181917278#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114385460210590095",
+            "parent_comment_id": "2114385460210590095",
+            "depth": 1
+          },
+          {
+            "id": "2114399115593298080",
+            "text": "Mengão de 2019 era top demais, eu topo esse acordo!",
+            "author_username": "Bsp_Heahmund",
+            "author_name": "Bsp_Heahmund",
+            "created_at": "2026-10-25T16:50:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Bsp_Heahmund/status/2114399115593298080#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114385460210590095",
+            "parent_comment_id": "2114385460210590095",
+            "depth": 1
+          },
+          {
+            "id": "2114367959279768047",
+            "text": "#BoraVotar1️⃣3️⃣",
+            "author_username": "MRPPereira",
+            "author_name": "MRPPereira",
+            "created_at": "2026-10-25T14:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MRPPereira/status/2114367959279768047#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114362472308109777",
+            "parent_comment_id": "2114362472308109777",
+            "depth": 1
+          },
+          {
+            "id": "2114136557032448170",
+            "text": "Estou falando de DESEMPENHO em um certo momento, acho que deu para entender isso né?",
+            "author_username": "Serafogo",
+            "author_name": "Serafogo",
+            "created_at": "2026-10-24T23:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Serafogo/status/2114136557032448170#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114133639101329699",
+            "parent_comment_id": "2114133639101329699",
+            "depth": 1
+          },
+          {
+            "id": "2114176978571923516",
+            "text": "E o Time do Tite ou do Belao passaria de fase e seria campeão. Porra vc só pode estar de sacanagem. Olha essa merda de elenco. O cara não é milagreiro não. Eu sempre falei esse elenco não tem técnico que de jeito.",
+            "author_username": "falcao_lima",
+            "author_name": "falcao_lima",
+            "created_at": "2026-10-25T02:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/falcao_lima/status/2114176978571923516#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114133639101329699",
+            "parent_comment_id": "2114133639101329699",
+            "depth": 1
+          },
+          {
+            "id": "2114142145737372034",
+            "text": "60 transferbans nas costas, pagamentos atrasados e 3  goleiros entregando 2 gols por jogo. Só 5 derrotas em 22 jogos",
+            "author_username": "tiagocbfr",
+            "author_name": "tiagocbfr",
+            "created_at": "2026-10-24T23:49:00+00:00",
+            "permalink": "https://nitter.meowing.monster/tiagocbfr/status/2114142145737372034#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114133639101329699",
+            "parent_comment_id": "2114133639101329699",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114385460210590095",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114385460210590095",
+      "collected_at": "2026-10-25T14:00:52-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114385460210590095",
+        "text": "É hoje que o Brasil vai regredir 7 anos, ne?!\n\nEspero que seja pra essa época aqui...🇧🇷\n\n@sensoinc \n@r_nog \n@filgmartin \nTaiguara",
+        "author_username": "Grasi_Rodrigues",
+        "author_name": "Grasi_Rodrigues",
+        "created_at": "2026-10-25T15:55:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Grasi_Rodrigues/status/2114385460210590095#m",
+        "metrics": {
+          "like_count": 178,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 6
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114362472308109777",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114362472308109777",
+      "collected_at": "2026-10-25T14:00:52-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114362472308109777",
+        "text": "🇧🇷❤️ COMPANHEIROS E COMPANHEIRAS, JÁ PREPARARAM O LOOK DA VITÓRIA? ⭐️\n\nHoje é dia de fazer história! Tenho fé, esperança e a certeza de que viveremos um momento inesquecível com a vitória do PRESIDENTE LULA! ❤️\n\nSe você ainda não votou, levante-se, vista a sua melhor roupa e vá às urnas! Cada voto importa, cada voto faz a diferença e cada voto é uma oportunidade de construir o Brasil que queremos!\n\nVAI SER LINDO! VAI SER HISTÓRICO! VAI SER 13! 🇧🇷⭐️\n\nVocê não vai querer ficar de fora desse momento histórico, né? Então, bora votar! O Brasil precisa de nós! ❤️\n\n#Lula \n#FandomsComLula\n#LulaPresidente\n#HojeEuVotoLula\n#EuVotoFazendoL",
+        "author_username": "ladygagasbrasil",
+        "author_name": "ladygagasbrasil",
+        "created_at": "2026-10-25T14:24:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ladygagasbrasil/status/2114362472308109777#m",
+        "metrics": {
+          "like_count": 801,
+          "reply_count": 2,
+          "retweet_count": 17,
+          "quote_count": 54
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114398905181917278",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114398905181917278",
+      "post_id": "2114385460210590095",
+      "collected_at": "2026-10-25T14:00:52-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114398905181917278",
+        "text": "Filipe GG Martins vingaremos você.",
+        "author_username": "MykoNELA",
+        "author_name": "MykoNELA",
+        "created_at": "2026-10-25T16:49:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MykoNELA/status/2114398905181917278#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114385460210590095",
+        "parent_comment_id": "2114385460210590095",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114367959279768047",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114367959279768047",
+      "post_id": "2114362472308109777",
+      "collected_at": "2026-10-25T14:00:52-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "NE Brasil",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114367959279768047",
+        "text": "#BoraVotar1️⃣3️⃣",
+        "author_username": "MRPPereira",
+        "author_name": "MRPPereira",
+        "created_at": "2026-10-25T14:46:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MRPPereira/status/2114367959279768047#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114362472308109777",
+        "parent_comment_id": "2114362472308109777",
+        "depth": 1
+      }
+    }
+  ]
+}

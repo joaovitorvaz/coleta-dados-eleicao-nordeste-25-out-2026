@@ -1,0 +1,947 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+    "collected_at": "2026-10-25T07:32:14-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 6,
+      "comments": 2,
+      "records_total": 8,
+      "skipped_duplicate": 10
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114294051658690656",
+            "text": "VIRADOS COM LULA NO NORDESTE",
+            "author_username": "VandaFerraro",
+            "author_name": "VandaFerraro",
+            "created_at": "2026-10-25T09:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/VandaFerraro/status/2114294051658690656#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114292054889054370",
+            "text": "Vamos vencer, vamos bater na porta antes,mas NUNCA deixar de entrar. O Nordeste se levanta gigante!\n#HojeEuVotoLula",
+            "author_username": "VandaFerraro",
+            "author_name": "VandaFerraro",
+            "created_at": "2026-10-25T09:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/VandaFerraro/status/2114292054889054370#m",
+            "metrics": {
+              "like_count": 13,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114284623056212343",
+            "text": "Voos atrasados e do nordeste ?\nProibição de transportes do deslocamento dos indigenas \n\nMeu Deus...  #Brasil observe isso \n#Eleicoes2026  a mídia nem tá falando ... a memória midiatica é seletiva ne ?!",
+            "author_username": "Ly_gleyce",
+            "author_name": "Ly_gleyce",
+            "created_at": "2026-10-25T09:15:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Ly_gleyce/status/2114284623056212343#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114277681101431063",
+            "text": "Ah, se todo o NORDESTE escutasse isso aqui.",
+            "author_username": "TniaPeixoto",
+            "author_name": "TniaPeixoto",
+            "created_at": "2026-10-25T08:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/TniaPeixoto/status/2114277681101431063#m",
+            "metrics": {
+              "like_count": 36,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114265431594672436",
+            "text": "Hoje o Nordeste acordou gigante! Pela democracia! Educação! Vamos de 13! Vamos de Lula 13! \nEleições 2026 #Lula",
+            "author_username": "Genenholima",
+            "author_name": "Genenholima",
+            "created_at": "2026-10-25T07:58:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Genenholima/status/2114265431594672436#m",
+            "metrics": {
+              "like_count": 35,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114264390883021063",
+            "text": "Seja qual for o resultado, fiz a minha parte por um país melhor. Você fez história, #Lula. Fez a gente sonhar e acreditar que podemos chegar onde quisermos com esforço e suor. Viva o Nordeste! Viva o Brasil! Queria chegar aos 80 com essa garra, força, saúde.",
+            "author_username": "Genenholima",
+            "author_name": "Genenholima",
+            "created_at": "2026-10-25T07:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Genenholima/status/2114264390883021063#m",
+            "metrics": {
+              "like_count": 289,
+              "reply_count": 1,
+              "retweet_count": 4,
+              "quote_count": 16
+            }
+          },
+          {
+            "id": "2114241019491308009",
+            "text": "E. Flávio Bolsonaro presidente 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 acorda. Brasil. Diz. Não. Ao. Comunismo. De. Maduro.ula. E. A mesma coisa está. Ajudando. Cuba tirando dos. Po te. O nordeste. Nem. Água. Deus.  Os nordestinos. Daram. A. Resposta. Obrigado. Deus",
+            "author_username": "mariase82907105",
+            "author_name": "mariase82907105",
+            "created_at": "2026-10-25T06:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/mariase82907105/status/2114241019491308009#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114235311534358562",
+            "text": "Eu quero o nordeste independente.",
+            "author_username": "IamCarlosRib",
+            "author_name": "IamCarlosRib",
+            "created_at": "2026-10-25T05:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/IamCarlosRib/status/2114235311534358562#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114234209275449515",
+            "text": "Nordeste, não me decepcione hoje!",
+            "author_username": "nunesaccl",
+            "author_name": "nunesaccl",
+            "created_at": "2026-10-25T05:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/nunesaccl/status/2114234209275449515#m",
+            "metrics": {
+              "like_count": 347,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 12
+            }
+          },
+          {
+            "id": "2114230768444563766",
+            "text": "Todos os voos da gol aqui no salgado Filho para o nordeste foram cancelados, nesse sábado.  A Azul também fez isso. esperando o aeroporto fechar pros passageiros não ter o que fazer",
+            "author_username": "ElenaraLelex",
+            "author_name": "ElenaraLelex",
+            "created_at": "2026-10-25T05:41:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ElenaraLelex/status/2114230768444563766#m",
+            "metrics": {
+              "like_count": 55,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114223141492855181",
+            "text": "Estao cancelando voos que iriam pro nordeste com eleitores esses cancelamento so estao sendo pro nordeste algo estranho esta acontecendo,querem calar o NORDESTE, MAS NAO VAO CONSEGUIR!",
+            "author_username": "Elizabettlopes",
+            "author_name": "Elizabettlopes",
+            "created_at": "2026-10-25T05:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Elizabettlopes/status/2114223141492855181#m",
+            "metrics": {
+              "like_count": 10,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114212631082922227",
+            "text": "Já viu q estão cancelando vôos em direção ao nordeste? ... Esse país é uma vergonha",
+            "author_username": "caiocr_lins",
+            "author_name": "caiocr_lins",
+            "created_at": "2026-10-25T04:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/caiocr_lins/status/2114212631082922227#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114208407590691243",
+            "text": "Povo do norte e nordeste votem por nós por todos que são bons votem ⭐13 nós orgulhem de novo",
+            "author_username": "marcodrcardoso",
+            "author_name": "marcodrcardoso",
+            "created_at": "2026-10-25T04:12:00+00:00",
+            "permalink": "https://nitter.meowing.monster/marcodrcardoso/status/2114208407590691243#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114198131034222906",
+            "text": "@azulinhasaereas cancelando o voo pro Pernambuco!!! Deixa o nordeste votar!!!",
+            "author_username": "Driii_Correa",
+            "author_name": "Driii_Correa",
+            "created_at": "2026-10-25T03:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Driii_Correa/status/2114198131034222906#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114195519442452502",
+            "text": "Baixa a Bolinha porque o Nordeste vai decolar e não será pelas mãos de vocês. \nIncompetência pura essa é a palavra, Lula não melhorou nem a cidade que ele nasceu.",
+            "author_username": "isaac_vies",
+            "author_name": "isaac_vies",
+            "created_at": "2026-10-25T03:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/isaac_vies/status/2114195519442452502#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114192751684096245",
+            "text": "Estamos juntos, agora é #Flavio22Presidente. O povo quer prosperar de #Nordeste a #Sul",
+            "author_username": "amarildo32",
+            "author_name": "amarildo32",
+            "created_at": "2026-10-25T03:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/amarildo32/status/2114192751684096245#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114186003715891387",
+            "text": "Eu doida q o meu nordeste se separe do Brasil!",
+            "author_username": "ScornOfDiana",
+            "author_name": "ScornOfDiana",
+            "created_at": "2026-10-25T02:43:00+00:00",
+            "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114186003715891387#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114180963886317980",
+            "text": "Fumou maconha? São Paulo, Rio de Janeiro e Minas Gerais, as porcentagem vai aumentar para Flávio, e no nordeste não tem voto pro Lula pegar mais. Então, fica só no teu mundo fisiológico. 🤣🤣🇧🇷🇧🇷2️⃣2️⃣",
+            "author_username": "JaimeStarlen",
+            "author_name": "JaimeStarlen",
+            "created_at": "2026-10-25T02:23:00+00:00",
+            "permalink": "https://nitter.meowing.monster/JaimeStarlen/status/2114180963886317980#m",
+            "metrics": {
+              "like_count": 133,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114180030003560770",
+            "text": "Glória a Deus 🙌🏼\nNordeste, São Paulo e MG \nSalvem o Brasil 🇧🇷 \nLula rumo ao Tetra ✨",
+            "author_username": "Geffinho10",
+            "author_name": "Geffinho10",
+            "created_at": "2026-10-25T02:19:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Geffinho10/status/2114180030003560770#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114171372075172157",
+            "text": "Não. Quando o nordeste precisou, fizeram um campo de concentração pra retirantes fugindo da seca. Os políticos? Diziam que eles não poderiam morrer pq era força de trabalho. Isso não é minha opinião. Isso é fato. Nenhum outro político fez o que Lula fez pelo nordeste.",
+            "author_username": "Mariibel_Lima",
+            "author_name": "Mariibel_Lima",
+            "created_at": "2026-10-25T01:45:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Mariibel_Lima/status/2114171372075172157#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114160768232948180",
+            "text": "@grok quais refinaria no Nordeste deixaram de ser construídas?",
+            "author_username": "3duardoferreira",
+            "author_name": "3duardoferreira",
+            "created_at": "2026-10-25T01:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/3duardoferreira/status/2114160768232948180#m",
+            "metrics": {
+              "like_count": 17,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114154410431459652",
+            "text": "Bolsonarista não se cria no nordeste",
+            "author_username": "_MendesDan",
+            "author_name": "_MendesDan",
+            "created_at": "2026-10-25T00:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/_MendesDan/status/2114154410431459652#m",
+            "metrics": {
+              "like_count": 362,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 7
+            }
+          },
+          {
+            "id": "2114153215725805739",
+            "text": "Só o Nordeste para salvar o Brasil",
+            "author_username": "beltraniassis",
+            "author_name": "beltraniassis",
+            "created_at": "2026-10-25T00:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/beltraniassis/status/2114153215725805739#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114151325617344686",
+            "text": "Os voos da Gol do RS para o Nordeste foram cancelados apenas neste sábado.",
+            "author_username": "artemis_rouge",
+            "author_name": "artemis_rouge",
+            "created_at": "2026-10-25T00:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/artemis_rouge/status/2114151325617344686#m",
+            "metrics": {
+              "like_count": 44,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114149342168613225",
+            "text": "Meninas tanta luxo e tanta riqueza.... vão doar algumas cestas básicas para o Sertão do Nordeste??? Acho q/não! Vcs, a exemplo dos demais artistas, sao TOMADORAS e não doadoras😜😜😜😜😜",
+            "author_username": "brilhante1957",
+            "author_name": "brilhante1957",
+            "created_at": "2026-10-25T00:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brilhante1957/status/2114149342168613225#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114143130991616289",
+            "text": "Pessoal, e as notícias de que Gol está cancelado vôos para o Nordeste do país... É sério isso???",
+            "author_username": "rogerinsilva",
+            "author_name": "rogerinsilva",
+            "created_at": "2026-10-24T23:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/rogerinsilva/status/2114143130991616289#m",
+            "metrics": {
+              "like_count": 72,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114140999530201567",
+            "text": "Carlos! Flávio nāo terá 31% no nordeste. Os nordestinos tāo putos com ele.",
+            "author_username": "GlaucoS13113",
+            "author_name": "GlaucoS13113",
+            "created_at": "2026-10-24T23:44:00+00:00",
+            "permalink": "https://nitter.meowing.monster/GlaucoS13113/status/2114140999530201567#m",
+            "metrics": {
+              "like_count": 4,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 59
+            }
+          },
+          {
+            "id": "2114136749051990129",
+            "text": "NORDESTE, MEU NORDESTE QUERIDO, ESSA MENSAGEM É PARA VOCÊS.\nCONFIAMOS EM VOCES PARA VIRAR ESSA BAGAÇA. ESTAMOS ACOMPANHANDO DAQUI QUE VARIOS DE VOCES ESTÃO SENDO IMPEDIDOS DE CHEGAR A SUA CUDADE. GENTE, AJUDEM SEU AMIGO, FAMILIAR A VOTAR 13",
+            "author_username": "Brunnafrihedofi",
+            "author_name": "Brunnafrihedofi",
+            "created_at": "2026-10-24T23:27:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Brunnafrihedofi/status/2114136749051990129#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114128775239827839",
+            "text": "Olha que picaretagem. Na verdade, nos votos totais, os dois subiram 1%. E na anterior, eles colocaram empate número nos votos válidos em 50%.\nOutra coisa, eles estão colocando que Lula terá 62% no nordeste, menor que o percentual do primeiro turno e 7% menor que em 2022.",
+            "author_username": "cardoso_2015",
+            "author_name": "cardoso_2015",
+            "created_at": "2026-10-24T22:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/cardoso_2015/status/2114128775239827839#m",
+            "metrics": {
+              "like_count": 92,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114126321018409387",
+            "text": "@AndreJanonesMG  A gol cancelou os vôos do sul para Nordeste",
+            "author_username": "MariaPAlves_23",
+            "author_name": "MariaPAlves_23",
+            "created_at": "2026-10-24T22:46:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MariaPAlves_23/status/2114126321018409387#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114122808074670585",
+            "text": "instagram.com/reel/De2KILhpX…\nComo os sulistas vêem o Nordeste e o Nordeste como realmente é.",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-24T22:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2114122808074670585#m",
+            "metrics": {
+              "like_count": 12,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114122791150645615",
+            "text": "Eu juro que eu NUNCA mais uso a @VoeGOLoficial depois desse papelão de cancelar voos para o Nordeste!",
+            "author_username": "Nunes0502",
+            "author_name": "Nunes0502",
+            "created_at": "2026-10-24T22:32:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Nunes0502/status/2114122791150645615#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114122473520201912",
+            "text": "@zattimaristela, a GOL Linhas Aéreas cancelou TODOS os voos de hoje para o Nordeste, a fim de interferir no processo eleitoral!  Entrem no Reclame AQUI e protestem massivamente contra a Gol: reclameaqui.com.br/empresa/g…",
+            "author_username": "bibliofernando",
+            "author_name": "bibliofernando",
+            "created_at": "2026-10-24T22:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bibliofernando/status/2114122473520201912#m",
+            "metrics": {
+              "like_count": 40,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114121480246005780",
+            "text": "A GOL Linhas Aéreas cancelou TODOS os voos de hoje para o Nordeste, a fim de interferir no processo eleitoral!  Entrem no Reclame AQUI e protestem massivamente contra a Gol: reclameaqui.com.br/empresa/g…",
+            "author_username": "bibliofernando",
+            "author_name": "bibliofernando",
+            "created_at": "2026-10-24T22:26:00+00:00",
+            "permalink": "https://nitter.meowing.monster/bibliofernando/status/2114121480246005780#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114119976969744593",
+            "text": "DEIXEM O NORDESTE VOTAR! É o cúmulo do absurdo isso!!!\n#GolDeixaONordesteVotar",
+            "author_username": "Driii_Correa",
+            "author_name": "Driii_Correa",
+            "created_at": "2026-10-24T22:20:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Driii_Correa/status/2114119976969744593#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114119344762535978",
+            "text": "@VoeGOLoficial DEIXA O NORDESTE VOTAR!!!",
+            "author_username": "Driii_Correa",
+            "author_name": "Driii_Correa",
+            "created_at": "2026-10-24T22:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Driii_Correa/status/2114119344762535978#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114116506564853819",
+            "text": "Rafinha, meu governador do Estado, já cantou a bola: Nordeste vai decidir de novo porque o povo vai votar mais no Lula. #BORALULA1️⃣3️⃣",
+            "author_username": "Silviamae",
+            "author_name": "Silviamae",
+            "created_at": "2026-10-24T22:07:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Silviamae/status/2114116506564853819#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 1,
+              "retweet_count": 0,
+              "quote_count": 50
+            }
+          },
+          {
+            "id": "2114116017408385424",
+            "text": "@AndreJanonesMG PRECISAMOS DE VC PRA AJUDAR NO AEROPORTO SALGADO FILHO EM PORTO ALEGRE QUE A GOL CANCELOU VOOS PRO NORDESTE.",
+            "author_username": "de_haliton33294",
+            "author_name": "de_haliton33294",
+            "created_at": "2026-10-24T22:05:00+00:00",
+            "permalink": "https://nitter.meowing.monster/de_haliton33294/status/2114116017408385424#m",
+            "metrics": {
+              "like_count": 58,
+              "reply_count": 1,
+              "retweet_count": 1,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114115746435567793",
+            "text": "chorando no estacionamento do atacadão com o funcionários metendo o pau no tariflavio ao mesmo tempo que assisto vídeos de todo norte e nordeste se movimentando pra ir votar É SOBRE ISSO",
+            "author_username": "brendhaverso",
+            "author_name": "brendhaverso",
+            "created_at": "2026-10-24T22:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/brendhaverso/status/2114115746435567793#m",
+            "metrics": {
+              "like_count": 15,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [
+          {
+            "id": "2114283562832642129",
+            "text": "Vc não viu as últimas manifestações?\n\nO nordeste está de parabéns. 🇧🇷👏🏻",
+            "author_username": "Opressor__ZV",
+            "author_name": "Opressor__ZV",
+            "created_at": "2026-10-25T09:10:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Opressor__ZV/status/2114283562832642129#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114277681101431063",
+            "parent_comment_id": "2114277681101431063",
+            "depth": 1
+          },
+          {
+            "id": "2114286335548874968",
+            "text": "🇧🇷 Bora ❤️ Lula 13 ⭐ 🇧🇷 #VamosVirar",
+            "author_username": "MarciaCristinaa",
+            "author_name": "MarciaCristinaa",
+            "created_at": "2026-10-25T09:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/MarciaCristinaa/status/2114286335548874968#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114264390883021063",
+            "parent_comment_id": "2114264390883021063",
+            "depth": 1
+          },
+          {
+            "id": "2114160941667352891",
+            "text": "As principais que deixaram de ser construídas no Nordeste foram a Premium I (Bacabeira, MA) e a Premium II (Pecém/São Gonçalo do Amarante, CE). Anunciadas por volta de 2010 pela Petrobras para processar juntas cerca de 900 mil barris/dia, foram canceladas em janeiro de 2015 por falta de atratividade econômica e de parceiros. A estatal investiu cerca de R$ 2,7 bilhões em terrenos e preparativos, mas as obras não avançaram.",
+            "author_username": "grok",
+            "author_name": "grok",
+            "created_at": "2026-10-25T01:03:00+00:00",
+            "permalink": "https://nitter.meowing.monster/grok/status/2114160941667352891#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114160768232948180",
+            "parent_comment_id": "2114160768232948180",
+            "depth": 1
+          },
+          {
+            "id": "2114152458372932009",
+            "text": "Isso tem cheiro de golpe",
+            "author_username": "vanielvertmundi",
+            "author_name": "vanielvertmundi",
+            "created_at": "2026-10-25T00:29:00+00:00",
+            "permalink": "https://nitter.meowing.monster/vanielvertmundi/status/2114152458372932009#m",
+            "metrics": {
+              "like_count": 0,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            },
+            "post_id": "2114151325617344686",
+            "parent_comment_id": "2114151325617344686",
+            "depth": 1
+          }
+        ],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114294051658690656",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114294051658690656",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114294051658690656",
+        "text": "VIRADOS COM LULA NO NORDESTE",
+        "author_username": "VandaFerraro",
+        "author_name": "VandaFerraro",
+        "created_at": "2026-10-25T09:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/VandaFerraro/status/2114294051658690656#m",
+        "metrics": {
+          "like_count": 17,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114292054889054370",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114292054889054370",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114292054889054370",
+        "text": "Vamos vencer, vamos bater na porta antes,mas NUNCA deixar de entrar. O Nordeste se levanta gigante!\n#HojeEuVotoLula",
+        "author_username": "VandaFerraro",
+        "author_name": "VandaFerraro",
+        "created_at": "2026-10-25T09:44:00+00:00",
+        "permalink": "https://nitter.meowing.monster/VandaFerraro/status/2114292054889054370#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114284623056212343",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114284623056212343",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114284623056212343",
+        "text": "Voos atrasados e do nordeste ?\nProibição de transportes do deslocamento dos indigenas \n\nMeu Deus...  #Brasil observe isso \n#Eleicoes2026  a mídia nem tá falando ... a memória midiatica é seletiva ne ?!",
+        "author_username": "Ly_gleyce",
+        "author_name": "Ly_gleyce",
+        "created_at": "2026-10-25T09:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Ly_gleyce/status/2114284623056212343#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114277681101431063",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114277681101431063",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114277681101431063",
+        "text": "Ah, se todo o NORDESTE escutasse isso aqui.",
+        "author_username": "TniaPeixoto",
+        "author_name": "TniaPeixoto",
+        "created_at": "2026-10-25T08:47:00+00:00",
+        "permalink": "https://nitter.meowing.monster/TniaPeixoto/status/2114277681101431063#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114265431594672436",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114265431594672436",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114265431594672436",
+        "text": "Hoje o Nordeste acordou gigante! Pela democracia! Educação! Vamos de 13! Vamos de Lula 13! \nEleições 2026 #Lula",
+        "author_username": "Genenholima",
+        "author_name": "Genenholima",
+        "created_at": "2026-10-25T07:58:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Genenholima/status/2114265431594672436#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114264390883021063",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114264390883021063",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114264390883021063",
+        "text": "Seja qual for o resultado, fiz a minha parte por um país melhor. Você fez história, #Lula. Fez a gente sonhar e acreditar que podemos chegar onde quisermos com esforço e suor. Viva o Nordeste! Viva o Brasil! Queria chegar aos 80 com essa garra, força, saúde.",
+        "author_username": "Genenholima",
+        "author_name": "Genenholima",
+        "created_at": "2026-10-25T07:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Genenholima/status/2114264390883021063#m",
+        "metrics": {
+          "like_count": 289,
+          "reply_count": 1,
+          "retweet_count": 4,
+          "quote_count": 16
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:raw:comment:2114283562832642129",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114283562832642129",
+      "post_id": "2114277681101431063",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114283562832642129",
+        "text": "Vc não viu as últimas manifestações?\n\nO nordeste está de parabéns. 🇧🇷👏🏻",
+        "author_username": "Opressor__ZV",
+        "author_name": "Opressor__ZV",
+        "created_at": "2026-10-25T09:10:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Opressor__ZV/status/2114283562832642129#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114277681101431063",
+        "parent_comment_id": "2114277681101431063",
+        "depth": 1
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:comment:2114286335548874968",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114286335548874968",
+      "post_id": "2114264390883021063",
+      "collected_at": "2026-10-25T07:32:14-03:00",
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "f5a9cf8c-3ecf-432c-a1df-04541e44f280",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114286335548874968",
+        "text": "🇧🇷 Bora ❤️ Lula 13 ⭐ 🇧🇷 #VamosVirar",
+        "author_username": "MarciaCristinaa",
+        "author_name": "MarciaCristinaa",
+        "created_at": "2026-10-25T09:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MarciaCristinaa/status/2114286335548874968#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114264390883021063",
+        "parent_comment_id": "2114264390883021063",
+        "depth": 1
+      }
+    }
+  ]
+}

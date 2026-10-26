@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "Nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+    "collected_at": "2026-10-25T03:28:58-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 7,
+      "comments": 0,
+      "records_total": 7,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114241019491308009",
+            "text": "E. Flávio Bolsonaro presidente 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 acorda. Brasil. Diz. Não. Ao. Comunismo. De. Maduro.ula. E. A mesma coisa está. Ajudando. Cuba tirando dos. Po te. O nordeste. Nem. Água. Deus.  Os nordestinos. Daram. A. Resposta. Obrigado. Deus",
+            "author_username": "mariase82907105",
+            "author_name": "mariase82907105",
+            "created_at": "2026-10-25T06:21:00+00:00",
+            "permalink": "https://nitter.netbub.com/mariase82907105/status/2114241019491308009#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114235311534358562",
+            "text": "Eu quero o nordeste independente.",
+            "author_username": "IamCarlosRib",
+            "author_name": "IamCarlosRib",
+            "created_at": "2026-10-25T05:59:00+00:00",
+            "permalink": "https://nitter.netbub.com/IamCarlosRib/status/2114235311534358562#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114234209275449515",
+            "text": "Nordeste, não me decepcione hoje!",
+            "author_username": "nunesaccl",
+            "author_name": "nunesaccl",
+            "created_at": "2026-10-25T05:54:00+00:00",
+            "permalink": "https://nitter.netbub.com/nunesaccl/status/2114234209275449515#m",
+            "metrics": {
+              "like_count": 51,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114230768444563766",
+            "text": "Todos os voos da gol aqui no salgado Filho para o nordeste foram cancelados, nesse sábado.  A Azul também fez isso. esperando o aeroporto fechar pros passageiros não ter o que fazer",
+            "author_username": "ElenaraLelex",
+            "author_name": "ElenaraLelex",
+            "created_at": "2026-10-25T05:41:00+00:00",
+            "permalink": "https://nitter.netbub.com/ElenaraLelex/status/2114230768444563766#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114223141492855181",
+            "text": "Estao cancelando voos que iriam pro nordeste com eleitores esses cancelamento so estao sendo pro nordeste algo estranho esta acontecendo,querem calar o NORDESTE, MAS NAO VAO CONSEGUIR!",
+            "author_username": "Elizabettlopes",
+            "author_name": "Elizabettlopes",
+            "created_at": "2026-10-25T05:10:00+00:00",
+            "permalink": "https://nitter.netbub.com/Elizabettlopes/status/2114223141492855181#m",
+            "metrics": {
+              "like_count": 8,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114212631082922227",
+            "text": "Já viu q estão cancelando vôos em direção ao nordeste? ... Esse país é uma vergonha",
+            "author_username": "caiocr_lins",
+            "author_name": "caiocr_lins",
+            "created_at": "2026-10-25T04:29:00+00:00",
+            "permalink": "https://nitter.netbub.com/caiocr_lins/status/2114212631082922227#m",
+            "metrics": {
+              "like_count": 7,
+              "reply_count": 0,
+              "retweet_count": 1,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114208407590691243",
+            "text": "Povo do norte e nordeste votem por nós por todos que são bons votem ⭐13 nós orgulhem de novo",
+            "author_username": "marcodrcardoso",
+            "author_name": "marcodrcardoso",
+            "created_at": "2026-10-25T04:12:00+00:00",
+            "permalink": "https://nitter.netbub.com/marcodrcardoso/status/2114208407590691243#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 3,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114241019491308009",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114241019491308009",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114241019491308009",
+        "text": "E. Flávio Bolsonaro presidente 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 22 🇧🇷 acorda. Brasil. Diz. Não. Ao. Comunismo. De. Maduro.ula. E. A mesma coisa está. Ajudando. Cuba tirando dos. Po te. O nordeste. Nem. Água. Deus.  Os nordestinos. Daram. A. Resposta. Obrigado. Deus",
+        "author_username": "mariase82907105",
+        "author_name": "mariase82907105",
+        "created_at": "2026-10-25T06:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/mariase82907105/status/2114241019491308009#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114235311534358562",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114235311534358562",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114235311534358562",
+        "text": "Eu quero o nordeste independente.",
+        "author_username": "IamCarlosRib",
+        "author_name": "IamCarlosRib",
+        "created_at": "2026-10-25T05:59:00+00:00",
+        "permalink": "https://nitter.netbub.com/IamCarlosRib/status/2114235311534358562#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114234209275449515",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114234209275449515",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114234209275449515",
+        "text": "Nordeste, não me decepcione hoje!",
+        "author_username": "nunesaccl",
+        "author_name": "nunesaccl",
+        "created_at": "2026-10-25T05:54:00+00:00",
+        "permalink": "https://nitter.netbub.com/nunesaccl/status/2114234209275449515#m",
+        "metrics": {
+          "like_count": 51,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114230768444563766",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114230768444563766",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114230768444563766",
+        "text": "Todos os voos da gol aqui no salgado Filho para o nordeste foram cancelados, nesse sábado.  A Azul também fez isso. esperando o aeroporto fechar pros passageiros não ter o que fazer",
+        "author_username": "ElenaraLelex",
+        "author_name": "ElenaraLelex",
+        "created_at": "2026-10-25T05:41:00+00:00",
+        "permalink": "https://nitter.netbub.com/ElenaraLelex/status/2114230768444563766#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114223141492855181",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114223141492855181",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114223141492855181",
+        "text": "Estao cancelando voos que iriam pro nordeste com eleitores esses cancelamento so estao sendo pro nordeste algo estranho esta acontecendo,querem calar o NORDESTE, MAS NAO VAO CONSEGUIR!",
+        "author_username": "Elizabettlopes",
+        "author_name": "Elizabettlopes",
+        "created_at": "2026-10-25T05:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/Elizabettlopes/status/2114223141492855181#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114212631082922227",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114212631082922227",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114212631082922227",
+        "text": "Já viu q estão cancelando vôos em direção ao nordeste? ... Esse país é uma vergonha",
+        "author_username": "caiocr_lins",
+        "author_name": "caiocr_lins",
+        "created_at": "2026-10-25T04:29:00+00:00",
+        "permalink": "https://nitter.netbub.com/caiocr_lins/status/2114212631082922227#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114208407590691243",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114208407590691243",
+      "collected_at": "2026-10-25T03:28:58-03:00",
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "Nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114208407590691243",
+        "text": "Povo do norte e nordeste votem por nós por todos que são bons votem ⭐13 nós orgulhem de novo",
+        "author_username": "marcodrcardoso",
+        "author_name": "marcodrcardoso",
+        "created_at": "2026-10-25T04:12:00+00:00",
+        "permalink": "https://nitter.netbub.com/marcodrcardoso/status/2114208407590691243#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

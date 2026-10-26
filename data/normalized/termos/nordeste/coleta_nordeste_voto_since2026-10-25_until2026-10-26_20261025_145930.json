@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste voto",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T14:59:30-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 19
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114407438271062032",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114407438271062032",
+      "parent_post_id": null,
+      "thread_root_id": "2114407438271062032",
+      "author": {
+        "platform_id": null,
+        "display_name": "fabiofelixdf",
+        "username": "fabiofelixdf",
+        "profile_url": "https://x.com/fabiofelixdf"
+      },
+      "text": "É absurdo e criminoso que, em mais uma eleição, agentes públicos estejam agindo para impedir a circulação de ônibus e dificultar que eleitores do Nordeste exerçam seu direito democrático ao voto.\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+      "created_at": "2026-10-25T17:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T14:59:30-03:00",
+      "permalink": "https://nitter.meowing.monster/fabiofelixdf/status/2114407438271062032#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 7,
+        "retweet_count": 65,
+        "quote_count": 194
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114407438271062032",
+        "text": "É absurdo e criminoso que, em mais uma eleição, agentes públicos estejam agindo para impedir a circulação de ônibus e dificultar que eleitores do Nordeste exerçam seu direito democrático ao voto.\n\n#DeixemONordesteVotar\n#LulaPelaDemocracia\n#DeixemABahiaVotar\n#HojeEuVotoLula",
+        "author_username": "fabiofelixdf",
+        "author_name": "fabiofelixdf",
+        "created_at": "2026-10-25T17:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fabiofelixdf/status/2114407438271062032#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 7,
+          "retweet_count": 65,
+          "quote_count": 194
+        }
+      },
+      "normalized": {
+        "text_length": 273,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114408582376567154",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114408582376567154",
+      "post_id": "2114407438271062032",
+      "parent_comment_id": "2114407438271062032",
+      "thread_root_id": "2114407438271062032",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "vmiinbf",
+        "username": "vmiinbf",
+        "profile_url": null
+      },
+      "text": "🗳️🇧🇷 PRORROGAÇÃO JÁ!\n\nTodo brasileiro tem direito ao voto. Nenhum eleitor pode ser impedido de exercer sua cidadania!\n\n#ProrrogaçãoJá #DireitoAoVoto #DeixemOPovoVotar",
+      "created_at": "2026-10-25T17:27:00+00:00",
+      "collected_at": "2026-10-25T14:59:30-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/vmiinbf/status/2114408582376567154#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste voto",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114408582376567154",
+        "text": "🗳️🇧🇷 PRORROGAÇÃO JÁ!\n\nTodo brasileiro tem direito ao voto. Nenhum eleitor pode ser impedido de exercer sua cidadania!\n\n#ProrrogaçãoJá #DireitoAoVoto #DeixemOPovoVotar",
+        "author_username": "vmiinbf",
+        "author_name": "vmiinbf",
+        "created_at": "2026-10-25T17:27:00+00:00",
+        "permalink": "https://nitter.meowing.monster/vmiinbf/status/2114408582376567154#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114407438271062032",
+        "parent_comment_id": "2114407438271062032",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 166,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}

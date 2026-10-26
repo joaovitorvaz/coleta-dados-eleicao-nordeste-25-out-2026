@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "maranhense",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T11:31:16-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114342160761766282",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114342160761766282",
+      "parent_post_id": null,
+      "thread_root_id": "2114342160761766282",
+      "author": {
+        "platform_id": null,
+        "display_name": "dariofonseca_",
+        "username": "dariofonseca_",
+        "profile_url": "https://x.com/dariofonseca_"
+      },
+      "text": "Primeiramente, maranhense????\nSegundamente, essas porras estão confortáveis demais pra cometer crime e ainda postar",
+      "created_at": "2026-10-25T13:03:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T11:31:16-03:00",
+      "permalink": "https://nitter.netbub.com/dariofonseca_/status/2114342160761766282#m",
+      "metrics": {
+        "like_count": 23,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "maranhense",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114342160761766282",
+        "text": "Primeiramente, maranhense????\nSegundamente, essas porras estão confortáveis demais pra cometer crime e ainda postar",
+        "author_username": "dariofonseca_",
+        "author_name": "dariofonseca_",
+        "created_at": "2026-10-25T13:03:00+00:00",
+        "permalink": "https://nitter.netbub.com/dariofonseca_/status/2114342160761766282#m",
+        "metrics": {
+          "like_count": 23,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 115,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste segundo turno",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T15:39:06-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114396091751813210",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114396091751813210",
+      "parent_post_id": null,
+      "thread_root_id": "2114396091751813210",
+      "author": {
+        "platform_id": null,
+        "display_name": "FialhoSa",
+        "username": "FialhoSa",
+        "profile_url": "https://x.com/FialhoSa"
+      },
+      "text": "Tenho a impressão, que Flávio tem que ganhar em Minas, São Paulo e nas capitais que ganhou no segundo turno, porque me desculpem ainda acho que o nordeste vai dá vitória para o Biden. Tem que se garantir em Minas e SP.",
+      "created_at": "2026-10-25T16:38:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T15:39:06-03:00",
+      "permalink": "https://nitter.mie.foundation/FialhoSa/status/2114396091751813210#m",
+      "metrics": {
+        "like_count": 37,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste segundo turno",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114396091751813210",
+        "text": "Tenho a impressão, que Flávio tem que ganhar em Minas, São Paulo e nas capitais que ganhou no segundo turno, porque me desculpem ainda acho que o nordeste vai dá vitória para o Biden. Tem que se garantir em Minas e SP.",
+        "author_username": "FialhoSa",
+        "author_name": "FialhoSa",
+        "created_at": "2026-10-25T16:38:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FialhoSa/status/2114396091751813210#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 218,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

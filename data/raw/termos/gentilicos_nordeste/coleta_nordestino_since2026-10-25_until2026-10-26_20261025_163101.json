@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T16:31:01-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 6
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114414872217681940",
+            "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+            "author_username": "Silviamae",
+            "author_name": "Silviamae",
+            "created_at": "2026-10-25T17:52:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114401639821951241",
+            "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+            "author_username": "PataxoThyara",
+            "author_name": "PataxoThyara",
+            "created_at": "2026-10-25T17:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+            "metrics": {
+              "like_count": 250,
+              "reply_count": 0,
+              "retweet_count": 2,
+              "quote_count": 8
+            }
+          },
+          {
+            "id": "2114395992456065094",
+            "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+            "author_username": "PsicoLeilaCosta",
+            "author_name": "PsicoLeilaCosta",
+            "created_at": "2026-10-25T16:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+            "metrics": {
+              "like_count": 25,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114395008618868922",
+            "text": "ATÉ NA BAHIA? \nBahia era um reduto petista \nO nordeste brasileiro acordou \nEles tentaram calarem o povo nordestino mas não conseguia \nO povo nordestino irá votar Flávio 22",
+            "author_username": "DivinoAlvesdeP1",
+            "author_name": "DivinoAlvesdeP1",
+            "created_at": "2026-10-25T16:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114395008618868922#m",
+            "metrics": {
+              "like_count": 19,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114380929187623065",
+            "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+            "author_username": "gyelsew",
+            "author_name": "gyelsew",
+            "created_at": "2026-10-25T15:37:00+00:00",
+            "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114368174422458764",
+            "text": "Apesar da angústia e do medo é muito bom ser nordestino e morar no Nordeste.  Vários carros adesivados e buzinando pra gente. Fascista aqui não se cria. Eu acredito na virada ❤️ #Lula13",
+            "author_username": "wanderson26",
+            "author_name": "wanderson26",
+            "created_at": "2026-10-25T14:47:00+00:00",
+            "permalink": "https://nitter.meowing.monster/wanderson26/status/2114368174422458764#m",
+            "metrics": {
+              "like_count": 11,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114349597334106277",
+            "text": "Um Carcará passou sobrevoando a minha zona de votação, um bom nordestino sabe o que isso significa. ⭐❤️",
+            "author_username": "Willtrends",
+            "author_name": "Willtrends",
+            "created_at": "2026-10-25T13:33:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Willtrends/status/2114349597334106277#m",
+            "metrics": {
+              "like_count": 346,
+              "reply_count": 2,
+              "retweet_count": 0,
+              "quote_count": 17
+            }
+          },
+          {
+            "id": "2114345588481315079",
+            "text": "instagram.com/reel/De4m5fiiZ…\nÉ esse espírito nordestino, @nikolas_dm , q nos mantém fortes, lutadores e lúcidos. Somos impulsionados pela coragem e não pela covardia. A tua raiva é porque aqui DIREITA não se CRIA. Sabe por quê?\nÉ  porque o nosso alimento é nocivo pra vocês: CARÁTER!",
+            "author_username": "paulo47araujo",
+            "author_name": "paulo47araujo",
+            "created_at": "2026-10-25T13:17:00+00:00",
+            "permalink": "https://nitter.meowing.monster/paulo47araujo/status/2114345588481315079#m",
+            "metrics": {
+              "like_count": 14,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114330767518007580",
+            "text": "SENTIU\n\n(E ainda por cima nordestino bolsonarista - a piada vem pronta)",
+            "author_username": "priiidernocka",
+            "author_name": "priiidernocka",
+            "created_at": "2026-10-25T12:18:00+00:00",
+            "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114330767518007580#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114318805664960900",
+            "text": "Lula é tipo \"eu levei o ITA pro Ceará porque os cearenses eram os mais aprovados no ITA 🗿\" e o Flávio \"você nordestino vai ganhar tua gorjeta em dólar tá ok 😎👉🏻🇺🇸🇮🇱\"",
+            "author_username": "jvspalbuquerque",
+            "author_name": "jvspalbuquerque",
+            "created_at": "2026-10-25T11:31:00+00:00",
+            "permalink": "https://nitter.meowing.monster/jvspalbuquerque/status/2114318805664960900#m",
+            "metrics": {
+              "like_count": 65,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 4
+            }
+          },
+          {
+            "id": "2114287249374278056",
+            "text": "Ontem, eu não fui apenas a um ato político: fui defender o direito de existir, amar e viver sem medo no meu próprio país. ❤️🏳️‍🌈🇧🇷 Como homem gay, nordestino e alguém que nunca deixou de acreditar na democracia, sigo ao lado de Lula! #LULAVAIVENCER #ExercitoDoLula ❤️⭐️🏳️‍🌈😍🙏",
+            "author_username": "Israelbarbosa_",
+            "author_name": "Israelbarbosa_",
+            "created_at": "2026-10-25T09:25:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Israelbarbosa_/status/2114287249374278056#m",
+            "metrics": {
+              "like_count": 28,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114178721556873236",
+            "text": "PETISTA QUE ODEIA NORDESTINO..",
+            "author_username": "065999036707cba",
+            "author_name": "065999036707cba",
+            "created_at": "2026-10-25T02:14:00+00:00",
+            "permalink": "https://nitter.meowing.monster/065999036707cba/status/2114178721556873236#m",
+            "metrics": {
+              "like_count": 899,
+              "reply_count": 0,
+              "retweet_count": 17,
+              "quote_count": 42
+            }
+          },
+          {
+            "id": "2114128353389134333",
+            "text": "A GOL, está boicotando o povo nordestino! Será q tem o dedo de FB? Ou q sabe de um governador, prefeito, empresário bolsonaristas??!\n@Mari_Jurema @mariarita4141 @DeniLazzaroto @SilasPortugalR1 @edmilsonsap @VeraRaich @ZATANGOIES @LeonelRadde @Alice_inland13 @vinicios_betiol",
+            "author_username": "LilineRey",
+            "author_name": "LilineRey",
+            "created_at": "2026-10-24T22:54:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LilineRey/status/2114128353389134333#m",
+            "metrics": {
+              "like_count": 21,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114075879777386897",
+            "text": "Nordestino tá acostumado a ser forte 💪.",
+            "author_username": "Silviamae",
+            "author_name": "Silviamae",
+            "created_at": "2026-10-24T19:25:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Silviamae/status/2114075879777386897#m",
+            "metrics": {
+              "like_count": 23,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 2
+            }
+          },
+          {
+            "id": "2114033385676964101",
+            "text": "Se sobrou algum nordestino q vota nesse homem nem sei",
+            "author_username": "Thaisicess",
+            "author_name": "Thaisicess",
+            "created_at": "2026-10-24T16:36:00+00:00",
+            "permalink": "https://nitter.mie.foundation/Thaisicess/status/2114033385676964101#m",
+            "metrics": {
+              "like_count": 3,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114028048836166029",
+            "text": "Bem tem alguns que seriam, uma minoria, mas teria. Tipo eu se minha família não tivesse vendido e doado umas terras. Kkkkkkkkk talvez eu estaria ferrado uns nordestino por aí. Que nem meu avô kkkkkkkkk",
+            "author_username": "D3m6ni0",
+            "author_name": "D3m6ni0",
+            "created_at": "2026-10-24T16:15:00+00:00",
+            "permalink": "https://nitter.mie.foundation/D3m6ni0/status/2114028048836166029#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114024906312863835",
+            "text": "Sou nordestino, voto Flávio Bolsonaro 22.",
+            "author_username": "davidplopesc",
+            "author_name": "davidplopesc",
+            "created_at": "2026-10-24T16:03:00+00:00",
+            "permalink": "https://nitter.mie.foundation/davidplopesc/status/2114024906312863835#m",
+            "metrics": {
+              "like_count": 2,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114414872217681940",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114414872217681940",
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114414872217681940",
+        "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+        "author_username": "Silviamae",
+        "author_name": "Silviamae",
+        "created_at": "2026-10-25T17:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114401639821951241",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114401639821951241",
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114401639821951241",
+        "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+        "author_username": "PataxoThyara",
+        "author_name": "PataxoThyara",
+        "created_at": "2026-10-25T17:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+        "metrics": {
+          "like_count": 250,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 8
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114395992456065094",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395992456065094",
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114395992456065094",
+        "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+        "author_username": "PsicoLeilaCosta",
+        "author_name": "PsicoLeilaCosta",
+        "created_at": "2026-10-25T16:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114395008618868922",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395008618868922",
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114395008618868922",
+        "text": "ATÉ NA BAHIA? \nBahia era um reduto petista \nO nordeste brasileiro acordou \nEles tentaram calarem o povo nordestino mas não conseguia \nO povo nordestino irá votar Flávio 22",
+        "author_username": "DivinoAlvesdeP1",
+        "author_name": "DivinoAlvesdeP1",
+        "created_at": "2026-10-25T16:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114395008618868922#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114380929187623065",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114380929187623065",
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114380929187623065",
+        "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+        "author_username": "gyelsew",
+        "author_name": "gyelsew",
+        "created_at": "2026-10-25T15:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    }
+  ],
+  "comments": []
+}

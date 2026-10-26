@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T17:09:45-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 2
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114390487008497683",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114390487008497683",
+      "parent_post_id": null,
+      "thread_root_id": "2114390487008497683",
+      "author": {
+        "platform_id": null,
+        "display_name": "xxdepr",
+        "username": "xxdepr",
+        "profile_url": "https://x.com/xxdepr"
+      },
+      "text": "estou totalmente emocionada em votar em Lula pela ultima vez, obrigada pelas oportunidades concedidas à nós, em específico aos nordestinos. Nunca esqueceremos do maior presidente que tivemos, que der tudo certo!!!!! 🥹⭐️❤️",
+      "created_at": "2026-10-25T16:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T17:09:45-03:00",
+      "permalink": "https://nitter.meowing.monster/xxdepr/status/2114390487008497683#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114390487008497683",
+        "text": "estou totalmente emocionada em votar em Lula pela ultima vez, obrigada pelas oportunidades concedidas à nós, em específico aos nordestinos. Nunca esqueceremos do maior presidente que tivemos, que der tudo certo!!!!! 🥹⭐️❤️",
+        "author_username": "xxdepr",
+        "author_name": "xxdepr",
+        "created_at": "2026-10-25T16:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/xxdepr/status/2114390487008497683#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 221,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114361229062160672",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114361229062160672",
+      "parent_post_id": null,
+      "thread_root_id": "2114361229062160672",
+      "author": {
+        "platform_id": null,
+        "display_name": "matsimon",
+        "username": "matsimon",
+        "profile_url": "https://x.com/matsimon"
+      },
+      "text": "Austrália e Nova Zelândia com Lula bem na frente... a pessoa sai do Brasil para um país capitalista de primeiro mundo para votar no PT... exatamente igual aos nordestinos fazem indo pra outras regiões do país em busca de melhores condições de vida!",
+      "created_at": "2026-10-25T14:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T17:09:45-03:00",
+      "permalink": "https://nitter.meowing.monster/matsimon/status/2114361229062160672#m",
+      "metrics": {
+        "like_count": 59,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114361229062160672",
+        "text": "Austrália e Nova Zelândia com Lula bem na frente... a pessoa sai do Brasil para um país capitalista de primeiro mundo para votar no PT... exatamente igual aos nordestinos fazem indo pra outras regiões do país em busca de melhores condições de vida!",
+        "author_username": "matsimon",
+        "author_name": "matsimon",
+        "created_at": "2026-10-25T14:19:00+00:00",
+        "permalink": "https://nitter.meowing.monster/matsimon/status/2114361229062160672#m",
+        "metrics": {
+          "like_count": 59,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 248,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114356144508428657",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114356144508428657",
+      "parent_post_id": null,
+      "thread_root_id": "2114356144508428657",
+      "author": {
+        "platform_id": null,
+        "display_name": "Thiagosouzasite",
+        "username": "Thiagosouzasite",
+        "profile_url": "https://x.com/Thiagosouzasite"
+      },
+      "text": "Nós salvem por favor Nordestinos, por favor nos salvem, sabemos a democracia!!! #VivaLula13\n#DeixemONordesteVotar",
+      "created_at": "2026-10-25T13:59:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T17:09:45-03:00",
+      "permalink": "https://nitter.meowing.monster/Thiagosouzasite/status/2114356144508428657#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114356144508428657",
+        "text": "Nós salvem por favor Nordestinos, por favor nos salvem, sabemos a democracia!!! #VivaLula13\n#DeixemONordesteVotar",
+        "author_username": "Thiagosouzasite",
+        "author_name": "Thiagosouzasite",
+        "created_at": "2026-10-25T13:59:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Thiagosouzasite/status/2114356144508428657#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 113,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

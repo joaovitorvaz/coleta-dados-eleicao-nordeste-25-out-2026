@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiana",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+    "collected_at": "2026-10-25T03:28:16-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114222866023534601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114222866023534601",
+      "parent_post_id": null,
+      "thread_root_id": "2114222866023534601",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Tadinho 😂",
+      "created_at": "2026-10-25T05:09:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114222866023534601#m",
+      "metrics": {
+        "like_count": 57,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114222866023534601",
+        "text": "Tadinho 😂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114222866023534601#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 9,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114221589948457114",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114221589948457114",
+      "parent_post_id": null,
+      "thread_root_id": "2114221589948457114",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Não pode ser a 1 por tem eu aqui 😂😂😂",
+      "created_at": "2026-10-25T05:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221589948457114#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114221589948457114",
+        "text": "Não pode ser a 1 por tem eu aqui 😂😂😂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221589948457114#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 36,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114221475875930423",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114221475875930423",
+      "parent_post_id": null,
+      "thread_root_id": "2114221475875930423",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Para mais um evento lindo da nossa Lady👑 lindo de vê Smiley 🫂",
+      "created_at": "2026-10-25T05:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221475875930423#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114221475875930423",
+        "text": "Para mais um evento lindo da nossa Lady👑 lindo de vê Smiley 🫂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221475875930423#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114205736708239652",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114205736708239652",
+      "parent_post_id": null,
+      "thread_root_id": "2114205736708239652",
+      "author": {
+        "platform_id": null,
+        "display_name": "Deusemarav",
+        "username": "Deusemarav",
+        "profile_url": "https://x.com/Deusemarav"
+      },
+      "text": "orgulho de ser baiana",
+      "created_at": "2026-10-25T04:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "permalink": "https://nitter.meowing.monster/Deusemarav/status/2114205736708239652#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114205736708239652",
+        "text": "orgulho de ser baiana",
+        "author_username": "Deusemarav",
+        "author_name": "Deusemarav",
+        "created_at": "2026-10-25T04:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Deusemarav/status/2114205736708239652#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 21,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

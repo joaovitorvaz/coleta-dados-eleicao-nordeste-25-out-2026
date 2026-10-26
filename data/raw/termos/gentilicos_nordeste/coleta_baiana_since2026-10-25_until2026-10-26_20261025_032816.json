@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiana",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+    "collected_at": "2026-10-25T03:28:16-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 4,
+      "comments": 0,
+      "records_total": 4,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114222866023534601",
+            "text": "Tadinho 😂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:09:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114222866023534601#m",
+            "metrics": {
+              "like_count": 57,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114221589948457114",
+            "text": "Não pode ser a 1 por tem eu aqui 😂😂😂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221589948457114#m",
+            "metrics": {
+              "like_count": 18,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114221475875930423",
+            "text": "Para mais um evento lindo da nossa Lady👑 lindo de vê Smiley 🫂",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T05:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221475875930423#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114205736708239652",
+            "text": "orgulho de ser baiana",
+            "author_username": "Deusemarav",
+            "author_name": "Deusemarav",
+            "created_at": "2026-10-25T04:01:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Deusemarav/status/2114205736708239652#m",
+            "metrics": {
+              "like_count": 9,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114190174104027287",
+            "text": "Tão bom vê você bem, que Deus só multiplique...te amo, meu coração tá feliz por ti, agora só falta o outra...",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:59:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114190174104027287#m",
+            "metrics": {
+              "like_count": 54,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114189295191826496",
+            "text": "Kkkkkk, deveria fazer mais com frequência essas brincadeiras felizes, chama Charlooootteee pra te dar massagem, ela com aquela mão destamanhaaa e aí queria socar suas costas, a irmãzinha é muito travessa.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:56:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114189295191826496#m",
+            "metrics": {
+              "like_count": 69,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114188976521126111",
+            "text": "fico com um riso bobo no canto da boca qnd lembro que o meu governador indígena (de origem tupinambá, do município de aiquara interior da Bahia reeleito em 1° turno contra o neto da dinastia baiana magalhães), Jero, o Jeronimo Rodrigues, é torcedor do Vitória ♥️🖤",
+            "author_username": "oicaruru",
+            "author_name": "oicaruru",
+            "created_at": "2026-10-25T02:55:00+00:00",
+            "permalink": "https://nitter.meowing.monster/oicaruru/status/2114188976521126111#m",
+            "metrics": {
+              "like_count": 27,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114187307980906531",
+            "text": "O carinho e amizade linda, e cuidado da Faye com a pequena",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T02:48:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114187307980906531#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114161535236927522",
+            "text": "A gente já sente orgulho, quero mesmo que você comece a fazer também por ti, eu te amo pelo que é, você já é tudo...@EWaraha sendo a maior estrela ou não em qualquer produção sempre será única para mim. Te amo e se cuide.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:06:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114161535236927522#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114161112081981561",
+            "text": "Faye é maravilhosa como todos.",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:04:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114161112081981561#m",
+            "metrics": {
+              "like_count": 29,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          },
+          {
+            "id": "2114160011811164380",
+            "text": "Ela tá se recuperando",
+            "author_username": "fenixbaiana",
+            "author_name": "fenixbaiana",
+            "created_at": "2026-10-25T01:00:00+00:00",
+            "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114160011811164380#m",
+            "metrics": {
+              "like_count": 1,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.meowing.monster"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114222866023534601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114222866023534601",
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114222866023534601",
+        "text": "Tadinho 😂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:09:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114222866023534601#m",
+        "metrics": {
+          "like_count": 57,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114221589948457114",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114221589948457114",
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114221589948457114",
+        "text": "Não pode ser a 1 por tem eu aqui 😂😂😂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221589948457114#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114221475875930423",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114221475875930423",
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114221475875930423",
+        "text": "Para mais um evento lindo da nossa Lady👑 lindo de vê Smiley 🫂",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T05:04:00+00:00",
+        "permalink": "https://nitter.meowing.monster/fenixbaiana/status/2114221475875930423#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114205736708239652",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114205736708239652",
+      "collected_at": "2026-10-25T03:28:16-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114205736708239652",
+        "text": "orgulho de ser baiana",
+        "author_username": "Deusemarav",
+        "author_name": "Deusemarav",
+        "created_at": "2026-10-25T04:01:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Deusemarav/status/2114205736708239652#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

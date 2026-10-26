@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T13:01:55-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 0,
+      "comments": 2,
+      "records_total": 2,
+      "skipped_duplicate": 60
+    }
+  },
+  "posts": [],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114376766567633247",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114376766567633247",
+      "post_id": "2114375399824032155",
+      "parent_comment_id": "2114375399824032155",
+      "thread_root_id": "2114375399824032155",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "bieltive",
+        "username": "bieltive",
+        "profile_url": null
+      },
+      "text": "prometa",
+      "created_at": "2026-10-25T15:21:00+00:00",
+      "collected_at": "2026-10-25T13:01:54-03:00",
+      "parent_post_url": "https://nitter.netbub.com/bieltive/status/2114376766567633247#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114376766567633247",
+        "text": "prometa",
+        "author_username": "bieltive",
+        "author_name": "bieltive",
+        "created_at": "2026-10-25T15:21:00+00:00",
+        "permalink": "https://nitter.netbub.com/bieltive/status/2114376766567633247#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114375399824032155",
+        "parent_comment_id": "2114375399824032155",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 7,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:comment:2114373735469776907",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114373735469776907",
+      "post_id": "2114371374487617757",
+      "parent_comment_id": "2114371374487617757",
+      "thread_root_id": "2114371374487617757",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "exmutantexmen",
+        "username": "exmutantexmen",
+        "profile_url": null
+      },
+      "text": "Eles farão de tudo para atrapalhar. O que cabe a nós, é acreditar e torcer.",
+      "created_at": "2026-10-25T15:09:00+00:00",
+      "collected_at": "2026-10-25T13:01:54-03:00",
+      "parent_post_url": "https://nitter.netbub.com/exmutantexmen/status/2114373735469776907#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114373735469776907",
+        "text": "Eles farão de tudo para atrapalhar. O que cabe a nós, é acreditar e torcer.",
+        "author_username": "exmutantexmen",
+        "author_name": "exmutantexmen",
+        "created_at": "2026-10-25T15:09:00+00:00",
+        "permalink": "https://nitter.netbub.com/exmutantexmen/status/2114373735469776907#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114371374487617757",
+        "parent_comment_id": "2114371374487617757",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 75,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}

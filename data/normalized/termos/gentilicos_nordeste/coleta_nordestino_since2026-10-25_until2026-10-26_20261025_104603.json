@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T10:46:03-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 6,
+      "comments": 0,
+      "records_total": 6,
+      "skipped_duplicate": 0
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114333972733849622",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114333972733849622",
+      "parent_post_id": null,
+      "thread_root_id": "2114333972733849622",
+      "author": {
+        "platform_id": null,
+        "display_name": "ciceropatriicio",
+        "username": "ciceropatriicio",
+        "profile_url": "https://x.com/ciceropatriicio"
+      },
+      "text": "Sou Nordestino e quero que o Flávio Bolsonaro se foda",
+      "created_at": "2026-10-25T12:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.meowing.monster/ciceropatriicio/status/2114333972733849622#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "bolsonaro",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114333972733849622",
+        "text": "Sou Nordestino e quero que o Flávio Bolsonaro se foda",
+        "author_username": "ciceropatriicio",
+        "author_name": "ciceropatriicio",
+        "created_at": "2026-10-25T12:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ciceropatriicio/status/2114333972733849622#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 53,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114330767518007580",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114330767518007580",
+      "parent_post_id": null,
+      "thread_root_id": "2114330767518007580",
+      "author": {
+        "platform_id": null,
+        "display_name": "priiidernocka",
+        "username": "priiidernocka",
+        "profile_url": "https://x.com/priiidernocka"
+      },
+      "text": "SENTIU\n\n(E ainda por cima nordestino bolsonarista - a piada vem pronta)",
+      "created_at": "2026-10-25T12:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114330767518007580#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114330767518007580",
+        "text": "SENTIU\n\n(E ainda por cima nordestino bolsonarista - a piada vem pronta)",
+        "author_username": "priiidernocka",
+        "author_name": "priiidernocka",
+        "created_at": "2026-10-25T12:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/priiidernocka/status/2114330767518007580#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 71,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114318805664960900",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114318805664960900",
+      "parent_post_id": null,
+      "thread_root_id": "2114318805664960900",
+      "author": {
+        "platform_id": null,
+        "display_name": "jvspalbuquerque",
+        "username": "jvspalbuquerque",
+        "profile_url": "https://x.com/jvspalbuquerque"
+      },
+      "text": "Lula é tipo \"eu levei o ITA pro Ceará porque os cearenses eram os mais aprovados no ITA 🗿\" e o Flávio \"você nordestino vai ganhar tua gorjeta em dólar tá ok 😎👉🏻🇺🇸🇮🇱\"",
+      "created_at": "2026-10-25T11:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.meowing.monster/jvspalbuquerque/status/2114318805664960900#m",
+      "metrics": {
+        "like_count": 34,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 2
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114318805664960900",
+        "text": "Lula é tipo \"eu levei o ITA pro Ceará porque os cearenses eram os mais aprovados no ITA 🗿\" e o Flávio \"você nordestino vai ganhar tua gorjeta em dólar tá ok 😎👉🏻🇺🇸🇮🇱\"",
+        "author_username": "jvspalbuquerque",
+        "author_name": "jvspalbuquerque",
+        "created_at": "2026-10-25T11:31:00+00:00",
+        "permalink": "https://nitter.meowing.monster/jvspalbuquerque/status/2114318805664960900#m",
+        "metrics": {
+          "like_count": 34,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 2
+        }
+      },
+      "normalized": {
+        "text_length": 165,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114287249374278056",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114287249374278056",
+      "parent_post_id": null,
+      "thread_root_id": "2114287249374278056",
+      "author": {
+        "platform_id": null,
+        "display_name": "Israelbarbosa_",
+        "username": "Israelbarbosa_",
+        "profile_url": "https://x.com/Israelbarbosa_"
+      },
+      "text": "Ontem, eu não fui apenas a um ato político: fui defender o direito de existir, amar e viver sem medo no meu próprio país. ❤️🏳️‍🌈🇧🇷 Como homem gay, nordestino e alguém que nunca deixou de acreditar na democracia, sigo ao lado de Lula! #LULAVAIVENCER #ExercitoDoLula ❤️⭐️🏳️‍🌈😍🙏",
+      "created_at": "2026-10-25T09:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.meowing.monster/Israelbarbosa_/status/2114287249374278056#m",
+      "metrics": {
+        "like_count": 22,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114287249374278056",
+        "text": "Ontem, eu não fui apenas a um ato político: fui defender o direito de existir, amar e viver sem medo no meu próprio país. ❤️🏳️‍🌈🇧🇷 Como homem gay, nordestino e alguém que nunca deixou de acreditar na democracia, sigo ao lado de Lula! #LULAVAIVENCER #ExercitoDoLula ❤️⭐️🏳️‍🌈😍🙏",
+        "author_username": "Israelbarbosa_",
+        "author_name": "Israelbarbosa_",
+        "created_at": "2026-10-25T09:25:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Israelbarbosa_/status/2114287249374278056#m",
+        "metrics": {
+          "like_count": 22,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 275,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114345588481315079",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114345588481315079",
+      "parent_post_id": null,
+      "thread_root_id": "2114345588481315079",
+      "author": {
+        "platform_id": null,
+        "display_name": "paulo47araujo",
+        "username": "paulo47araujo",
+        "profile_url": "https://x.com/paulo47araujo"
+      },
+      "text": "instagram.com/reel/De4m5fiiZ…\nÉ esse espírito nordestino, @nikolas_dm , q nos mantém fortes, lutadores e lúcidos. Somos impulsionados pela coragem e não pela covardia. A tua raiva é porque aqui DIREITA não se CRIA. Sabe por quê?\nÉ  porque o nosso alimento é nocivo pra vocês: CARÁTER!",
+      "created_at": "2026-10-25T13:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2114345588481315079#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "direita",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114345588481315079",
+        "text": "instagram.com/reel/De4m5fiiZ…\nÉ esse espírito nordestino, @nikolas_dm , q nos mantém fortes, lutadores e lúcidos. Somos impulsionados pela coragem e não pela covardia. A tua raiva é porque aqui DIREITA não se CRIA. Sabe por quê?\nÉ  porque o nosso alimento é nocivo pra vocês: CARÁTER!",
+        "author_username": "paulo47araujo",
+        "author_name": "paulo47araujo",
+        "created_at": "2026-10-25T13:17:00+00:00",
+        "permalink": "https://nitter.mie.foundation/paulo47araujo/status/2114345588481315079#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 284,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114349597334106277",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114349597334106277",
+      "parent_post_id": null,
+      "thread_root_id": "2114349597334106277",
+      "author": {
+        "platform_id": null,
+        "display_name": "Willtrends",
+        "username": "Willtrends",
+        "profile_url": "https://x.com/Willtrends"
+      },
+      "text": "Um Carcará passou sobrevoando a minha zona de votação, um bom nordestino sabe o que isso significa. ⭐❤️",
+      "created_at": "2026-10-25T13:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:46:03-03:00",
+      "permalink": "https://nitter.mie.foundation/Willtrends/status/2114349597334106277#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 48,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114349597334106277",
+        "text": "Um Carcará passou sobrevoando a minha zona de votação, um bom nordestino sabe o que isso significa. ⭐❤️",
+        "author_username": "Willtrends",
+        "author_name": "Willtrends",
+        "created_at": "2026-10-25T13:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Willtrends/status/2114349597334106277#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 103,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T12:08:05-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 1
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114365418563375168",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114365418563375168",
+      "parent_post_id": null,
+      "thread_root_id": "2114365418563375168",
+      "author": {
+        "platform_id": null,
+        "display_name": "__peixinha",
+        "username": "__peixinha",
+        "profile_url": "https://x.com/__peixinha"
+      },
+      "text": "EU NÃO QUERO CLIMA DE VELÓRIO. JA TÔ OUVINDO MEU PAGODÃO BAIANO E PENSANDO NO CARNAVAL",
+      "created_at": "2026-10-25T14:36:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:08:05-03:00",
+      "permalink": "https://nitter.netbub.com/__peixinha/status/2114365418563375168#m",
+      "metrics": {
+        "like_count": 3,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114365418563375168",
+        "text": "EU NÃO QUERO CLIMA DE VELÓRIO. JA TÔ OUVINDO MEU PAGODÃO BAIANO E PENSANDO NO CARNAVAL",
+        "author_username": "__peixinha",
+        "author_name": "__peixinha",
+        "created_at": "2026-10-25T14:36:00+00:00",
+        "permalink": "https://nitter.netbub.com/__peixinha/status/2114365418563375168#m",
+        "metrics": {
+          "like_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 86,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114342709389406626",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114342709389406626",
+      "parent_post_id": null,
+      "thread_root_id": "2114342709389406626",
+      "author": {
+        "platform_id": null,
+        "display_name": "jandira_mata",
+        "username": "jandira_mata",
+        "profile_url": "https://x.com/jandira_mata"
+      },
+      "text": "É lá  q mora o baiano australiano de bigodinho a la Hitler. Não  saiu do X  falando mal do @nikolas_dm. Nada fez prá  angariar votos prá  direita  nem aqui e nem na Australia",
+      "created_at": "2026-10-25T13:05:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:08:05-03:00",
+      "permalink": "https://nitter.netbub.com/jandira_mata/status/2114342709389406626#m",
+      "metrics": {
+        "like_count": 136,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "direita"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 11,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114342709389406626",
+        "text": "É lá  q mora o baiano australiano de bigodinho a la Hitler. Não  saiu do X  falando mal do @nikolas_dm. Nada fez prá  angariar votos prá  direita  nem aqui e nem na Australia",
+        "author_username": "jandira_mata",
+        "author_name": "jandira_mata",
+        "created_at": "2026-10-25T13:05:00+00:00",
+        "permalink": "https://nitter.netbub.com/jandira_mata/status/2114342709389406626#m",
+        "metrics": {
+          "like_count": 136,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 174,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

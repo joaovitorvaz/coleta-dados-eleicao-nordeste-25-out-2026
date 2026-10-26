@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiana",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T12:11:36-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 7,
+      "comments": 0,
+      "records_total": 7,
+      "skipped_duplicate": 5
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114371761345073463",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114371761345073463",
+      "parent_post_id": null,
+      "thread_root_id": "2114371761345073463",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Eu já mete 13, diva",
+      "created_at": "2026-10-25T15:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114371761345073463#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114371761345073463",
+        "text": "Eu já mete 13, diva",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T15:01:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114371761345073463#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 19,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114367477194895468",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114367477194895468",
+      "parent_post_id": null,
+      "thread_root_id": "2114367477194895468",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Eu apertei o 13 tão forte e confirma, dali a liberdade a vidaaa",
+      "created_at": "2026-10-25T14:44:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367477194895468#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114367477194895468",
+        "text": "Eu apertei o 13 tão forte e confirma, dali a liberdade a vidaaa",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T14:44:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367477194895468#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114367207429771470",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114367207429771470",
+      "parent_post_id": null,
+      "thread_root_id": "2114367207429771470",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Até que fim o país,onde o povo sabe botar, né gado pra viver no cabresto...",
+      "created_at": "2026-10-25T14:43:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367207429771470#m",
+      "metrics": {
+        "like_count": 9,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114367207429771470",
+        "text": "Até que fim o país,onde o povo sabe botar, né gado pra viver no cabresto...",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T14:43:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114367207429771470#m",
+        "metrics": {
+          "like_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 75,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114366132467400808",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114366132467400808",
+      "parent_post_id": null,
+      "thread_root_id": "2114366132467400808",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Para não voltarmos a escravidão, votem lula, aqui a  gente não recebe em dólar, para trabalhar por hora...se liga porraaa.",
+      "created_at": "2026-10-25T14:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114366132467400808#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114366132467400808",
+        "text": "Para não voltarmos a escravidão, votem lula, aqui a  gente não recebe em dólar, para trabalhar por hora...se liga porraaa.",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T14:39:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114366132467400808#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114365127768125578",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114365127768125578",
+      "parent_post_id": null,
+      "thread_root_id": "2114365127768125578",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Eita povo que mora na Ásia, não fode com nosso Brasil, você quer ditadura? Quer colocar alguém no poder que tire tudo que nós foi conquistado....tem que votar Lula 13. Pela amor de Deus...quem é conservador a minoria sempre será a minoria...",
+      "created_at": "2026-10-25T14:35:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114365127768125578#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114365127768125578",
+        "text": "Eita povo que mora na Ásia, não fode com nosso Brasil, você quer ditadura? Quer colocar alguém no poder que tire tudo que nós foi conquistado....tem que votar Lula 13. Pela amor de Deus...quem é conservador a minoria sempre será a minoria...",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T14:35:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114365127768125578#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114354623343419584",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114354623343419584",
+      "parent_post_id": null,
+      "thread_root_id": "2114354623343419584",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Hoje estamos lutando contra o fascismo meu raio de Sol, mas passei só pra vê esse rosto lindo e ter mais força",
+      "created_at": "2026-10-25T13:53:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354623343419584#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114354623343419584",
+        "text": "Hoje estamos lutando contra o fascismo meu raio de Sol, mas passei só pra vê esse rosto lindo e ter mais força",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T13:53:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354623343419584#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 110,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114354368862450104",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114354368862450104",
+      "parent_post_id": null,
+      "thread_root_id": "2114354368862450104",
+      "author": {
+        "platform_id": null,
+        "display_name": "fenixbaiana",
+        "username": "fenixbaiana",
+        "profile_url": "https://x.com/fenixbaiana"
+      },
+      "text": "Bonequinha, o que será que vem por aí?",
+      "created_at": "2026-10-25T13:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T12:11:36-03:00",
+      "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354368862450104#m",
+      "metrics": {
+        "like_count": 6,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 5,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114354368862450104",
+        "text": "Bonequinha, o que será que vem por aí?",
+        "author_username": "fenixbaiana",
+        "author_name": "fenixbaiana",
+        "created_at": "2026-10-25T13:52:00+00:00",
+        "permalink": "https://nitter.netbub.com/fenixbaiana/status/2114354368862450104#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 38,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

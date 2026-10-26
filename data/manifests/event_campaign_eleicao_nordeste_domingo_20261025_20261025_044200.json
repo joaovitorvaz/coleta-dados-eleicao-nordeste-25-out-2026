@@ -1,0 +1,14 @@
+{
+  "event_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+  "event_type": "campaign_eleicao_nordeste_domingo_20261025",
+  "started_at": "2026-10-25T00:40:05-03:00",
+  "finished_at": "2026-10-25T04:42:00-03:00",
+  "status": "success",
+  "since": "2026-10-25",
+  "until": "2026-10-26",
+  "records_written": 19,
+  "records_skipped_duplicate": 7,
+  "json_files_written": 30,
+  "errors": [],
+  "twitee_trends": []
+}

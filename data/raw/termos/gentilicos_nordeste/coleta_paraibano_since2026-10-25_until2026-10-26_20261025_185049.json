@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "paraibano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T18:50:49-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 1,
+      "comments": 0,
+      "records_total": 1,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114409265804767390",
+            "text": "Deixem o Paraibano Votar, é golpe reduzir a frota de ônibus, a população pode não chegar a tempo de votar.",
+            "author_username": "Bandeira27Jose",
+            "author_name": "Bandeira27Jose",
+            "created_at": "2026-10-25T17:30:00+00:00",
+            "permalink": "https://nitter.meowing.monster/Bandeira27Jose/status/2114409265804767390#m",
+            "metrics": {
+              "like_count": 16,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114409265804767390",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114409265804767390",
+      "collected_at": "2026-10-25T18:50:49-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "paraibano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114409265804767390",
+        "text": "Deixem o Paraibano Votar, é golpe reduzir a frota de ônibus, a população pode não chegar a tempo de votar.",
+        "author_username": "Bandeira27Jose",
+        "author_name": "Bandeira27Jose",
+        "created_at": "2026-10-25T17:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Bandeira27Jose/status/2114409265804767390#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}

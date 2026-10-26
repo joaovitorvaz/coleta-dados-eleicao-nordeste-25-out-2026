@@ -1,0 +1,3466 @@
+{
+  "metadata": {
+    "term_group_id": "nordeste",
+    "query": "nordeste",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T21:52:58-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 52,
+      "comments": 0,
+      "records_total": 52,
+      "skipped_duplicate": 276
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114511515789283572",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511515789283572",
+      "parent_post_id": null,
+      "thread_root_id": "2114511515789283572",
+      "author": {
+        "platform_id": null,
+        "display_name": "RamonSportClube",
+        "username": "RamonSportClube",
+        "profile_url": "https://x.com/RamonSportClube"
+      },
+      "text": "De nada, Brasil.\n\nAssinado, Nordeste. (mais uma vez)",
+      "created_at": "2026-10-26T00:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/RamonSportClube/status/2114511515789283572#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511515789283572",
+        "text": "De nada, Brasil.\n\nAssinado, Nordeste. (mais uma vez)",
+        "author_username": "RamonSportClube",
+        "author_name": "RamonSportClube",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/RamonSportClube/status/2114511515789283572#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 52,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511488379678762",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511488379678762",
+      "parent_post_id": null,
+      "thread_root_id": "2114511488379678762",
+      "author": {
+        "platform_id": null,
+        "display_name": "joseniasnjunior",
+        "username": "joseniasnjunior",
+        "profile_url": "https://x.com/joseniasnjunior"
+      },
+      "text": "A Bahia não decepciona, meu nordeste não decepciona caralho",
+      "created_at": "2026-10-26T00:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/joseniasnjunior/status/2114511488379678762#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511488379678762",
+        "text": "A Bahia não decepciona, meu nordeste não decepciona caralho",
+        "author_username": "joseniasnjunior",
+        "author_name": "joseniasnjunior",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/joseniasnjunior/status/2114511488379678762#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 59,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511465889595433",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511465889595433",
+      "parent_post_id": null,
+      "thread_root_id": "2114511465889595433",
+      "author": {
+        "platform_id": null,
+        "display_name": "HiginoOliveiraf",
+        "username": "HiginoOliveiraf",
+        "profile_url": "https://x.com/HiginoOliveiraf"
+      },
+      "text": "Agora mais do que nunca precisamos discutir a possibilidade de existir um Brasil do sul+sudeste e um do Nordeste, veremos se eles sobrevivem sem nosso trabalho",
+      "created_at": "2026-10-26T00:16:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/HiginoOliveiraf/status/2114511465889595433#m",
+      "metrics": {
+        "like_count": 4,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511465889595433",
+        "text": "Agora mais do que nunca precisamos discutir a possibilidade de existir um Brasil do sul+sudeste e um do Nordeste, veremos se eles sobrevivem sem nosso trabalho",
+        "author_username": "HiginoOliveiraf",
+        "author_name": "HiginoOliveiraf",
+        "created_at": "2026-10-26T00:16:00+00:00",
+        "permalink": "https://nitter.netbub.com/HiginoOliveiraf/status/2114511465889595433#m",
+        "metrics": {
+          "like_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 159,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511321920147774",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511321920147774",
+      "parent_post_id": null,
+      "thread_root_id": "2114511321920147774",
+      "author": {
+        "platform_id": null,
+        "display_name": "RonyeliCarvalho",
+        "username": "RonyeliCarvalho",
+        "profile_url": "https://x.com/RonyeliCarvalho"
+      },
+      "text": "Aprende @nikolas_dm \nQuem manda no Brasil é o Nordeste e o Norte!",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/RonyeliCarvalho/status/2114511321920147774#m",
+      "metrics": {
+        "like_count": 7,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511321920147774",
+        "text": "Aprende @nikolas_dm \nQuem manda no Brasil é o Nordeste e o Norte!",
+        "author_username": "RonyeliCarvalho",
+        "author_name": "RonyeliCarvalho",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/RonyeliCarvalho/status/2114511321920147774#m",
+        "metrics": {
+          "like_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 65,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511294137090216",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511294137090216",
+      "parent_post_id": null,
+      "thread_root_id": "2114511294137090216",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kabulozocensura",
+        "username": "Kabulozocensura",
+        "profile_url": "https://x.com/Kabulozocensura"
+      },
+      "text": "Vai lá trouxa , vai lá passar as férias na desgraça do nordeste e ajudar a economia dos adestrados .\nEu a partir de hoje não dou nem água pra nordestino , não compro uma balinha desses comedores de ração 💩",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/Kabulozocensura/status/2114511294137090216#m",
+      "metrics": {
+        "like_count": 72,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 7
+      },
+      "matched_terms": [
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511294137090216",
+        "text": "Vai lá trouxa , vai lá passar as férias na desgraça do nordeste e ajudar a economia dos adestrados .\nEu a partir de hoje não dou nem água pra nordestino , não compro uma balinha desses comedores de ração 💩",
+        "author_username": "Kabulozocensura",
+        "author_name": "Kabulozocensura",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/Kabulozocensura/status/2114511294137090216#m",
+        "metrics": {
+          "like_count": 72,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 7
+        }
+      },
+      "normalized": {
+        "text_length": 205,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511275870826650",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511275870826650",
+      "parent_post_id": null,
+      "thread_root_id": "2114511275870826650",
+      "author": {
+        "platform_id": null,
+        "display_name": "p_zampirolli",
+        "username": "p_zampirolli",
+        "profile_url": "https://x.com/p_zampirolli"
+      },
+      "text": "MUITO OBRIGADO MEU DEUS\nMUITO OBRIGADO POVO BRASILEIRO\nMUITO OBRIGADO NORDESTE",
+      "created_at": "2026-10-26T00:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/p_zampirolli/status/2114511275870826650#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511275870826650",
+        "text": "MUITO OBRIGADO MEU DEUS\nMUITO OBRIGADO POVO BRASILEIRO\nMUITO OBRIGADO NORDESTE",
+        "author_username": "p_zampirolli",
+        "author_name": "p_zampirolli",
+        "created_at": "2026-10-26T00:15:00+00:00",
+        "permalink": "https://nitter.netbub.com/p_zampirolli/status/2114511275870826650#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 78,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114508445894545897",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508445894545897",
+      "parent_post_id": null,
+      "thread_root_id": "2114508445894545897",
+      "author": {
+        "platform_id": null,
+        "display_name": "walter05677843",
+        "username": "walter05677843",
+        "profile_url": "https://x.com/walter05677843"
+      },
+      "text": "Cara o nordeste salvando todos de uma desgraça",
+      "created_at": "2026-10-26T00:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/walter05677843/status/2114508445894545897#m",
+      "metrics": {
+        "like_count": 83,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114508445894545897",
+        "text": "Cara o nordeste salvando todos de uma desgraça",
+        "author_username": "walter05677843",
+        "author_name": "walter05677843",
+        "created_at": "2026-10-26T00:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/walter05677843/status/2114508445894545897#m",
+        "metrics": {
+          "like_count": 83,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 46,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114508433089089821",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114508433089089821",
+      "parent_post_id": null,
+      "thread_root_id": "2114508433089089821",
+      "author": {
+        "platform_id": null,
+        "display_name": "Luizca_Jr",
+        "username": "Luizca_Jr",
+        "profile_url": "https://x.com/Luizca_Jr"
+      },
+      "text": "Esta acontecendo...\n\nMinas Gerais, vcs são gigantes!!\n\nNordeste é foda!!!\n\nTchau verme!!",
+      "created_at": "2026-10-26T00:04:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/Luizca_Jr/status/2114508433089089821#m",
+      "metrics": {
+        "like_count": 56,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114508433089089821",
+        "text": "Esta acontecendo...\n\nMinas Gerais, vcs são gigantes!!\n\nNordeste é foda!!!\n\nTchau verme!!",
+        "author_username": "Luizca_Jr",
+        "author_name": "Luizca_Jr",
+        "created_at": "2026-10-26T00:04:00+00:00",
+        "permalink": "https://nitter.netbub.com/Luizca_Jr/status/2114508433089089821#m",
+        "metrics": {
+          "like_count": 56,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 88,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507776953090460",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507776953090460",
+      "parent_post_id": null,
+      "thread_root_id": "2114507776953090460",
+      "author": {
+        "platform_id": null,
+        "display_name": "miideixe",
+        "username": "miideixe",
+        "profile_url": "https://x.com/miideixe"
+      },
+      "text": "Nordeste novamente salvando o país",
+      "created_at": "2026-10-26T00:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/miideixe/status/2114507776953090460#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507776953090460",
+        "text": "Nordeste novamente salvando o país",
+        "author_username": "miideixe",
+        "author_name": "miideixe",
+        "created_at": "2026-10-26T00:01:00+00:00",
+        "permalink": "https://nitter.netbub.com/miideixe/status/2114507776953090460#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 34,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507641686745490",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507641686745490",
+      "parent_post_id": null,
+      "thread_root_id": "2114507641686745490",
+      "author": {
+        "platform_id": null,
+        "display_name": "poxarair",
+        "username": "poxarair",
+        "profile_url": "https://x.com/poxarair"
+      },
+      "text": "Que essa vitória de Lula desça rasgando a guela, que vocês engula toda a sua arrogância e prepotência.  Viva aos nossos idosos, viva aos povos originários, viva ao Norte, Nordeste e todos aqueles que lutaram pelo Brasil, por nossa democracia e soberania, até o fim.",
+      "created_at": "2026-10-26T00:01:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/poxarair/status/2114507641686745490#m",
+      "metrics": {
+        "like_count": 77,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507641686745490",
+        "text": "Que essa vitória de Lula desça rasgando a guela, que vocês engula toda a sua arrogância e prepotência.  Viva aos nossos idosos, viva aos povos originários, viva ao Norte, Nordeste e todos aqueles que lutaram pelo Brasil, por nossa democracia e soberania, até o fim.",
+        "author_username": "poxarair",
+        "author_name": "poxarair",
+        "created_at": "2026-10-26T00:01:00+00:00",
+        "permalink": "https://nitter.netbub.com/poxarair/status/2114507641686745490#m",
+        "metrics": {
+          "like_count": 77,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 265,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507384546824675",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507384546824675",
+      "parent_post_id": null,
+      "thread_root_id": "2114507384546824675",
+      "author": {
+        "platform_id": null,
+        "display_name": "MeConvertaEmPDF",
+        "username": "MeConvertaEmPDF",
+        "profile_url": "https://x.com/MeConvertaEmPDF"
+      },
+      "text": "Obrigado Nordeste \nObrigado São Paulo capital\nObrigado",
+      "created_at": "2026-10-26T00:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/MeConvertaEmPDF/status/2114507384546824675#m",
+      "metrics": {
+        "like_count": 68,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507384546824675",
+        "text": "Obrigado Nordeste \nObrigado São Paulo capital\nObrigado",
+        "author_username": "MeConvertaEmPDF",
+        "author_name": "MeConvertaEmPDF",
+        "created_at": "2026-10-26T00:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/MeConvertaEmPDF/status/2114507384546824675#m",
+        "metrics": {
+          "like_count": 68,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 54,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507372047528208",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507372047528208",
+      "parent_post_id": null,
+      "thread_root_id": "2114507372047528208",
+      "author": {
+        "platform_id": null,
+        "display_name": "walter05677843",
+        "username": "walter05677843",
+        "profile_url": "https://x.com/walter05677843"
+      },
+      "text": "Genteeee. Nos vamos conseguirrr. O nordeste é grandioso e vai carregar esse país nas costas",
+      "created_at": "2026-10-26T00:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/walter05677843/status/2114507372047528208#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507372047528208",
+        "text": "Genteeee. Nos vamos conseguirrr. O nordeste é grandioso e vai carregar esse país nas costas",
+        "author_username": "walter05677843",
+        "author_name": "walter05677843",
+        "created_at": "2026-10-26T00:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/walter05677843/status/2114507372047528208#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 91,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507360840339925",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507360840339925",
+      "parent_post_id": null,
+      "thread_root_id": "2114507360840339925",
+      "author": {
+        "platform_id": null,
+        "display_name": "umbigoderobo",
+        "username": "umbigoderobo",
+        "profile_url": "https://x.com/umbigoderobo"
+      },
+      "text": "Viva o nordeste também! 🥳",
+      "created_at": "2026-10-26T00:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/umbigoderobo/status/2114507360840339925#m",
+      "metrics": {
+        "like_count": 37,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507360840339925",
+        "text": "Viva o nordeste também! 🥳",
+        "author_username": "umbigoderobo",
+        "author_name": "umbigoderobo",
+        "created_at": "2026-10-26T00:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/umbigoderobo/status/2114507360840339925#m",
+        "metrics": {
+          "like_count": 37,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 25,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114507337369002424",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114507337369002424",
+      "parent_post_id": null,
+      "thread_root_id": "2114507337369002424",
+      "author": {
+        "platform_id": null,
+        "display_name": "carmen_floripa",
+        "username": "carmen_floripa",
+        "profile_url": "https://x.com/carmen_floripa"
+      },
+      "text": "Bora, Nordeste,  salvar o Brasil das garras dos nazifascistas⭐!",
+      "created_at": "2026-10-26T00:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.netbub.com/carmen_floripa/status/2114507337369002424#m",
+      "metrics": {
+        "like_count": 66,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114507337369002424",
+        "text": "Bora, Nordeste,  salvar o Brasil das garras dos nazifascistas⭐!",
+        "author_username": "carmen_floripa",
+        "author_name": "carmen_floripa",
+        "created_at": "2026-10-26T00:00:00+00:00",
+        "permalink": "https://nitter.netbub.com/carmen_floripa/status/2114507337369002424#m",
+        "metrics": {
+          "like_count": 66,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 63,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511843100119496",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511843100119496",
+      "parent_post_id": null,
+      "thread_root_id": "2114511843100119496",
+      "author": {
+        "platform_id": null,
+        "display_name": "AdrianoTomb",
+        "username": "AdrianoTomb",
+        "profile_url": "https://x.com/AdrianoTomb"
+      },
+      "text": "Agora é aquele momento que as cidades do nordeste vem abaixo.",
+      "created_at": "2026-10-26T00:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.meowing.monster/AdrianoTomb/status/2114511843100119496#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511843100119496",
+        "text": "Agora é aquele momento que as cidades do nordeste vem abaixo.",
+        "author_username": "AdrianoTomb",
+        "author_name": "AdrianoTomb",
+        "created_at": "2026-10-26T00:18:00+00:00",
+        "permalink": "https://nitter.meowing.monster/AdrianoTomb/status/2114511843100119496#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 61,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511748573143048",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511748573143048",
+      "parent_post_id": null,
+      "thread_root_id": "2114511748573143048",
+      "author": {
+        "platform_id": null,
+        "display_name": "NunesFluDC",
+        "username": "NunesFluDC",
+        "profile_url": "https://x.com/NunesFluDC"
+      },
+      "text": "Eu to na fila, ta fazendo a volta no nordeste já",
+      "created_at": "2026-10-26T00:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.meowing.monster/NunesFluDC/status/2114511748573143048#m",
+      "metrics": {
+        "like_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511748573143048",
+        "text": "Eu to na fila, ta fazendo a volta no nordeste já",
+        "author_username": "NunesFluDC",
+        "author_name": "NunesFluDC",
+        "created_at": "2026-10-26T00:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/NunesFluDC/status/2114511748573143048#m",
+        "metrics": {
+          "like_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 48,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515333687947386",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515333687947386",
+      "parent_post_id": null,
+      "thread_root_id": "2114515333687947386",
+      "author": {
+        "platform_id": null,
+        "display_name": "Vs_soueu",
+        "username": "Vs_soueu",
+        "profile_url": "https://x.com/Vs_soueu"
+      },
+      "text": "O povo pensa q o Nordeste é misera kk",
+      "created_at": "2026-10-26T00:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Vs_soueu/status/2114515333687947386#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515333687947386",
+        "text": "O povo pensa q o Nordeste é misera kk",
+        "author_username": "Vs_soueu",
+        "author_name": "Vs_soueu",
+        "created_at": "2026-10-26T00:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Vs_soueu/status/2114515333687947386#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 37,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515260853911625",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515260853911625",
+      "parent_post_id": null,
+      "thread_root_id": "2114515260853911625",
+      "author": {
+        "platform_id": null,
+        "display_name": "walter05677843",
+        "username": "walter05677843",
+        "profile_url": "https://x.com/walter05677843"
+      },
+      "text": "Cara o nordeste é foda",
+      "created_at": "2026-10-26T00:31:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/walter05677843/status/2114515260853911625#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515260853911625",
+        "text": "Cara o nordeste é foda",
+        "author_username": "walter05677843",
+        "author_name": "walter05677843",
+        "created_at": "2026-10-26T00:31:00+00:00",
+        "permalink": "https://nitter.mie.foundation/walter05677843/status/2114515260853911625#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 22,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514905785086238",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514905785086238",
+      "parent_post_id": null,
+      "thread_root_id": "2114514905785086238",
+      "author": {
+        "platform_id": null,
+        "display_name": "eorenanandrade",
+        "username": "eorenanandrade",
+        "profile_url": "https://x.com/eorenanandrade"
+      },
+      "text": "Respeita o nordeste 🗣️⭐❤️\n#Eleições2026 #LulaOMaiorDeTodos",
+      "created_at": "2026-10-26T00:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/eorenanandrade/status/2114514905785086238#m",
+      "metrics": {
+        "like_count": 99,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514905785086238",
+        "text": "Respeita o nordeste 🗣️⭐❤️\n#Eleições2026 #LulaOMaiorDeTodos",
+        "author_username": "eorenanandrade",
+        "author_name": "eorenanandrade",
+        "created_at": "2026-10-26T00:30:00+00:00",
+        "permalink": "https://nitter.mie.foundation/eorenanandrade/status/2114514905785086238#m",
+        "metrics": {
+          "like_count": 99,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514567485350323",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514567485350323",
+      "parent_post_id": null,
+      "thread_root_id": "2114514567485350323",
+      "author": {
+        "platform_id": null,
+        "display_name": "lokodobaheaBBMP",
+        "username": "lokodobaheaBBMP",
+        "profile_url": "https://x.com/lokodobaheaBBMP"
+      },
+      "text": "Seu cu, flemenguista otário. \nQuem manda em toda eleição é o NORDESTE",
+      "created_at": "2026-10-26T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/lokodobaheaBBMP/status/2114514567485350323#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514567485350323",
+        "text": "Seu cu, flemenguista otário. \nQuem manda em toda eleição é o NORDESTE",
+        "author_username": "lokodobaheaBBMP",
+        "author_name": "lokodobaheaBBMP",
+        "created_at": "2026-10-26T00:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/lokodobaheaBBMP/status/2114514567485350323#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 69,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514534488502403",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514534488502403",
+      "parent_post_id": null,
+      "thread_root_id": "2114514534488502403",
+      "author": {
+        "platform_id": null,
+        "display_name": "mateusachel",
+        "username": "mateusachel",
+        "profile_url": "https://x.com/mateusachel"
+      },
+      "text": "Nordeste vcs merecem se fuder",
+      "created_at": "2026-10-26T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/mateusachel/status/2114514534488502403#m",
+      "metrics": {
+        "like_count": 29,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514534488502403",
+        "text": "Nordeste vcs merecem se fuder",
+        "author_username": "mateusachel",
+        "author_name": "mateusachel",
+        "created_at": "2026-10-26T00:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mateusachel/status/2114514534488502403#m",
+        "metrics": {
+          "like_count": 29,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 29,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514482177175601",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514482177175601",
+      "parent_post_id": null,
+      "thread_root_id": "2114514482177175601",
+      "author": {
+        "platform_id": null,
+        "display_name": "oBeatous",
+        "username": "oBeatous",
+        "profile_url": "https://x.com/oBeatous"
+      },
+      "text": "Parabéns aos envolvidos que recebem migalhas de seus governantes a 20 anos.\n\nNordeste recebe mais bolsa família do que salário formal. \n\nEsse é o pai da pobreza em 20 anos.",
+      "created_at": "2026-10-26T00:28:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/oBeatous/status/2114514482177175601#m",
+      "metrics": {
+        "like_count": 10,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514482177175601",
+        "text": "Parabéns aos envolvidos que recebem migalhas de seus governantes a 20 anos.\n\nNordeste recebe mais bolsa família do que salário formal. \n\nEsse é o pai da pobreza em 20 anos.",
+        "author_username": "oBeatous",
+        "author_name": "oBeatous",
+        "created_at": "2026-10-26T00:28:00+00:00",
+        "permalink": "https://nitter.mie.foundation/oBeatous/status/2114514482177175601#m",
+        "metrics": {
+          "like_count": 10,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514329966088522",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514329966088522",
+      "parent_post_id": null,
+      "thread_root_id": "2114514329966088522",
+      "author": {
+        "platform_id": null,
+        "display_name": "JosimarRam32059",
+        "username": "JosimarRam32059",
+        "profile_url": "https://x.com/JosimarRam32059"
+      },
+      "text": "Aqui no Nordeste bandidos Bolsonaros não tem vez è Lula porra è Luli caralho.",
+      "created_at": "2026-10-26T00:27:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/JosimarRam32059/status/2114514329966088522#m",
+      "metrics": {
+        "like_count": 36,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514329966088522",
+        "text": "Aqui no Nordeste bandidos Bolsonaros não tem vez è Lula porra è Luli caralho.",
+        "author_username": "JosimarRam32059",
+        "author_name": "JosimarRam32059",
+        "created_at": "2026-10-26T00:27:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JosimarRam32059/status/2114514329966088522#m",
+        "metrics": {
+          "like_count": 36,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 77,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514069520634099",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514069520634099",
+      "parent_post_id": null,
+      "thread_root_id": "2114514069520634099",
+      "author": {
+        "platform_id": null,
+        "display_name": "gordindo086",
+        "username": "gordindo086",
+        "profile_url": "https://x.com/gordindo086"
+      },
+      "text": "Respeitem o velho, respeitem o Nordeste..., #lula #NordesteComLula13",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/gordindo086/status/2114514069520634099#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514069520634099",
+        "text": "Respeitem o velho, respeitem o Nordeste..., #lula #NordesteComLula13",
+        "author_username": "gordindo086",
+        "author_name": "gordindo086",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/gordindo086/status/2114514069520634099#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 68,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114514040365920598",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114514040365920598",
+      "parent_post_id": null,
+      "thread_root_id": "2114514040365920598",
+      "author": {
+        "platform_id": null,
+        "display_name": "RadarSul2",
+        "username": "RadarSul2",
+        "profile_url": "https://x.com/RadarSul2"
+      },
+      "text": "E a baixíssima abstenção no nordeste",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/RadarSul2/status/2114514040365920598#m",
+      "metrics": {
+        "like_count": 402,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114514040365920598",
+        "text": "E a baixíssima abstenção no nordeste",
+        "author_username": "RadarSul2",
+        "author_name": "RadarSul2",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/RadarSul2/status/2114514040365920598#m",
+        "metrics": {
+          "like_count": 402,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 36,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513869607457181",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513869607457181",
+      "parent_post_id": null,
+      "thread_root_id": "2114513869607457181",
+      "author": {
+        "platform_id": null,
+        "display_name": "badludssa",
+        "username": "badludssa",
+        "profile_url": "https://x.com/badludssa"
+      },
+      "text": "OBRIGADA POVO BRASILEIRO \nOBRIGADO NORDESTE \nOBRIGADA EXÉRCITO DO LULA\nOBRIGADO JANONES",
+      "created_at": "2026-10-26T00:26:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/badludssa/status/2114513869607457181#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513869607457181",
+        "text": "OBRIGADA POVO BRASILEIRO \nOBRIGADO NORDESTE \nOBRIGADA EXÉRCITO DO LULA\nOBRIGADO JANONES",
+        "author_username": "badludssa",
+        "author_name": "badludssa",
+        "created_at": "2026-10-26T00:26:00+00:00",
+        "permalink": "https://nitter.mie.foundation/badludssa/status/2114513869607457181#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 87,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513655727587813",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513655727587813",
+      "parent_post_id": null,
+      "thread_root_id": "2114513655727587813",
+      "author": {
+        "platform_id": null,
+        "display_name": "bauduccco",
+        "username": "bauduccco",
+        "profile_url": "https://x.com/bauduccco"
+      },
+      "text": "Dkdkdkkdkdkddk\n\nEspera teu chupetinha, vai se fuder seu merda, é tao grande no seu estado que conseguiu fazer ele perder em minas, vc é um ninguem, obrigado pelo teu vídeo no nordeste teu merda desgraçado \n\nKdkdkdkdkdkdkd\n\nLULA LULA",
+      "created_at": "2026-10-26T00:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/bauduccco/status/2114513655727587813#m",
+      "metrics": {
+        "like_count": 33,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513655727587813",
+        "text": "Dkdkdkkdkdkddk\n\nEspera teu chupetinha, vai se fuder seu merda, é tao grande no seu estado que conseguiu fazer ele perder em minas, vc é um ninguem, obrigado pelo teu vídeo no nordeste teu merda desgraçado \n\nKdkdkdkdkdkdkd\n\nLULA LULA",
+        "author_username": "bauduccco",
+        "author_name": "bauduccco",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/bauduccco/status/2114513655727587813#m",
+        "metrics": {
+          "like_count": 33,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 232,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513647037010236",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513647037010236",
+      "parent_post_id": null,
+      "thread_root_id": "2114513647037010236",
+      "author": {
+        "platform_id": null,
+        "display_name": "mafiadacamila",
+        "username": "mafiadacamila",
+        "profile_url": "https://x.com/mafiadacamila"
+      },
+      "text": "FOI POR VOCE MEU VELHO, FOI PELO NORDESTE, FOI PELA DEMOCRACIA CARALHOOOOOO #Lula13",
+      "created_at": "2026-10-26T00:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/mafiadacamila/status/2114513647037010236#m",
+      "metrics": {
+        "like_count": 90,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513647037010236",
+        "text": "FOI POR VOCE MEU VELHO, FOI PELO NORDESTE, FOI PELA DEMOCRACIA CARALHOOOOOO #Lula13",
+        "author_username": "mafiadacamila",
+        "author_name": "mafiadacamila",
+        "created_at": "2026-10-26T00:25:00+00:00",
+        "permalink": "https://nitter.mie.foundation/mafiadacamila/status/2114513647037010236#m",
+        "metrics": {
+          "like_count": 90,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 83,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513315455996381",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513315455996381",
+      "parent_post_id": null,
+      "thread_root_id": "2114513315455996381",
+      "author": {
+        "platform_id": null,
+        "display_name": "stevanandrade",
+        "username": "stevanandrade",
+        "profile_url": "https://x.com/stevanandrade"
+      },
+      "text": "Que fique claro que o NORDESTE não se dobra aos interesses dos EUA e que o país tem que respeitar o NORDESTE!",
+      "created_at": "2026-10-26T00:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/stevanandrade/status/2114513315455996381#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513315455996381",
+        "text": "Que fique claro que o NORDESTE não se dobra aos interesses dos EUA e que o país tem que respeitar o NORDESTE!",
+        "author_username": "stevanandrade",
+        "author_name": "stevanandrade",
+        "created_at": "2026-10-26T00:23:00+00:00",
+        "permalink": "https://nitter.mie.foundation/stevanandrade/status/2114513315455996381#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 109,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513099180904673",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513099180904673",
+      "parent_post_id": null,
+      "thread_root_id": "2114513099180904673",
+      "author": {
+        "platform_id": null,
+        "display_name": "JoaoFiguer",
+        "username": "JoaoFiguer",
+        "profile_url": "https://x.com/JoaoFiguer"
+      },
+      "text": "O Nordeste salvando o Brasil mais uma vez! O nome disso é consciência histórica. \n#Eleições2026",
+      "created_at": "2026-10-26T00:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/JoaoFiguer/status/2114513099180904673#m",
+      "metrics": {
+        "like_count": 400,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 9
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513099180904673",
+        "text": "O Nordeste salvando o Brasil mais uma vez! O nome disso é consciência histórica. \n#Eleições2026",
+        "author_username": "JoaoFiguer",
+        "author_name": "JoaoFiguer",
+        "created_at": "2026-10-26T00:23:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JoaoFiguer/status/2114513099180904673#m",
+        "metrics": {
+          "like_count": 400,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 9
+        }
+      },
+      "normalized": {
+        "text_length": 95,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114513014648951003",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114513014648951003",
+      "parent_post_id": null,
+      "thread_root_id": "2114513014648951003",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114513014648951003#m",
+      "metrics": {
+        "like_count": 260,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114513014648951003",
+        "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:22:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114513014648951003#m",
+        "metrics": {
+          "like_count": 260,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512973628903833",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512973628903833",
+      "parent_post_id": null,
+      "thread_root_id": "2114512973628903833",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "Chupa Bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114512973628903833#m",
+      "metrics": {
+        "like_count": 211,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512973628903833",
+        "text": "Chupa Bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:22:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114512973628903833#m",
+        "metrics": {
+          "like_count": 211,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512923141816721",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512923141816721",
+      "parent_post_id": null,
+      "thread_root_id": "2114512923141816721",
+      "author": {
+        "platform_id": null,
+        "display_name": "beta_pinheiro",
+        "username": "beta_pinheiro",
+        "profile_url": "https://x.com/beta_pinheiro"
+      },
+      "text": "RESPEITA O MEU NORDESTE PORRA\n\nRESPEITA CARALHO",
+      "created_at": "2026-10-26T00:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/beta_pinheiro/status/2114512923141816721#m",
+      "metrics": {
+        "like_count": 20,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512923141816721",
+        "text": "RESPEITA O MEU NORDESTE PORRA\n\nRESPEITA CARALHO",
+        "author_username": "beta_pinheiro",
+        "author_name": "beta_pinheiro",
+        "created_at": "2026-10-26T00:22:00+00:00",
+        "permalink": "https://nitter.mie.foundation/beta_pinheiro/status/2114512923141816721#m",
+        "metrics": {
+          "like_count": 20,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 47,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512886387089485",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512886387089485",
+      "parent_post_id": null,
+      "thread_root_id": "2114512886387089485",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "Chupa bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:22:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114512886387089485#m",
+      "metrics": {
+        "like_count": 269,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 3
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512886387089485",
+        "text": "Chupa bolsonaro\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:22:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114512886387089485#m",
+        "metrics": {
+          "like_count": 269,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 3
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512824189812900",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512824189812900",
+      "parent_post_id": null,
+      "thread_root_id": "2114512824189812900",
+      "author": {
+        "platform_id": null,
+        "display_name": "_sccpju",
+        "username": "_sccpju",
+        "profile_url": "https://x.com/_sccpju"
+      },
+      "text": "QUANDO INVOCAMOS O NORDESTE, CLASSE TRABALHADORA E ESTUDANTES NÃO DÁ PRA NENHUM FASCISTA MILICIANO",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/_sccpju/status/2114512824189812900#m",
+      "metrics": {
+        "like_count": 40,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512824189812900",
+        "text": "QUANDO INVOCAMOS O NORDESTE, CLASSE TRABALHADORA E ESTUDANTES NÃO DÁ PRA NENHUM FASCISTA MILICIANO",
+        "author_username": "_sccpju",
+        "author_name": "_sccpju",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/_sccpju/status/2114512824189812900#m",
+        "metrics": {
+          "like_count": 40,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 98,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512692039807035",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512692039807035",
+      "parent_post_id": null,
+      "thread_root_id": "2114512692039807035",
+      "author": {
+        "platform_id": null,
+        "display_name": "Juliano23053827",
+        "username": "Juliano23053827",
+        "profile_url": "https://x.com/Juliano23053827"
+      },
+      "text": "Irmão como Nordestino não tem nada haver isso ,eles só usam nosso nordeste para dá um ar de legalidade na fraude que eles promove desde da última eleição",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Juliano23053827/status/2114512692039807035#m",
+      "metrics": {
+        "like_count": 35,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "eleição",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512692039807035",
+        "text": "Irmão como Nordestino não tem nada haver isso ,eles só usam nosso nordeste para dá um ar de legalidade na fraude que eles promove desde da última eleição",
+        "author_username": "Juliano23053827",
+        "author_name": "Juliano23053827",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Juliano23053827/status/2114512692039807035#m",
+        "metrics": {
+          "like_count": 35,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 153,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512672162975853",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512672162975853",
+      "parent_post_id": null,
+      "thread_root_id": "2114512672162975853",
+      "author": {
+        "platform_id": null,
+        "display_name": "Andersalizando",
+        "username": "Andersalizando",
+        "profile_url": "https://x.com/Andersalizando"
+      },
+      "text": "ESPERA AÍ PORRA! VAI FAZER MAIS VÍDEO DO NORDESTE NOJENTO!",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Andersalizando/status/2114512672162975853#m",
+      "metrics": {
+        "like_count": 21,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512672162975853",
+        "text": "ESPERA AÍ PORRA! VAI FAZER MAIS VÍDEO DO NORDESTE NOJENTO!",
+        "author_username": "Andersalizando",
+        "author_name": "Andersalizando",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Andersalizando/status/2114512672162975853#m",
+        "metrics": {
+          "like_count": 21,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 58,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512601686106201",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512601686106201",
+      "parent_post_id": null,
+      "thread_root_id": "2114512601686106201",
+      "author": {
+        "platform_id": null,
+        "display_name": "JordoFerre92762",
+        "username": "JordoFerre92762",
+        "profile_url": "https://x.com/JordoFerre92762"
+      },
+      "text": "Falam muito do nordeste mas a minha MG é uma vergonha. Povo burro!",
+      "created_at": "2026-10-26T00:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/JordoFerre92762/status/2114512601686106201#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512601686106201",
+        "text": "Falam muito do nordeste mas a minha MG é uma vergonha. Povo burro!",
+        "author_username": "JordoFerre92762",
+        "author_name": "JordoFerre92762",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.mie.foundation/JordoFerre92762/status/2114512601686106201#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 66,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512437382635751",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512437382635751",
+      "parent_post_id": null,
+      "thread_root_id": "2114512437382635751",
+      "author": {
+        "platform_id": null,
+        "display_name": "Viitormello",
+        "username": "Viitormello",
+        "profile_url": "https://x.com/Viitormello"
+      },
+      "text": "\"Lá no nordeste eles vão ver o que é inferno!\" - Lula",
+      "created_at": "2026-10-26T00:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Viitormello/status/2114512437382635751#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512437382635751",
+        "text": "\"Lá no nordeste eles vão ver o que é inferno!\" - Lula",
+        "author_username": "Viitormello",
+        "author_name": "Viitormello",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Viitormello/status/2114512437382635751#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 53,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512391689945575",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512391689945575",
+      "parent_post_id": null,
+      "thread_root_id": "2114512391689945575",
+      "author": {
+        "platform_id": null,
+        "display_name": "ooliversp",
+        "username": "ooliversp",
+        "profile_url": "https://x.com/ooliversp"
+      },
+      "text": "RESPEITA O NORDESTE CARALHO",
+      "created_at": "2026-10-26T00:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/ooliversp/status/2114512391689945575#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512391689945575",
+        "text": "RESPEITA O NORDESTE CARALHO",
+        "author_username": "ooliversp",
+        "author_name": "ooliversp",
+        "created_at": "2026-10-26T00:20:00+00:00",
+        "permalink": "https://nitter.mie.foundation/ooliversp/status/2114512391689945575#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 27,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512226845397055",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512226845397055",
+      "parent_post_id": null,
+      "thread_root_id": "2114512226845397055",
+      "author": {
+        "platform_id": null,
+        "display_name": "FellipeFranklin",
+        "username": "FellipeFranklin",
+        "profile_url": "https://x.com/FellipeFranklin"
+      },
+      "text": "CHEGUEI COM O NORDESTE!!!!!\n\nVIVA A FORÇA DO POVO!!!!",
+      "created_at": "2026-10-26T00:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/FellipeFranklin/status/2114512226845397055#m",
+      "metrics": {
+        "like_count": 215,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "quote_count": 20
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512226845397055",
+        "text": "CHEGUEI COM O NORDESTE!!!!!\n\nVIVA A FORÇA DO POVO!!!!",
+        "author_username": "FellipeFranklin",
+        "author_name": "FellipeFranklin",
+        "created_at": "2026-10-26T00:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/FellipeFranklin/status/2114512226845397055#m",
+        "metrics": {
+          "like_count": 215,
+          "reply_count": 0,
+          "retweet_count": 1,
+          "quote_count": 20
+        }
+      },
+      "normalized": {
+        "text_length": 53,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114512126710530370",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512126710530370",
+      "parent_post_id": null,
+      "thread_root_id": "2114512126710530370",
+      "author": {
+        "platform_id": null,
+        "display_name": "GambaroSantos",
+        "username": "GambaroSantos",
+        "profile_url": "https://x.com/GambaroSantos"
+      },
+      "text": "O nordeste tem que ser desligado do Brasil !",
+      "created_at": "2026-10-26T00:19:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/GambaroSantos/status/2114512126710530370#m",
+      "metrics": {
+        "like_count": 48,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114512126710530370",
+        "text": "O nordeste tem que ser desligado do Brasil !",
+        "author_username": "GambaroSantos",
+        "author_name": "GambaroSantos",
+        "created_at": "2026-10-26T00:19:00+00:00",
+        "permalink": "https://nitter.mie.foundation/GambaroSantos/status/2114512126710530370#m",
+        "metrics": {
+          "like_count": 48,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 44,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114511989619757234",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114511989619757234",
+      "parent_post_id": null,
+      "thread_root_id": "2114511989619757234",
+      "author": {
+        "platform_id": null,
+        "display_name": "Guui_Gs",
+        "username": "Guui_Gs",
+        "profile_url": "https://x.com/Guui_Gs"
+      },
+      "text": "NORDESTE, PARTE DA REGIÃO NORTE E ESPECIALMENTE MINAS GERAIS ESTÃO MARCADOS NA HISTÓRIA DA LUTA PELA DEMOCRACIA NO ANO DE 2026, JAMAIS ESQUECEREMOS SEUS ESFORÇOS",
+      "created_at": "2026-10-26T00:18:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Guui_Gs/status/2114511989619757234#m",
+      "metrics": {
+        "like_count": 61,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114511989619757234",
+        "text": "NORDESTE, PARTE DA REGIÃO NORTE E ESPECIALMENTE MINAS GERAIS ESTÃO MARCADOS NA HISTÓRIA DA LUTA PELA DEMOCRACIA NO ANO DE 2026, JAMAIS ESQUECEREMOS SEUS ESFORÇOS",
+        "author_username": "Guui_Gs",
+        "author_name": "Guui_Gs",
+        "created_at": "2026-10-26T00:18:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Guui_Gs/status/2114511989619757234#m",
+        "metrics": {
+          "like_count": 61,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 161,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114517388150362290",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114517388150362290",
+      "parent_post_id": null,
+      "thread_root_id": "2114517388150362290",
+      "author": {
+        "platform_id": null,
+        "display_name": "Bruno_FES",
+        "username": "Bruno_FES",
+        "profile_url": "https://x.com/Bruno_FES"
+      },
+      "text": "Obrigado nordeste...vocês carregam o Brasil nas costas....muito obrigado mesmo.",
+      "created_at": "2026-10-26T00:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Bruno_FES/status/2114517388150362290#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114517388150362290",
+        "text": "Obrigado nordeste...vocês carregam o Brasil nas costas....muito obrigado mesmo.",
+        "author_username": "Bruno_FES",
+        "author_name": "Bruno_FES",
+        "created_at": "2026-10-26T00:40:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Bruno_FES/status/2114517388150362290#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114517370022613317",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114517370022613317",
+      "parent_post_id": null,
+      "thread_root_id": "2114517370022613317",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:40:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114517370022613317#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114517370022613317",
+        "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:40:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114517370022613317#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 155,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114517183011168404",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114517183011168404",
+      "parent_post_id": null,
+      "thread_root_id": "2114517183011168404",
+      "author": {
+        "platform_id": null,
+        "display_name": "Jcm2022gru",
+        "username": "Jcm2022gru",
+        "profile_url": "https://x.com/Jcm2022gru"
+      },
+      "text": "Obrigado minas gerais, obrigado nordeste, obrigado Brasil",
+      "created_at": "2026-10-26T00:39:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Jcm2022gru/status/2114517183011168404#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114517183011168404",
+        "text": "Obrigado minas gerais, obrigado nordeste, obrigado Brasil",
+        "author_username": "Jcm2022gru",
+        "author_name": "Jcm2022gru",
+        "created_at": "2026-10-26T00:39:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Jcm2022gru/status/2114517183011168404#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 57,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114516062083400163",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114516062083400163",
+      "parent_post_id": null,
+      "thread_root_id": "2114516062083400163",
+      "author": {
+        "platform_id": null,
+        "display_name": "Milla_Hime",
+        "username": "Milla_Hime",
+        "profile_url": "https://x.com/Milla_Hime"
+      },
+      "text": "Alimente com pão aquele menino pobre do Nordeste, dê sandálias e roupas a ele. Ajude. Ele pode crescer e se tornar o presidente do seu país QUATRO VEZES ⭐️⭐️⭐️⭐️",
+      "created_at": "2026-10-26T00:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/Milla_Hime/status/2114516062083400163#m",
+      "metrics": {
+        "like_count": 15,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114516062083400163",
+        "text": "Alimente com pão aquele menino pobre do Nordeste, dê sandálias e roupas a ele. Ajude. Ele pode crescer e se tornar o presidente do seu país QUATRO VEZES ⭐️⭐️⭐️⭐️",
+        "author_username": "Milla_Hime",
+        "author_name": "Milla_Hime",
+        "created_at": "2026-10-26T00:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/Milla_Hime/status/2114516062083400163#m",
+        "metrics": {
+          "like_count": 15,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 161,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114516056710795355",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114516056710795355",
+      "parent_post_id": null,
+      "thread_root_id": "2114516056710795355",
+      "author": {
+        "platform_id": null,
+        "display_name": "hostsinrio",
+        "username": "hostsinrio",
+        "profile_url": "https://x.com/hostsinrio"
+      },
+      "text": "Tá comprovado que reduziram a frota de ônibus pra pobre não ir votar.   Gente suja, que joga baixo.  As empresas aéreas cancelaram voos pro Nordeste pra evitar que quem estivesse fora da base não conseguisse votar.  CHUPAAAAAA!!!",
+      "created_at": "2026-10-26T00:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/hostsinrio/status/2114516056710795355#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114516056710795355",
+        "text": "Tá comprovado que reduziram a frota de ônibus pra pobre não ir votar.   Gente suja, que joga baixo.  As empresas aéreas cancelaram voos pro Nordeste pra evitar que quem estivesse fora da base não conseguisse votar.  CHUPAAAAAA!!!",
+        "author_username": "hostsinrio",
+        "author_name": "hostsinrio",
+        "created_at": "2026-10-26T00:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/hostsinrio/status/2114516056710795355#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 229,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515952981389580",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515952981389580",
+      "parent_post_id": null,
+      "thread_root_id": "2114515952981389580",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "Chupa Fascista \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515952981389580#m",
+      "metrics": {
+        "like_count": 131,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515952981389580",
+        "text": "Chupa Fascista \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515952981389580#m",
+        "metrics": {
+          "like_count": 131,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 172,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515862296383621",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515862296383621",
+      "parent_post_id": null,
+      "thread_root_id": "2114515862296383621",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:34:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515862296383621#m",
+      "metrics": {
+        "like_count": 218,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515862296383621",
+        "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 \n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:34:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515862296383621#m",
+        "metrics": {
+          "like_count": 218,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 168,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515787146768869",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515787146768869",
+      "parent_post_id": null,
+      "thread_root_id": "2114515787146768869",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": "Lula L\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515787146768869#m",
+      "metrics": {
+        "like_count": 153,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515787146768869",
+        "text": "Lula L\n\n.\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515787146768869#m",
+        "metrics": {
+          "like_count": 153,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 163,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114515781757161712",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114515781757161712",
+      "parent_post_id": null,
+      "thread_root_id": "2114515781757161712",
+      "author": {
+        "platform_id": null,
+        "display_name": "chokko14071548",
+        "username": "chokko14071548",
+        "profile_url": "https://x.com/chokko14071548"
+      },
+      "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+      "created_at": "2026-10-26T00:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T21:52:58-03:00",
+      "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515781757161712#m",
+      "metrics": {
+        "like_count": 118,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Nordeste",
+        "bolsonaro"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordeste",
+        "term_group_id": "nordeste",
+        "term_label": "Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114515781757161712",
+        "text": ".\n#LulaReeleito \n#Eleições2026\nFILHO DO NORDESTE\nDE VIRADA É MAIS GOSTOSOO\nFIZEMOS HISTÓRIA\nvirada histórica\nSUDESTE\nO BEM VENCEU\nVAI TOMAR NO CU BOLSONARO",
+        "author_username": "chokko14071548",
+        "author_name": "chokko14071548",
+        "created_at": "2026-10-26T00:33:00+00:00",
+        "permalink": "https://nitter.mie.foundation/chokko14071548/status/2114515781757161712#m",
+        "metrics": {
+          "like_count": 118,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 155,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

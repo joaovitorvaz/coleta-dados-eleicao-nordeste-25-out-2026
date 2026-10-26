@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T20:16:22-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 8,
+      "comments": 0,
+      "records_total": 8,
+      "skipped_duplicate": 4
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114436926929293808",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114436926929293808",
+      "parent_post_id": null,
+      "thread_root_id": "2114436926929293808",
+      "author": {
+        "platform_id": null,
+        "display_name": "DivinoAlvesdeP1",
+        "username": "DivinoAlvesdeP1",
+        "profile_url": "https://x.com/DivinoAlvesdeP1"
+      },
+      "text": "DEIXA A DENÚNCIA DO ELEITOR EM CAMAÇARI NA BAHIA \n\nDenúncia com vídeo \nCadê o TRE baiano?\nELES PENSAM QUE LÁ É O PT MANDA",
+      "created_at": "2026-10-25T19:20:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114436926929293808#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114436926929293808",
+        "text": "DEIXA A DENÚNCIA DO ELEITOR EM CAMAÇARI NA BAHIA \n\nDenúncia com vídeo \nCadê o TRE baiano?\nELES PENSAM QUE LÁ É O PT MANDA",
+        "author_username": "DivinoAlvesdeP1",
+        "author_name": "DivinoAlvesdeP1",
+        "created_at": "2026-10-25T19:20:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114436926929293808#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 121,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114422144398414232",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114422144398414232",
+      "parent_post_id": null,
+      "thread_root_id": "2114422144398414232",
+      "author": {
+        "platform_id": null,
+        "display_name": "mpauloep",
+        "username": "mpauloep",
+        "profile_url": "https://x.com/mpauloep"
+      },
+      "text": "Eu? Um idiota, analfabeto, baiano, petista e puxa saco de famoso? Tô fora.",
+      "created_at": "2026-10-25T18:21:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/mpauloep/status/2114422144398414232#m",
+      "metrics": {
+        "like_count": 118,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114422144398414232",
+        "text": "Eu? Um idiota, analfabeto, baiano, petista e puxa saco de famoso? Tô fora.",
+        "author_username": "mpauloep",
+        "author_name": "mpauloep",
+        "created_at": "2026-10-25T18:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/mpauloep/status/2114422144398414232#m",
+        "metrics": {
+          "like_count": 118,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 74,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114419521549205570",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114419521549205570",
+      "parent_post_id": null,
+      "thread_root_id": "2114419521549205570",
+      "author": {
+        "platform_id": null,
+        "display_name": "DivinoAlvesdeP1",
+        "username": "DivinoAlvesdeP1",
+        "profile_url": "https://x.com/DivinoAlvesdeP1"
+      },
+      "text": "PT DA BAHIA \nJUNTAMENTE COM SINDICATO \nEncheram os ônibus de adesivo do Lula 13 \nE o que mais iria acontecer será \nE agora o presidente do TRE baiano manda prenderam o atual secretário de transporte \n\nEste é mais um retrato do PT \nDo governo do PT no Brasi\n FORA PT \nFora Lula \nVota em Flávio 22",
+      "created_at": "2026-10-25T18:11:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114419521549205570#m",
+      "metrics": {
+        "like_count": 129,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 4
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pt"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114419521549205570",
+        "text": "PT DA BAHIA \nJUNTAMENTE COM SINDICATO \nEncheram os ônibus de adesivo do Lula 13 \nE o que mais iria acontecer será \nE agora o presidente do TRE baiano manda prenderam o atual secretário de transporte \n\nEste é mais um retrato do PT \nDo governo do PT no Brasi\n FORA PT \nFora Lula \nVota em Flávio 22",
+        "author_username": "DivinoAlvesdeP1",
+        "author_name": "DivinoAlvesdeP1",
+        "created_at": "2026-10-25T18:11:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114419521549205570#m",
+        "metrics": {
+          "like_count": 129,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 4
+        }
+      },
+      "normalized": {
+        "text_length": 295,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114409109680165141",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114409109680165141",
+      "parent_post_id": null,
+      "thread_root_id": "2114409109680165141",
+      "author": {
+        "platform_id": null,
+        "display_name": "Kito1Kareca",
+        "username": "Kito1Kareca",
+        "profile_url": "https://x.com/Kito1Kareca"
+      },
+      "text": "Sou candomblecista sou baiano e voto 22 sou da direita nunca fui de esquerda...",
+      "created_at": "2026-10-25T17:29:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/Kito1Kareca/status/2114409109680165141#m",
+      "metrics": {
+        "like_count": 155,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 8
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "direita",
+        "esquerda"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114409109680165141",
+        "text": "Sou candomblecista sou baiano e voto 22 sou da direita nunca fui de esquerda...",
+        "author_username": "Kito1Kareca",
+        "author_name": "Kito1Kareca",
+        "created_at": "2026-10-25T17:29:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Kito1Kareca/status/2114409109680165141#m",
+        "metrics": {
+          "like_count": 155,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 8
+        }
+      },
+      "normalized": {
+        "text_length": 79,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114405578088890832",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114405578088890832",
+      "parent_post_id": null,
+      "thread_root_id": "2114405578088890832",
+      "author": {
+        "platform_id": null,
+        "display_name": "MidhyanL",
+        "username": "MidhyanL",
+        "profile_url": "https://x.com/MidhyanL"
+      },
+      "text": "O Peter Pan baiano, vulgo ACMaster, conhecerá a Terra do Nunca em 2028. Nunca mais mais ganhará em Salvador!",
+      "created_at": "2026-10-25T17:15:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/MidhyanL/status/2114405578088890832#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114405578088890832",
+        "text": "O Peter Pan baiano, vulgo ACMaster, conhecerá a Terra do Nunca em 2028. Nunca mais mais ganhará em Salvador!",
+        "author_username": "MidhyanL",
+        "author_name": "MidhyanL",
+        "created_at": "2026-10-25T17:15:00+00:00",
+        "permalink": "https://nitter.meowing.monster/MidhyanL/status/2114405578088890832#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 108,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114402131931173358",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114402131931173358",
+      "parent_post_id": null,
+      "thread_root_id": "2114402131931173358",
+      "author": {
+        "platform_id": null,
+        "display_name": "BoschettiS21593",
+        "username": "BoschettiS21593",
+        "profile_url": "https://x.com/BoschettiS21593"
+      },
+      "text": "Baiano vota onde, em Pernambuco? \nTodo mundo com um QI acima de 01, escolhe uma sessão eleitoral PERTO DE CASA, NÉ?",
+      "created_at": "2026-10-25T17:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/BoschettiS21593/status/2114402131931173358#m",
+      "metrics": {
+        "like_count": 214,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114402131931173358",
+        "text": "Baiano vota onde, em Pernambuco? \nTodo mundo com um QI acima de 01, escolhe uma sessão eleitoral PERTO DE CASA, NÉ?",
+        "author_username": "BoschettiS21593",
+        "author_name": "BoschettiS21593",
+        "created_at": "2026-10-25T17:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/BoschettiS21593/status/2114402131931173358#m",
+        "metrics": {
+          "like_count": 214,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 115,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114380791132172394",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114380791132172394",
+      "parent_post_id": null,
+      "thread_root_id": "2114380791132172394",
+      "author": {
+        "platform_id": null,
+        "display_name": "bichobichano",
+        "username": "bichobichano",
+        "profile_url": "https://x.com/bichobichano"
+      },
+      "text": "Não tô nem abrindo o Instagram de tão emocionado que estou. Cada postagem do nosso lado ou cada fala do nosso velhinho tá me fazendo chorar MT e tô no plantão cercado de zumbis bolsominions. \nQue dia difícil.",
+      "created_at": "2026-10-25T15:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.meowing.monster/bichobichano/status/2114380791132172394#m",
+      "metrics": {
+        "like_count": 28,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "pl"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114380791132172394",
+        "text": "Não tô nem abrindo o Instagram de tão emocionado que estou. Cada postagem do nosso lado ou cada fala do nosso velhinho tá me fazendo chorar MT e tô no plantão cercado de zumbis bolsominions. \nQue dia difícil.",
+        "author_username": "bichobichano",
+        "author_name": "bichobichano",
+        "created_at": "2026-10-25T15:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/bichobichano/status/2114380791132172394#m",
+        "metrics": {
+          "like_count": 28,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 208,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114487840478519615",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114487840478519615",
+      "parent_post_id": null,
+      "thread_root_id": "2114487840478519615",
+      "author": {
+        "platform_id": null,
+        "display_name": "EloNairo",
+        "username": "EloNairo",
+        "profile_url": "https://x.com/EloNairo"
+      },
+      "text": "É inacreditável isso, \nOlha não sou Bahia,sou baiano, Buliu com um, buliu comigo.\nNeymar foi desrespeitoso com meu estado.",
+      "created_at": "2026-10-25T22:42:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T20:16:22-03:00",
+      "permalink": "https://nitter.mie.foundation/EloNairo/status/2114487840478519615#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "baiano",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114487840478519615",
+        "text": "É inacreditável isso, \nOlha não sou Bahia,sou baiano, Buliu com um, buliu comigo.\nNeymar foi desrespeitoso com meu estado.",
+        "author_username": "EloNairo",
+        "author_name": "EloNairo",
+        "created_at": "2026-10-25T22:42:00+00:00",
+        "permalink": "https://nitter.mie.foundation/EloNairo/status/2114487840478519615#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 122,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

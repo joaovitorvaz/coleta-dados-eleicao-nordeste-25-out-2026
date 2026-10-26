@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "baiano",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "d86f0422-65bd-49bb-8050-b458a92521d6",
+    "collected_at": "2026-10-25T03:08:34-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 0,
+      "comments": 0,
+      "records_total": 0,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114176170165928068",
+            "text": "Até por conta do império do adversário, né? Mas, somos nós contra tudo: farinakimaz Trump, agro, grande mídia. \nÉ nosso veinho contra todo esse poder.",
+            "author_username": "bichobichano",
+            "author_name": "bichobichano",
+            "created_at": "2026-10-25T02:04:00+00:00",
+            "permalink": "https://nitter.netbub.com/bichobichano/status/2114176170165928068#m",
+            "metrics": {
+              "like_count": 190,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 1
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 5,
+          "instance_used": "https://nitter.netbub.com"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [],
+  "comments": []
+}

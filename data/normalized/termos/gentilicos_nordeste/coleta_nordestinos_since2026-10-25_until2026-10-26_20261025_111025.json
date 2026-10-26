@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestinos",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T11:10:25-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 1,
+      "comments": 1,
+      "records_total": 2,
+      "skipped_duplicate": 1
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114315339471216871",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114315339471216871",
+      "parent_post_id": null,
+      "thread_root_id": "2114315339471216871",
+      "author": {
+        "platform_id": null,
+        "display_name": "ScornOfDiana",
+        "username": "ScornOfDiana",
+        "profile_url": "https://x.com/ScornOfDiana"
+      },
+      "text": "Amg, todos os estados do Brasil têm muito preconceito contra os nordestinos, e eu realmente amaria que o Nordeste se tornasse um país independente. A gente tem potencial econômico, energia limpa, cabos submarinos que conectam nossa região à Europa e a outros continentes,",
+      "created_at": "2026-10-25T11:17:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T11:10:25-03:00",
+      "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114315339471216871#m",
+      "metrics": {
+        "like_count": 13,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114315339471216871",
+        "text": "Amg, todos os estados do Brasil têm muito preconceito contra os nordestinos, e eu realmente amaria que o Nordeste se tornasse um país independente. A gente tem potencial econômico, energia limpa, cabos submarinos que conectam nossa região à Europa e a outros continentes,",
+        "author_username": "ScornOfDiana",
+        "author_name": "ScornOfDiana",
+        "created_at": "2026-10-25T11:17:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114315339471216871#m",
+        "metrics": {
+          "like_count": 13,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 271,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "record_id": "twitter_x:comment:2114339896290611600",
+      "source": "twitter_x",
+      "record_type": "comment",
+      "comment_id": "2114339896290611600",
+      "post_id": "2114315339471216871",
+      "parent_comment_id": "2114315339471216871",
+      "thread_root_id": "2114315339471216871",
+      "depth": 1,
+      "author": {
+        "platform_id": null,
+        "display_name": "ScornOfDiana",
+        "username": "ScornOfDiana",
+        "profile_url": null
+      },
+      "text": "Pois é, espero q lula ganhe pra deixar esses conservagabundo espumando de raiva.",
+      "created_at": "2026-10-25T12:54:00+00:00",
+      "collected_at": "2026-10-25T11:10:25-03:00",
+      "parent_post_url": "https://nitter.meowing.monster/ScornOfDiana/status/2114339896290611600#m",
+      "metrics": {
+        "like_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestinos",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "children": [],
+      "raw_data": {
+        "id": "2114339896290611600",
+        "text": "Pois é, espero q lula ganhe pra deixar esses conservagabundo espumando de raiva.",
+        "author_username": "ScornOfDiana",
+        "author_name": "ScornOfDiana",
+        "created_at": "2026-10-25T12:54:00+00:00",
+        "permalink": "https://nitter.meowing.monster/ScornOfDiana/status/2114339896290611600#m",
+        "metrics": {
+          "like_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        },
+        "post_id": "2114315339471216871",
+        "parent_comment_id": "2114315339471216871",
+        "depth": 1
+      },
+      "normalized": {
+        "text_length": 80,
+        "depth": 1
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ]
+}

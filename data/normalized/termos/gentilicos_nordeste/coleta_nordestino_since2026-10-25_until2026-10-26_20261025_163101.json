@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestino",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T16:31:01-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 5,
+      "comments": 0,
+      "records_total": 5,
+      "skipped_duplicate": 6
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114414872217681940",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114414872217681940",
+      "parent_post_id": null,
+      "thread_root_id": "2114414872217681940",
+      "author": {
+        "platform_id": null,
+        "display_name": "Silviamae",
+        "username": "Silviamae",
+        "profile_url": "https://x.com/Silviamae"
+      },
+      "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+      "created_at": "2026-10-25T17:52:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+      "metrics": {
+        "like_count": 16,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114414872217681940",
+        "text": "Vai a pé, de carona, de jegue, mas o nordestino vai votar 1️⃣3️⃣ #BoraLula\n#DeixemONordesteVotar",
+        "author_username": "Silviamae",
+        "author_name": "Silviamae",
+        "created_at": "2026-10-25T17:52:00+00:00",
+        "permalink": "https://nitter.meowing.monster/Silviamae/status/2114414872217681940#m",
+        "metrics": {
+          "like_count": 16,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 96,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114401639821951241",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114401639821951241",
+      "parent_post_id": null,
+      "thread_root_id": "2114401639821951241",
+      "author": {
+        "platform_id": null,
+        "display_name": "PataxoThyara",
+        "username": "PataxoThyara",
+        "profile_url": "https://x.com/PataxoThyara"
+      },
+      "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+      "created_at": "2026-10-25T17:00:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+      "metrics": {
+        "like_count": 250,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "quote_count": 8
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114401639821951241",
+        "text": "No Nordeste fascista não se cria!\nO TRE-BA, acabou de decretar a prisão do secretário de mobilidade de Salvador por reduzir a frota de ônibus hoje na capital baiana.\nRespeitem o povo baiano! Respeitem o povo nordestino!\n#DeixemABahiaVotar",
+        "author_username": "PataxoThyara",
+        "author_name": "PataxoThyara",
+        "created_at": "2026-10-25T17:00:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PataxoThyara/status/2114401639821951241#m",
+        "metrics": {
+          "like_count": 250,
+          "reply_count": 0,
+          "retweet_count": 2,
+          "quote_count": 8
+        }
+      },
+      "normalized": {
+        "text_length": 238,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114395992456065094",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395992456065094",
+      "parent_post_id": null,
+      "thread_root_id": "2114395992456065094",
+      "author": {
+        "platform_id": null,
+        "display_name": "PsicoLeilaCosta",
+        "username": "PsicoLeilaCosta",
+        "profile_url": "https://x.com/PsicoLeilaCosta"
+      },
+      "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+      "created_at": "2026-10-25T16:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114395992456065094",
+        "text": "Ele é nordestino, Pernambucano, filho de psicóloga, neto de professora.  \nFascista aqui não se cria! \n#BoraLula #LulaPelaDemocracia \n#Lula13",
+        "author_username": "PsicoLeilaCosta",
+        "author_name": "PsicoLeilaCosta",
+        "created_at": "2026-10-25T16:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PsicoLeilaCosta/status/2114395992456065094#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 140,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114395008618868922",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114395008618868922",
+      "parent_post_id": null,
+      "thread_root_id": "2114395008618868922",
+      "author": {
+        "platform_id": null,
+        "display_name": "DivinoAlvesdeP1",
+        "username": "DivinoAlvesdeP1",
+        "profile_url": "https://x.com/DivinoAlvesdeP1"
+      },
+      "text": "ATÉ NA BAHIA? \nBahia era um reduto petista \nO nordeste brasileiro acordou \nEles tentaram calarem o povo nordestino mas não conseguia \nO povo nordestino irá votar Flávio 22",
+      "created_at": "2026-10-25T16:33:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114395008618868922#m",
+      "metrics": {
+        "like_count": 19,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114395008618868922",
+        "text": "ATÉ NA BAHIA? \nBahia era um reduto petista \nO nordeste brasileiro acordou \nEles tentaram calarem o povo nordestino mas não conseguia \nO povo nordestino irá votar Flávio 22",
+        "author_username": "DivinoAlvesdeP1",
+        "author_name": "DivinoAlvesdeP1",
+        "created_at": "2026-10-25T16:33:00+00:00",
+        "permalink": "https://nitter.meowing.monster/DivinoAlvesdeP1/status/2114395008618868922#m",
+        "metrics": {
+          "like_count": 19,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 171,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114380929187623065",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114380929187623065",
+      "parent_post_id": null,
+      "thread_root_id": "2114380929187623065",
+      "author": {
+        "platform_id": null,
+        "display_name": "gyelsew",
+        "username": "gyelsew",
+        "profile_url": "https://x.com/gyelsew"
+      },
+      "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+      "created_at": "2026-10-25T15:37:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:31:01-03:00",
+      "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+      "metrics": {
+        "like_count": 18,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste",
+        "nordestino"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestino",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 51,
+        "instance_used": "https://nitter.mie.foundation"
+      },
+      "raw_data": {
+        "id": "2114380929187623065",
+        "text": "fiz cuscuz de café da manhã em homenagem ao nosso velhinho nordestino @LulaOficial hoje",
+        "author_username": "gyelsew",
+        "author_name": "gyelsew",
+        "created_at": "2026-10-25T15:37:00+00:00",
+        "permalink": "https://nitter.meowing.monster/gyelsew/status/2114380929187623065#m",
+        "metrics": {
+          "like_count": 18,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 87,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+    "collected_at": "2026-10-25T10:50:41-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 3,
+      "comments": 0,
+      "records_total": 3,
+      "skipped_duplicate": 4
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114348955051999402",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114348955051999402",
+      "parent_post_id": null,
+      "thread_root_id": "2114348955051999402",
+      "author": {
+        "platform_id": null,
+        "display_name": "sandracacto",
+        "username": "sandracacto",
+        "profile_url": "https://x.com/sandracacto"
+      },
+      "text": "Eu nunca antes tive tanto orgulho de ser nordestina. Obrigada por tanto meu povo! \n#EuVotoFazendoL \n#EuVotoLula",
+      "created_at": "2026-10-25T13:30:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:50:41-03:00",
+      "permalink": "https://nitter.meowing.monster/sandracacto/status/2114348955051999402#m",
+      "metrics": {
+        "like_count": 5,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114348955051999402",
+        "text": "Eu nunca antes tive tanto orgulho de ser nordestina. Obrigada por tanto meu povo! \n#EuVotoFazendoL \n#EuVotoLula",
+        "author_username": "sandracacto",
+        "author_name": "sandracacto",
+        "created_at": "2026-10-25T13:30:00+00:00",
+        "permalink": "https://nitter.meowing.monster/sandracacto/status/2114348955051999402#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 111,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114347123789439101",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114347123789439101",
+      "parent_post_id": null,
+      "thread_root_id": "2114347123789439101",
+      "author": {
+        "platform_id": null,
+        "display_name": "FrancisDance21",
+        "username": "FrancisDance21",
+        "profile_url": "https://x.com/FrancisDance21"
+      },
+      "text": "Baiana, nordestina e mulher parda: com muito orgulho apertei 1️⃣3️⃣🚩🇧🇷 pelo  Lula @LulaOficial!\nOrgulho demais de fazer história junto com milhões de brasileiros. ❤️ de Baiano pra todo o Brasil!\n#EuVotoFazendoL #LulaPelaDemocracia #ExercitoDoLula",
+      "created_at": "2026-10-25T13:23:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:50:41-03:00",
+      "permalink": "https://nitter.meowing.monster/FrancisDance21/status/2114347123789439101#m",
+      "metrics": {
+        "like_count": 8,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114347123789439101",
+        "text": "Baiana, nordestina e mulher parda: com muito orgulho apertei 1️⃣3️⃣🚩🇧🇷 pelo  Lula @LulaOficial!\nOrgulho demais de fazer história junto com milhões de brasileiros. ❤️ de Baiano pra todo o Brasil!\n#EuVotoFazendoL #LulaPelaDemocracia #ExercitoDoLula",
+        "author_username": "FrancisDance21",
+        "author_name": "FrancisDance21",
+        "created_at": "2026-10-25T13:23:00+00:00",
+        "permalink": "https://nitter.meowing.monster/FrancisDance21/status/2114347123789439101#m",
+        "metrics": {
+          "like_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 246,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114341728245162092",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114341728245162092",
+      "parent_post_id": null,
+      "thread_root_id": "2114341728245162092",
+      "author": {
+        "platform_id": null,
+        "display_name": "PinaAdemir",
+        "username": "PinaAdemir",
+        "profile_url": "https://x.com/PinaAdemir"
+      },
+      "text": "❤️ Minha mãezinha, 80 anos, nordestina, negra, guerreira e meu maior orgulho! 🥹✊🏾\n\nMinha inspiração, que fez questão de ir votar no #LULA! \n\nQue orgulho dessa mulher! \n\nTe amo, mãe! ❤️\n\n#LulaVaiVencer1️⃣3️⃣\n#LulaPresidente2026\n#SegundoTurnoÉLULA\n@AndreJanonesMG @LulaOficial",
+      "created_at": "2026-10-25T13:02:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T10:50:41-03:00",
+      "permalink": "https://nitter.meowing.monster/PinaAdemir/status/2114341728245162092#m",
+      "metrics": {
+        "like_count": 11,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 4,
+        "instance_used": "https://nitter.meowing.monster"
+      },
+      "raw_data": {
+        "id": "2114341728245162092",
+        "text": "❤️ Minha mãezinha, 80 anos, nordestina, negra, guerreira e meu maior orgulho! 🥹✊🏾\n\nMinha inspiração, que fez questão de ir votar no #LULA! \n\nQue orgulho dessa mulher! \n\nTe amo, mãe! ❤️\n\n#LulaVaiVencer1️⃣3️⃣\n#LulaPresidente2026\n#SegundoTurnoÉLULA\n@AndreJanonesMG @LulaOficial",
+        "author_username": "PinaAdemir",
+        "author_name": "PinaAdemir",
+        "created_at": "2026-10-25T13:02:00+00:00",
+        "permalink": "https://nitter.meowing.monster/PinaAdemir/status/2114341728245162092#m",
+        "metrics": {
+          "like_count": 11,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 274,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "nordestina",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+    "collected_at": "2026-10-25T16:33:32-03:00",
+    "layer": "normalized",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 7
+    }
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:post:2114419257719095522",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114419257719095522",
+      "parent_post_id": null,
+      "thread_root_id": "2114419257719095522",
+      "author": {
+        "platform_id": null,
+        "display_name": "_edumaria_",
+        "username": "_edumaria_",
+        "profile_url": "https://x.com/_edumaria_"
+      },
+      "text": "isso é tão lindo, minha avó de 81 anos, nordestina também, teve um casamento e uma vida difícil com meu avô, porém nunca deixou de se posicionar e faz isso até hoje, inclusive fazendo questão de ir votar e virar voto das amigas dela 🥹1️⃣3️⃣⭐",
+      "created_at": "2026-10-25T18:10:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:33:32-03:00",
+      "permalink": "https://nitter.netbub.com/_edumaria_/status/2114419257719095522#m",
+      "metrics": {
+        "like_count": 12,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 1
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114419257719095522",
+        "text": "isso é tão lindo, minha avó de 81 anos, nordestina também, teve um casamento e uma vida difícil com meu avô, porém nunca deixou de se posicionar e faz isso até hoje, inclusive fazendo questão de ir votar e virar voto das amigas dela 🥹1️⃣3️⃣⭐",
+        "author_username": "_edumaria_",
+        "author_name": "_edumaria_",
+        "created_at": "2026-10-25T18:10:00+00:00",
+        "permalink": "https://nitter.netbub.com/_edumaria_/status/2114419257719095522#m",
+        "metrics": {
+          "like_count": 12,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 1
+        }
+      },
+      "normalized": {
+        "text_length": 241,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    },
+    {
+      "record_id": "twitter_x:post:2114377862396387725",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114377862396387725",
+      "parent_post_id": null,
+      "thread_root_id": "2114377862396387725",
+      "author": {
+        "platform_id": null,
+        "display_name": "nudesutrera",
+        "username": "nudesutrera",
+        "profile_url": "https://x.com/nudesutrera"
+      },
+      "text": "Desculpa, é que eu sou filha de nordestina, filha de doméstica, filha de mãe solo, moro em comunidade e sou professora. ⭐❤️",
+      "created_at": "2026-10-25T15:25:00+00:00",
+      "updated_at": null,
+      "collected_at": "2026-10-25T16:33:32-03:00",
+      "permalink": "https://nitter.netbub.com/nudesutrera/status/2114377862396387725#m",
+      "metrics": {
+        "like_count": 25,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "quote_count": 0
+      },
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "nordestina",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "ae30d0ba-6d29-42c8-be4a-2e67cedf7561",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "pagination": {
+        "pages_collected": 10,
+        "instance_used": "https://nitter.netbub.com"
+      },
+      "raw_data": {
+        "id": "2114377862396387725",
+        "text": "Desculpa, é que eu sou filha de nordestina, filha de doméstica, filha de mãe solo, moro em comunidade e sou professora. ⭐❤️",
+        "author_username": "nudesutrera",
+        "author_name": "nudesutrera",
+        "created_at": "2026-10-25T15:25:00+00:00",
+        "permalink": "https://nitter.netbub.com/nudesutrera/status/2114377862396387725#m",
+        "metrics": {
+          "like_count": 25,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      },
+      "normalized": {
+        "text_length": 123,
+        "has_media": false
+      },
+      "collection_status": "complete",
+      "limitations": [
+        "Coleta via Nitter não é API oficial da plataforma X.",
+        "Profundidade de respostas e paginação dependem da instância Nitter."
+      ]
+    }
+  ],
+  "comments": []
+}

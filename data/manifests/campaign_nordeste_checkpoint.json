@@ -1,0 +1,40 @@
+{
+  "name": "campaign_nordeste_checkpoint",
+  "campaign_start": "2026-10-25",
+  "last_successful_until": null,
+  "completed_windows": [],
+  "last_run_at": "2026-10-25T09:49:14-03:00",
+  "last_post_id": null,
+  "extra": {
+    "campaign_id": "eleicao_nordeste_domingo_20261025",
+    "last_cycle": {
+      "written": 76,
+      "duplicates": 115,
+      "errors": 0,
+      "json_files": 26,
+      "raw_json_files": 26,
+      "event": {
+        "event_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+        "event_type": "campaign_eleicao_nordeste_domingo_20261025",
+        "started_at": "2026-10-25T09:49:14-03:00",
+        "finished_at": "2026-10-25T15:43:51-03:00",
+        "status": "success",
+        "since": "2026-10-25",
+        "until": "2026-10-26",
+        "records_written": 76,
+        "records_skipped_duplicate": 115,
+        "json_files_written": 26,
+        "errors": [],
+        "twitee_trends": []
+      },
+      "run_id": "b4174dfd-f10d-4d3e-8b08-f2dd61efec30",
+      "twitee_trends": [],
+      "git_sync": {
+        "pushed": false,
+        "commit": null,
+        "files": 0
+      }
+    }
+  },
+  "saved_at": "2026-10-25T15:43:51"
+}
