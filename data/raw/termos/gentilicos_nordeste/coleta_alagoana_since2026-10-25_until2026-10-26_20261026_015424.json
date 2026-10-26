@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "term_group_id": "gentilicos_nordeste",
+    "query": "alagoana",
+    "since": "2026-10-25",
+    "until": "2026-10-26",
+    "source": "twitter_x",
+    "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+    "collected_at": "2026-10-26T01:54:24-03:00",
+    "layer": "raw",
+    "counts": {
+      "posts": 2,
+      "comments": 0,
+      "records_total": 2,
+      "skipped_duplicate": 0
+    },
+    "collector_pages": [
+      {
+        "posts": [
+          {
+            "id": "2114512640714346835",
+            "text": "BRILHOU CARALHOOOOO",
+            "author_username": "LaraLucilla",
+            "author_name": "LaraLucilla",
+            "created_at": "2026-10-26T00:21:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LaraLucilla/status/2114512640714346835#m",
+            "metrics": {
+              "like_count": 5,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          },
+          {
+            "id": "2114510637124472873",
+            "text": "FEZ HOSTORIA CARAIOOOOOOO",
+            "author_username": "LaraLucilla",
+            "author_name": "LaraLucilla",
+            "created_at": "2026-10-26T00:13:00+00:00",
+            "permalink": "https://nitter.meowing.monster/LaraLucilla/status/2114510637124472873#m",
+            "metrics": {
+              "like_count": 6,
+              "reply_count": 0,
+              "retweet_count": 0,
+              "quote_count": 0
+            }
+          }
+        ],
+        "comments": [],
+        "pagination": {
+          "pages_collected": 51,
+          "instance_used": "https://nitter.mie.foundation"
+        },
+        "limitations": [
+          "Coleta via Nitter não é API oficial da plataforma X.",
+          "Profundidade de respostas e paginação dependem da instância Nitter."
+        ]
+      }
+    ],
+    "campaign_id": "eleicao_nordeste_domingo_20261025"
+  },
+  "posts": [
+    {
+      "record_id": "twitter_x:raw:post:2114512640714346835",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114512640714346835",
+      "collected_at": "2026-10-26T01:54:24-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "alagoana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114512640714346835",
+        "text": "BRILHOU CARALHOOOOO",
+        "author_username": "LaraLucilla",
+        "author_name": "LaraLucilla",
+        "created_at": "2026-10-26T00:21:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LaraLucilla/status/2114512640714346835#m",
+        "metrics": {
+          "like_count": 5,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    },
+    {
+      "record_id": "twitter_x:raw:post:2114510637124472873",
+      "source": "twitter_x",
+      "record_type": "post",
+      "post_id": "2114510637124472873",
+      "collected_at": "2026-10-26T01:54:24-03:00",
+      "matched_terms": [
+        "Gentílicos — Nordeste"
+      ],
+      "discovery": {
+        "method": "keyword_search",
+        "query": "alagoana",
+        "term_group_id": "gentilicos_nordeste",
+        "term_label": "Gentílicos — Nordeste",
+        "run_id": "695d8345-1c16-48e0-9f4b-31eb9baad88c",
+        "locale": "pt-BR",
+        "region": "BR",
+        "search_language": "pt",
+        "search_place_country": "BR"
+      },
+      "collection_status": "complete",
+      "raw_data": {
+        "id": "2114510637124472873",
+        "text": "FEZ HOSTORIA CARAIOOOOOOO",
+        "author_username": "LaraLucilla",
+        "author_name": "LaraLucilla",
+        "created_at": "2026-10-26T00:13:00+00:00",
+        "permalink": "https://nitter.meowing.monster/LaraLucilla/status/2114510637124472873#m",
+        "metrics": {
+          "like_count": 6,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "quote_count": 0
+        }
+      }
+    }
+  ],
+  "comments": []
+}
